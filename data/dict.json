@@ -1,0 +1,31 @@
+[
+    {
+        "title": "スリザーリンク",
+        "names": ["スリザーリンク", "Slitherlink", "Fences", "スリリン"],
+        "editors": [
+            {
+                "name": "puzz.link",
+                "link": "https://puzz.link/p?slither"
+            },
+            {
+                "name": "ぱずぷれ",
+                "link": "http://pzv.jp/p.html?slither"
+            },
+            {
+                "name": "pzprRT",
+                "link": "https://semiexp.net/pzprrt/p.html?slither"
+            }
+        ]
+    },
+    {
+        "title": "Light and Shadow",
+        "names": ["ライトアンドシャドウ", "Light and Shadow", "ライシャ"],
+        "editors": [
+            {
+                "name": "puzz.link",
+                "link": "https://puzz.link/p?lightshadow"
+            }
+        ]
+    }
+
+]
