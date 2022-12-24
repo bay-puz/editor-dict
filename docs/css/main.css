@@ -22,9 +22,9 @@ a {
     text-decoration: underline;
 }
 
-input {
-    margin: 2em;
-    width: 15em;
+#searchText {
+    margin: 1em;
+    width: 16em;
     height: 2em;
     border-style: solid;
     border-radius: 0.5em;

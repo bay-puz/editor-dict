@@ -1,4 +1,4 @@
-document.getElementById("inputText").addEventListener("input", search)
+document.getElementById("searchText").addEventListener("input", search)
 
 var editorDict
 async function setDict() {
@@ -9,14 +9,15 @@ async function setDict() {
 }; setDict()
 
 function search() {
-    const searchStr = document.getElementById("inputText").value
+    const searchStr = document.getElementById("searchText").value
     if ( searchStr === "" ) {
         return
     }
+    const searchStart = document.getElementById("searchTypeStart").checked
     var resultElement = document.getElementById("result")
     resultElement.innerText = ""
     for (const puzzleData of editorDict) {
-        if ( searchPuzzleNames(searchStr, puzzleData.names) ) {
+        if ( searchPuzzleNames(searchStr, puzzleData.names, searchStart) ) {
             for (const editor of puzzleData.editors) {
                 const element = getEditorElement(puzzleData.title, editor)
                 resultElement.appendChild(element)
@@ -25,10 +26,11 @@ function search() {
     }
 }
 
-function searchPuzzleNames(str, nameList) {
+function searchPuzzleNames(str, nameList, isSearchStart) {
     const space = new RegExp(/\s/g)
     str = str.replaceAll(space, '')
-    const regex = new RegExp(str, "iy")
+    const stickyFlag =isSearchStart ? "y" : ""
+    const regex = new RegExp(str, "i" + stickyFlag)
     for (const name of nameList) {
         if ( regex.test(name.replaceAll(space, '')) ) {
             return true
