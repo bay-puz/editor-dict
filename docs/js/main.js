@@ -27,7 +27,7 @@ function search() {
 }
 
 function searchPuzzleNames(str, nameList, isSearchStart) {
-    const space = new RegExp(/\s/g)
+    const space = new RegExp(/[\s-_・]/g)
     str = str.replaceAll(space, '')
     const stickyFlag =isSearchStart ? "y" : ""
     const regex = new RegExp(str, "i" + stickyFlag)

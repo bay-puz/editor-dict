@@ -373,10 +373,11 @@
     ]
   },
   {
-    "title": null,
+    "title": "黒どこ",
     "names": [
-      null,
-      "Kurodoko"
+      "黒どこ",
+      "Kurodoko",
+      "黒マスはどこだ"
     ],
     "editors": [
       {
@@ -444,7 +445,8 @@
     "title": "∀人∃ＨＥＹＡ",
     "names": [
       "∀人∃ＨＥＹＡ",
-      "ekawayeh"
+      "ekawayeh",
+      "ぜんべや"
     ],
     "editors": [
       {
@@ -461,7 +463,9 @@
     "title": "スリザーリンク",
     "names": [
       "Slitherlink",
-      "スリザーリンク"
+      "スリザーリンク",
+      "スリリン",
+      "Fences"
     ],
     "editors": [
       {
@@ -563,13 +567,21 @@
     "title": "バッグ",
     "names": [
       "バッグ",
-      "Cave"
+      "Bag"
     ],
     "editors": [
       {
         "name": "ぱずぷれv3",
         "link": "http://pzv.jp/p.html?bag"
-      },
+      }
+    ]
+  },
+  {
+    "title": "Cave",
+    "names": [
+      "Cave"
+    ],
+    "editors": [
       {
         "name": "puzz.link",
         "link": "https://puzz.link/p?cave"
@@ -818,7 +830,8 @@
     "title": "ナンバーリンク",
     "names": [
       "Numberlink",
-      "ナンバーリンク"
+      "ナンバーリンク",
+      "ナンリン"
     ],
     "editors": [
       {
@@ -886,7 +899,8 @@
     "title": "橋をかけろ",
     "names": [
       "橋をかけろ",
-      "Hashiwokakero"
+      "Hashiwokakero",
+      "はしかけ"
     ],
     "editors": [
       {
@@ -920,7 +934,8 @@
     "title": "イチマガ",
     "names": [
       "イチマガ",
-      "Ichimaga"
+      "Ichimaga",
+      "一回曲がってこんにちは"
     ],
     "editors": [
       {
@@ -1430,7 +1445,9 @@
     "title": "カックロ",
     "names": [
       "カックロ",
-      "Kakuro"
+      "Kakuro",
+      "加算クロス",
+      "足し算クロス"
     ],
     "editors": [
       {
@@ -1582,7 +1599,11 @@
     "title": "数独",
     "names": [
       "Sudoku",
-      "数独"
+      "数独",
+      "数字は独身に限る",
+      "ナンバープレース",
+      "ナンプレ",
+      "Number Place"
     ],
     "editors": [
       {
@@ -1973,7 +1994,8 @@
     "title": "はこいり○△□",
     "names": [
       "Hakoiri-masashi",
-      "はこいり○△□"
+      "はこいり○△□",
+      "はこいりまさし"
     ],
     "editors": [
       {
@@ -2462,7 +2484,8 @@
   {
     "title": "Simple Loop",
     "names": [
-      "Simple Loop"
+      "Simple Loop",
+      "シンプルループ"
     ],
     "editors": [
       {
@@ -2698,7 +2721,8 @@
   {
     "title": "Compass",
     "names": [
-      "Compass"
+      "Compass",
+      "コンパス"
     ],
     "editors": [
       {
@@ -2846,7 +2870,8 @@
   {
     "title": "Doppelblock",
     "names": [
-      "Doppelblock"
+      "Doppelblock",
+      "ビトゥイーン・サム"
     ],
     "editors": [
       {
