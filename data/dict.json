@@ -1,31 +1,3074 @@
 [
-    {
-        "title": "スリザーリンク",
-        "names": ["スリザーリンク", "Slitherlink", "Fences", "スリリン"],
-        "editors": [
-            {
-                "name": "puzz.link",
-                "link": "https://puzz.link/p?slither"
-            },
-            {
-                "name": "ぱずぷれ",
-                "link": "http://pzv.jp/p.html?slither"
-            },
-            {
-                "name": "pzprRT",
-                "link": "https://semiexp.net/pzprrt/p.html?slither"
-            }
-        ]
-    },
-    {
-        "title": "Light and Shadow",
-        "names": ["ライトアンドシャドウ", "Light and Shadow", "ライシャ"],
-        "editors": [
-            {
-                "name": "puzz.link",
-                "link": "https://puzz.link/p?lightshadow"
-            }
-        ]
-    }
-
+  {
+    "title": "ぬりかべ",
+    "names": [
+      "Nurikabe",
+      "ぬりかべ"
+    ],
+    "editors": [
+      {
+        "name": "ぱずぷれv3",
+        "link": "http://pzv.jp/p.html?nurikabe"
+      },
+      {
+        "name": "puzz.link",
+        "link": "https://puzz.link/p?nurikabe"
+      }
+    ]
+  },
+  {
+    "title": "ボックス",
+    "names": [
+      "Box",
+      "ボックス"
+    ],
+    "editors": [
+      {
+        "name": "ぱずぷれv3",
+        "link": "http://pzv.jp/p.html?box"
+      },
+      {
+        "name": "puzz.link",
+        "link": "https://puzz.link/p?box"
+      }
+    ]
+  },
+  {
+    "title": "ぬりみさき",
+    "names": [
+      "Nurimisaki",
+      "ぬりみさき"
+    ],
+    "editors": [
+      {
+        "name": "ぱずぷれv3",
+        "link": "http://pzv.jp/p.html?nurimisaki"
+      },
+      {
+        "name": "puzz.link",
+        "link": "https://puzz.link/p?nurimisaki"
+      }
+    ]
+  },
+  {
+    "title": "クリーク",
+    "names": [
+      "Creek",
+      "クリーク"
+    ],
+    "editors": [
+      {
+        "name": "ぱずぷれv3",
+        "link": "http://pzv.jp/p.html?creek"
+      },
+      {
+        "name": "puzz.link",
+        "link": "https://puzz.link/p?creek"
+      }
+    ]
+  },
+  {
+    "title": "モチコロ",
+    "names": [
+      "Mochikoro",
+      "モチコロ"
+    ],
+    "editors": [
+      {
+        "name": "ぱずぷれv3",
+        "link": "http://pzv.jp/p.html?mochikoro"
+      },
+      {
+        "name": "puzz.link",
+        "link": "https://puzz.link/p?mochikoro"
+      }
+    ]
+  },
+  {
+    "title": "たすくえあ",
+    "names": [
+      "たすくえあ",
+      "Tasquare"
+    ],
+    "editors": [
+      {
+        "name": "ぱずぷれv3",
+        "link": "http://pzv.jp/p.html?tasquare"
+      },
+      {
+        "name": "puzz.link",
+        "link": "https://puzz.link/p?tasquare"
+      }
+    ]
+  },
+  {
+    "title": "クロット",
+    "names": [
+      "Kurotto",
+      "クロット"
+    ],
+    "editors": [
+      {
+        "name": "ぱずぷれv3",
+        "link": "http://pzv.jp/p.html?kurotto"
+      },
+      {
+        "name": "puzz.link",
+        "link": "https://puzz.link/p?kurotto"
+      }
+    ]
+  },
+  {
+    "title": "ぬりぼう",
+    "names": [
+      "ぬりぼう",
+      "Nuribou"
+    ],
+    "editors": [
+      {
+        "name": "ぱずぷれv3",
+        "link": "http://pzv.jp/p.html?nuribou"
+      },
+      {
+        "name": "puzz.link",
+        "link": "https://puzz.link/p?nuribou"
+      }
+    ]
+  },
+  {
+    "title": "たわむれんが",
+    "names": [
+      "たわむれんが",
+      "Tawamurenga"
+    ],
+    "editors": [
+      {
+        "name": "ぱずぷれv3",
+        "link": "http://pzv.jp/p.html?tawa"
+      },
+      {
+        "name": "puzz.link",
+        "link": "https://puzz.link/p?tawa"
+      }
+    ]
+  },
+  {
+    "title": "るっくえあ",
+    "names": [
+      "Look-Air",
+      "るっくえあ"
+    ],
+    "editors": [
+      {
+        "name": "ぱずぷれv3",
+        "link": "http://pzv.jp/p.html?lookair"
+      },
+      {
+        "name": "puzz.link",
+        "link": "https://puzz.link/p?lookair"
+      }
+    ]
+  },
+  {
+    "title": "モチにょろ",
+    "names": [
+      "Mochinyoro",
+      "モチにょろ"
+    ],
+    "editors": [
+      {
+        "name": "ぱずぷれv3",
+        "link": "http://pzv.jp/p.html?mochinyoro"
+      },
+      {
+        "name": "puzz.link",
+        "link": "https://puzz.link/p?mochinyoro"
+      }
+    ]
+  },
+  {
+    "title": "Tapa",
+    "names": [
+      "Tapa"
+    ],
+    "editors": [
+      {
+        "name": "ぱずぷれv3",
+        "link": "http://pzv.jp/p.html?tapa"
+      },
+      {
+        "name": "puzz.link",
+        "link": "https://puzz.link/p?tapa"
+      }
+    ]
+  },
+  {
+    "title": "タイルペイント",
+    "names": [
+      "タイルペイント",
+      "Tilepaint"
+    ],
+    "editors": [
+      {
+        "name": "ぱずぷれv3",
+        "link": "http://pzv.jp/p.html?tilepaint"
+      },
+      {
+        "name": "puzz.link",
+        "link": "https://puzz.link/p?tilepaint"
+      }
+    ]
+  },
+  {
+    "title": "のりのり",
+    "names": [
+      "Norinori",
+      "のりのり"
+    ],
+    "editors": [
+      {
+        "name": "ぱずぷれv3",
+        "link": "http://pzv.jp/p.html?norinori"
+      },
+      {
+        "name": "puzz.link",
+        "link": "https://puzz.link/p?norinori"
+      }
+    ]
+  },
+  {
+    "title": "ぬりめいず",
+    "names": [
+      "Nuri-Maze",
+      "ぬりめいず"
+    ],
+    "editors": [
+      {
+        "name": "ぱずぷれv3",
+        "link": "http://pzv.jp/p.html?nurimaze"
+      },
+      {
+        "name": "puzz.link",
+        "link": "https://puzz.link/p?nurimaze"
+      }
+    ]
+  },
+  {
+    "title": "ＬＩＴＳ",
+    "names": [
+      "LITS",
+      "ＬＩＴＳ"
+    ],
+    "editors": [
+      {
+        "name": "ぱずぷれv3",
+        "link": "http://pzv.jp/p.html?lits"
+      },
+      {
+        "name": "puzz.link",
+        "link": "https://puzz.link/p?lits"
+      }
+    ]
+  },
+  {
+    "title": "島国",
+    "names": [
+      "島国",
+      "Islands"
+    ],
+    "editors": [
+      {
+        "name": "ぱずぷれv3",
+        "link": "http://pzv.jp/p.html?shimaguni"
+      },
+      {
+        "name": "puzz.link",
+        "link": "https://puzz.link/p?shimaguni"
+      }
+    ]
+  },
+  {
+    "title": "ストストーン",
+    "names": [
+      "Stostone",
+      "ストストーン"
+    ],
+    "editors": [
+      {
+        "name": "ぱずぷれv3",
+        "link": "http://pzv.jp/p.html?stostone"
+      },
+      {
+        "name": "puzz.link",
+        "link": "https://puzz.link/p?stostone"
+      }
+    ]
+  },
+  {
+    "title": "ペイントエリア",
+    "names": [
+      "Paintarea",
+      "ペイントエリア"
+    ],
+    "editors": [
+      {
+        "name": "ぱずぷれv3",
+        "link": "http://pzv.jp/p.html?paintarea"
+      },
+      {
+        "name": "puzz.link",
+        "link": "https://puzz.link/p?paintarea"
+      }
+    ]
+  },
+  {
+    "title": "チョコナ",
+    "names": [
+      "チョコナ",
+      "Chocona"
+    ],
+    "editors": [
+      {
+        "name": "ぱずぷれv3",
+        "link": "http://pzv.jp/p.html?chocona"
+      },
+      {
+        "name": "puzz.link",
+        "link": "https://puzz.link/p?chocona"
+      }
+    ]
+  },
+  {
+    "title": "へやわけ",
+    "names": [
+      "へやわけ",
+      "Heyawake"
+    ],
+    "editors": [
+      {
+        "name": "ぱずぷれv3",
+        "link": "http://pzv.jp/p.html?heyawake"
+      },
+      {
+        "name": "puzz.link",
+        "link": "https://puzz.link/p?heyawake"
+      }
+    ]
+  },
+  {
+    "title": "ひとりにしてくれ",
+    "names": [
+      "ひとりにしてくれ",
+      "Hitori"
+    ],
+    "editors": [
+      {
+        "name": "ぱずぷれv3",
+        "link": "http://pzv.jp/p.html?hitori"
+      },
+      {
+        "name": "puzz.link",
+        "link": "https://puzz.link/p?hitori"
+      }
+    ]
+  },
+  {
+    "title": null,
+    "names": [
+      null,
+      "Kurodoko"
+    ],
+    "editors": [
+      {
+        "name": "ぱずぷれv3",
+        "link": "http://pzv.jp/p.html?kurodoko"
+      },
+      {
+        "name": "puzz.link",
+        "link": "https://puzz.link/p?kurodoko"
+      }
+    ]
+  },
+  {
+    "title": "ウソワン",
+    "names": [
+      "ウソワン",
+      "Uso-one"
+    ],
+    "editors": [
+      {
+        "name": "ぱずぷれv3",
+        "link": "http://pzv.jp/p.html?usoone"
+      },
+      {
+        "name": "puzz.link",
+        "link": "https://puzz.link/p?usoone"
+      }
+    ]
+  },
+  {
+    "title": "やじさんかずさん",
+    "names": [
+      "やじさんかずさん",
+      "Yajisan-Kazusan"
+    ],
+    "editors": [
+      {
+        "name": "ぱずぷれv3",
+        "link": "http://pzv.jp/p.html?yajikazu"
+      },
+      {
+        "name": "puzz.link",
+        "link": "https://puzz.link/p?yajikazu"
+      }
+    ]
+  },
+  {
+    "title": "クロシュート",
+    "names": [
+      "クロシュート",
+      "Kurochute"
+    ],
+    "editors": [
+      {
+        "name": "ぱずぷれv3",
+        "link": "http://pzv.jp/p.html?kurochute"
+      },
+      {
+        "name": "puzz.link",
+        "link": "https://puzz.link/p?kurochute"
+      }
+    ]
+  },
+  {
+    "title": "∀人∃ＨＥＹＡ",
+    "names": [
+      "∀人∃ＨＥＹＡ",
+      "ekawayeh"
+    ],
+    "editors": [
+      {
+        "name": "ぱずぷれv3",
+        "link": "http://pzv.jp/p.html?ayeheya"
+      },
+      {
+        "name": "puzz.link",
+        "link": "https://puzz.link/p?ayeheya"
+      }
+    ]
+  },
+  {
+    "title": "スリザーリンク",
+    "names": [
+      "Slitherlink",
+      "スリザーリンク"
+    ],
+    "editors": [
+      {
+        "name": "ぱずぷれv3",
+        "link": "http://pzv.jp/p.html?slither"
+      },
+      {
+        "name": "puzz.link",
+        "link": "https://puzz.link/p?slither"
+      }
+    ]
+  },
+  {
+    "title": "ましゅ",
+    "names": [
+      "Masyu",
+      "ましゅ"
+    ],
+    "editors": [
+      {
+        "name": "ぱずぷれv3",
+        "link": "http://pzv.jp/p.html?mashu"
+      },
+      {
+        "name": "puzz.link",
+        "link": "https://puzz.link/p?mashu"
+      }
+    ]
+  },
+  {
+    "title": "ヤジリン",
+    "names": [
+      "Yajilin",
+      "ヤジリン"
+    ],
+    "editors": [
+      {
+        "name": "ぱずぷれv3",
+        "link": "http://pzv.jp/p.html?yajirin"
+      },
+      {
+        "name": "puzz.link",
+        "link": "https://puzz.link/p?yajilin"
+      }
+    ]
+  },
+  {
+    "title": "スラローム",
+    "names": [
+      "スラローム",
+      "Slalom"
+    ],
+    "editors": [
+      {
+        "name": "ぱずぷれv3",
+        "link": "http://pzv.jp/p.html?slalom"
+      },
+      {
+        "name": "puzz.link",
+        "link": "https://puzz.link/p?slalom"
+      }
+    ]
+  },
+  {
+    "title": "流れるループ",
+    "names": [
+      "流れるループ",
+      "Nagareru-Loop"
+    ],
+    "editors": [
+      {
+        "name": "ぱずぷれv3",
+        "link": "http://pzv.jp/p.html?nagare"
+      },
+      {
+        "name": "puzz.link",
+        "link": "https://puzz.link/p?nagare"
+      }
+    ]
+  },
+  {
+    "title": "月か太陽",
+    "names": [
+      "Moon or Sun",
+      "月か太陽"
+    ],
+    "editors": [
+      {
+        "name": "ぱずぷれv3",
+        "link": "http://pzv.jp/p.html?moonsun"
+      },
+      {
+        "name": "puzz.link",
+        "link": "https://puzz.link/p?moonsun"
+      }
+    ]
+  },
+  {
+    "title": "バッグ",
+    "names": [
+      "バッグ",
+      "Cave"
+    ],
+    "editors": [
+      {
+        "name": "ぱずぷれv3",
+        "link": "http://pzv.jp/p.html?bag"
+      },
+      {
+        "name": "puzz.link",
+        "link": "https://puzz.link/p?cave"
+      }
+    ]
+  },
+  {
+    "title": "カントリーロード",
+    "names": [
+      "カントリーロード",
+      "Country Road"
+    ],
+    "editors": [
+      {
+        "name": "ぱずぷれv3",
+        "link": "http://pzv.jp/p.html?country"
+      },
+      {
+        "name": "puzz.link",
+        "link": "https://puzz.link/p?country"
+      }
+    ]
+  },
+  {
+    "title": "温泉めぐり",
+    "names": [
+      "温泉めぐり",
+      "Onsen-meguri"
+    ],
+    "editors": [
+      {
+        "name": "ぱずぷれv3",
+        "link": "http://pzv.jp/p.html?onsen"
+      },
+      {
+        "name": "puzz.link",
+        "link": "https://puzz.link/p?onsen"
+      }
+    ]
+  },
+  {
+    "title": "メジリンク",
+    "names": [
+      "メジリンク",
+      "Mejilink"
+    ],
+    "editors": [
+      {
+        "name": "ぱずぷれv3",
+        "link": "http://pzv.jp/p.html?mejilink"
+      },
+      {
+        "name": "puzz.link",
+        "link": "https://puzz.link/p?mejilink"
+      }
+    ]
+  },
+  {
+    "title": "リフレクトリンク",
+    "names": [
+      "Reflect Link",
+      "リフレクトリンク"
+    ],
+    "editors": [
+      {
+        "name": "ぱずぷれv3",
+        "link": "http://pzv.jp/p.html?reflect"
+      },
+      {
+        "name": "puzz.link",
+        "link": "https://puzz.link/p?reflect"
+      }
+    ]
+  },
+  {
+    "title": "パイプリンク",
+    "names": [
+      "パイプリンク",
+      "Pipelink"
+    ],
+    "editors": [
+      {
+        "name": "ぱずぷれv3",
+        "link": "http://pzv.jp/p.html?pipelink"
+      },
+      {
+        "name": "puzz.link",
+        "link": "https://puzz.link/p?pipelink"
+      }
+    ]
+  },
+  {
+    "title": "環状線スペシャル",
+    "names": [
+      "環状線スペシャル",
+      "Loop Special"
+    ],
+    "editors": [
+      {
+        "name": "ぱずぷれv3",
+        "link": "http://pzv.jp/p.html?loopsp"
+      },
+      {
+        "name": "puzz.link",
+        "link": "https://puzz.link/p?loopsp"
+      }
+    ]
+  },
+  {
+    "title": "なげなわ",
+    "names": [
+      "なげなわ",
+      "Nagenawa"
+    ],
+    "editors": [
+      {
+        "name": "ぱずぷれv3",
+        "link": "http://pzv.jp/p.html?nagenawa"
+      },
+      {
+        "name": "puzz.link",
+        "link": "https://puzz.link/p?nagenawa"
+      }
+    ]
+  },
+  {
+    "title": "交差は直角に限る",
+    "names": [
+      "交差は直角に限る",
+      "Kouchoku"
+    ],
+    "editors": [
+      {
+        "name": "ぱずぷれv3",
+        "link": "http://pzv.jp/p.html?kouchoku"
+      },
+      {
+        "name": "puzz.link",
+        "link": "https://puzz.link/p?kouchoku"
+      }
+    ]
+  },
+  {
+    "title": "リングリング",
+    "names": [
+      "リングリング",
+      "Ring-ring"
+    ],
+    "editors": [
+      {
+        "name": "ぱずぷれv3",
+        "link": "http://pzv.jp/p.html?ringring"
+      },
+      {
+        "name": "puzz.link",
+        "link": "https://puzz.link/p?ringring"
+      }
+    ]
+  },
+  {
+    "title": "アイスバーン",
+    "names": [
+      "Icebarn",
+      "アイスバーン"
+    ],
+    "editors": [
+      {
+        "name": "ぱずぷれv3",
+        "link": "http://pzv.jp/p.html?icebarn"
+      },
+      {
+        "name": "puzz.link",
+        "link": "https://puzz.link/p?icebarn"
+      }
+    ]
+  },
+  {
+    "title": "帰ってきたパイプリンク",
+    "names": [
+      "Pipelink Returns",
+      "帰ってきたパイプリンク"
+    ],
+    "editors": [
+      {
+        "name": "ぱずぷれv3",
+        "link": "http://pzv.jp/p.html?pipelinkr"
+      },
+      {
+        "name": "puzz.link",
+        "link": "https://puzz.link/p?pipelinkr"
+      }
+    ]
+  },
+  {
+    "title": "バーンズ",
+    "names": [
+      "Barns",
+      "バーンズ"
+    ],
+    "editors": [
+      {
+        "name": "ぱずぷれv3",
+        "link": "http://pzv.jp/p.html?barns"
+      },
+      {
+        "name": "puzz.link",
+        "link": "https://puzz.link/p?barns"
+      }
+    ]
+  },
+  {
+    "title": "アイスローム",
+    "names": [
+      "アイスローム",
+      "Icelom"
+    ],
+    "editors": [
+      {
+        "name": "ぱずぷれv3",
+        "link": "http://pzv.jp/p.html?icelom"
+      },
+      {
+        "name": "puzz.link",
+        "link": "https://puzz.link/p?icelom"
+      }
+    ]
+  },
+  {
+    "title": "アイスローム２",
+    "names": [
+      "アイスローム２",
+      "Icelom 2"
+    ],
+    "editors": [
+      {
+        "name": "ぱずぷれv3",
+        "link": "http://pzv.jp/p.html?icelom2"
+      },
+      {
+        "name": "puzz.link",
+        "link": "https://puzz.link/p?icelom2"
+      }
+    ]
+  },
+  {
+    "title": "ナンバーリンク",
+    "names": [
+      "Numberlink",
+      "ナンバーリンク"
+    ],
+    "editors": [
+      {
+        "name": "ぱずぷれv3",
+        "link": "http://pzv.jp/p.html?numlin"
+      },
+      {
+        "name": "puzz.link",
+        "link": "https://puzz.link/p?numlin"
+      }
+    ]
+  },
+  {
+    "title": "シロクロリンク",
+    "names": [
+      "シロクロリンク",
+      "Shirokuro-link"
+    ],
+    "editors": [
+      {
+        "name": "ぱずぷれv3",
+        "link": "http://pzv.jp/p.html?wblink"
+      },
+      {
+        "name": "puzz.link",
+        "link": "https://puzz.link/p?wblink"
+      }
+    ]
+  },
+  {
+    "title": "クサビリンク",
+    "names": [
+      "Kusabi",
+      "クサビリンク"
+    ],
+    "editors": [
+      {
+        "name": "ぱずぷれv3",
+        "link": "http://pzv.jp/p.html?kusabi"
+      },
+      {
+        "name": "puzz.link",
+        "link": "https://puzz.link/p?kusabi"
+      }
+    ]
+  },
+  {
+    "title": "アルコネ",
+    "names": [
+      "アルコネ",
+      "Arukone"
+    ],
+    "editors": [
+      {
+        "name": "ぱずぷれv3",
+        "link": "http://pzv.jp/p.html?arukone"
+      },
+      {
+        "name": "puzz.link",
+        "link": "https://puzz.link/p?arukone"
+      }
+    ]
+  },
+  {
+    "title": "橋をかけろ",
+    "names": [
+      "橋をかけろ",
+      "Hashiwokakero"
+    ],
+    "editors": [
+      {
+        "name": "ぱずぷれv3",
+        "link": "http://pzv.jp/p.html?hashikake"
+      },
+      {
+        "name": "puzz.link",
+        "link": "https://puzz.link/p?hashikake"
+      }
+    ]
+  },
+  {
+    "title": "ホタルビーム",
+    "names": [
+      "Hotaru Beam",
+      "ホタルビーム"
+    ],
+    "editors": [
+      {
+        "name": "ぱずぷれv3",
+        "link": "http://pzv.jp/p.html?firefly"
+      },
+      {
+        "name": "puzz.link",
+        "link": "https://puzz.link/p?firefly"
+      }
+    ]
+  },
+  {
+    "title": "イチマガ",
+    "names": [
+      "イチマガ",
+      "Ichimaga"
+    ],
+    "editors": [
+      {
+        "name": "ぱずぷれv3",
+        "link": "http://pzv.jp/p.html?ichimaga"
+      },
+      {
+        "name": "puzz.link",
+        "link": "https://puzz.link/p?ichimaga"
+      }
+    ]
+  },
+  {
+    "title": "磁石イチマガ",
+    "names": [
+      "磁石イチマガ",
+      "Magnetic Ichimaga"
+    ],
+    "editors": [
+      {
+        "name": "ぱずぷれv3",
+        "link": "http://pzv.jp/p.html?ichimagam"
+      },
+      {
+        "name": "puzz.link",
+        "link": "https://puzz.link/p?ichimagam"
+      }
+    ]
+  },
+  {
+    "title": "一回曲がって交差もするの",
+    "names": [
+      "Crossing Ichimaga",
+      "一回曲がって交差もするの"
+    ],
+    "editors": [
+      {
+        "name": "ぱずぷれv3",
+        "link": "http://pzv.jp/p.html?ichimagax"
+      },
+      {
+        "name": "puzz.link",
+        "link": "https://puzz.link/p?ichimagax"
+      }
+    ]
+  },
+  {
+    "title": "あみぼー",
+    "names": [
+      "Amibo",
+      "あみぼー"
+    ],
+    "editors": [
+      {
+        "name": "ぱずぷれv3",
+        "link": "http://pzv.jp/p.html?amibo"
+      },
+      {
+        "name": "puzz.link",
+        "link": "https://puzz.link/p?amibo"
+      }
+    ]
+  },
+  {
+    "title": "ヘルゴルフ",
+    "names": [
+      "Herugolf",
+      "ヘルゴルフ"
+    ],
+    "editors": [
+      {
+        "name": "ぱずぷれv3",
+        "link": "http://pzv.jp/p.html?herugolf"
+      },
+      {
+        "name": "puzz.link",
+        "link": "https://puzz.link/p?herugolf"
+      }
+    ]
+  },
+  {
+    "title": "お家に帰ろう",
+    "names": [
+      "Return Home",
+      "お家に帰ろう"
+    ],
+    "editors": [
+      {
+        "name": "ぱずぷれv3",
+        "link": "http://pzv.jp/p.html?kaero"
+      },
+      {
+        "name": "puzz.link",
+        "link": "https://puzz.link/p?kaero"
+      }
+    ]
+  },
+  {
+    "title": "よせなべ",
+    "names": [
+      "よせなべ",
+      "Yosenabe"
+    ],
+    "editors": [
+      {
+        "name": "ぱずぷれv3",
+        "link": "http://pzv.jp/p.html?yosenabe"
+      },
+      {
+        "name": "puzz.link",
+        "link": "https://puzz.link/p?yosenabe"
+      }
+    ]
+  },
+  {
+    "title": "ぐんたいあり",
+    "names": [
+      "Army Ants",
+      "ぐんたいあり"
+    ],
+    "editors": [
+      {
+        "name": "ぱずぷれv3",
+        "link": "http://pzv.jp/p.html?armyants"
+      },
+      {
+        "name": "puzz.link",
+        "link": "https://puzz.link/p?armyants"
+      }
+    ]
+  },
+  {
+    "title": "ぼんさん",
+    "names": [
+      "ぼんさん",
+      "Bonsan"
+    ],
+    "editors": [
+      {
+        "name": "ぱずぷれv3",
+        "link": "http://pzv.jp/p.html?bonsan"
+      },
+      {
+        "name": "puzz.link",
+        "link": "https://puzz.link/p?bonsan"
+      }
+    ]
+  },
+  {
+    "title": "へやぼん",
+    "names": [
+      "Heya-Bon",
+      "へやぼん"
+    ],
+    "editors": [
+      {
+        "name": "ぱずぷれv3",
+        "link": "http://pzv.jp/p.html?heyabon"
+      },
+      {
+        "name": "puzz.link",
+        "link": "https://puzz.link/p?heyabon"
+      }
+    ]
+  },
+  {
+    "title": "四角スライダー",
+    "names": [
+      "四角スライダー",
+      "Rectangle-Slider"
+    ],
+    "editors": [
+      {
+        "name": "ぱずぷれv3",
+        "link": "http://pzv.jp/p.html?rectslider"
+      },
+      {
+        "name": "puzz.link",
+        "link": "https://puzz.link/p?rectslider"
+      }
+    ]
+  },
+  {
+    "title": "さとがえり",
+    "names": [
+      "さとがえり",
+      "Satogaeri"
+    ],
+    "editors": [
+      {
+        "name": "ぱずぷれv3",
+        "link": "http://pzv.jp/p.html?sato"
+      },
+      {
+        "name": "puzz.link",
+        "link": "https://puzz.link/p?satogaeri"
+      }
+    ]
+  },
+  {
+    "title": "四角に切れ",
+    "names": [
+      "四角に切れ",
+      "Shikaku"
+    ],
+    "editors": [
+      {
+        "name": "ぱずぷれv3",
+        "link": "http://pzv.jp/p.html?shikaku"
+      },
+      {
+        "name": "puzz.link",
+        "link": "https://puzz.link/p?shikaku"
+      }
+    ]
+  },
+  {
+    "title": "ボーダーブロック",
+    "names": [
+      "Border Block",
+      "ボーダーブロック"
+    ],
+    "editors": [
+      {
+        "name": "ぱずぷれv3",
+        "link": "http://pzv.jp/p.html?bdblock"
+      },
+      {
+        "name": "puzz.link",
+        "link": "https://puzz.link/p?bdblock"
+      }
+    ]
+  },
+  {
+    "title": "ファイブセルズ",
+    "names": [
+      "ファイブセルズ",
+      "FiveCells"
+    ],
+    "editors": [
+      {
+        "name": "ぱずぷれv3",
+        "link": "http://pzv.jp/p.html?fivecells"
+      },
+      {
+        "name": "puzz.link",
+        "link": "https://puzz.link/p?fivecells"
+      }
+    ]
+  },
+  {
+    "title": "さしがね",
+    "names": [
+      "Sashigane",
+      "さしがね"
+    ],
+    "editors": [
+      {
+        "name": "ぱずぷれv3",
+        "link": "http://pzv.jp/p.html?sashigane"
+      },
+      {
+        "name": "puzz.link",
+        "link": "https://puzz.link/p?sashigane"
+      }
+    ]
+  },
+  {
+    "title": "なわばり",
+    "names": [
+      "Territory",
+      "なわばり"
+    ],
+    "editors": [
+      {
+        "name": "ぱずぷれv3",
+        "link": "http://pzv.jp/p.html?nawabari"
+      },
+      {
+        "name": "puzz.link",
+        "link": "https://puzz.link/p?nawabari"
+      }
+    ]
+  },
+  {
+    "title": "トリプレイス",
+    "names": [
+      "Tri-place",
+      "トリプレイス"
+    ],
+    "editors": [
+      {
+        "name": "ぱずぷれv3",
+        "link": "http://pzv.jp/p.html?triplace"
+      },
+      {
+        "name": "puzz.link",
+        "link": "https://puzz.link/p?triplace"
+      }
+    ]
+  },
+  {
+    "title": "フォーセルズ",
+    "names": [
+      "フォーセルズ",
+      "FourCells"
+    ],
+    "editors": [
+      {
+        "name": "ぱずぷれv3",
+        "link": "http://pzv.jp/p.html?fourcells"
+      },
+      {
+        "name": "puzz.link",
+        "link": "https://puzz.link/p?fourcells"
+      }
+    ]
+  },
+  {
+    "title": "アホになり切れ",
+    "names": [
+      "Aho-ni-Narikire",
+      "アホになり切れ"
+    ],
+    "editors": [
+      {
+        "name": "ぱずぷれv3",
+        "link": "http://pzv.jp/p.html?aho"
+      },
+      {
+        "name": "puzz.link",
+        "link": "https://puzz.link/p?aho"
+      }
+    ]
+  },
+  {
+    "title": "天体ショー",
+    "names": [
+      "天体ショー",
+      "Tentaisho"
+    ],
+    "editors": [
+      {
+        "name": "ぱずぷれv3",
+        "link": "http://pzv.jp/p.html?tentaisho"
+      },
+      {
+        "name": "puzz.link",
+        "link": "https://puzz.link/p?tentaisho"
+      }
+    ]
+  },
+  {
+    "title": "快刀乱麻",
+    "names": [
+      "KaitoRamma",
+      "快刀乱麻"
+    ],
+    "editors": [
+      {
+        "name": "ぱずぷれv3",
+        "link": "http://pzv.jp/p.html?kramma"
+      },
+      {
+        "name": "puzz.link",
+        "link": "https://puzz.link/p?kramma"
+      }
+    ]
+  },
+  {
+    "title": "新・快刀乱麻",
+    "names": [
+      "新・快刀乱麻",
+      "New KaitoRamma"
+    ],
+    "editors": [
+      {
+        "name": "ぱずぷれv3",
+        "link": "http://pzv.jp/p.html?kramman"
+      },
+      {
+        "name": "puzz.link",
+        "link": "https://puzz.link/p?kramman"
+      }
+    ]
+  },
+  {
+    "title": "ヤギとオオカミ",
+    "names": [
+      "ヤギとオオカミ",
+      "Goats and Wolves"
+    ],
+    "editors": [
+      {
+        "name": "ぱずぷれv3",
+        "link": "http://pzv.jp/p.html?shwolf"
+      },
+      {
+        "name": "puzz.link",
+        "link": "https://puzz.link/p?shwolf"
+      }
+    ]
+  },
+  {
+    "title": "コンビブロック",
+    "names": [
+      "Combi Block",
+      "コンビブロック"
+    ],
+    "editors": [
+      {
+        "name": "ぱずぷれv3",
+        "link": "http://pzv.jp/p.html?cbblock"
+      },
+      {
+        "name": "puzz.link",
+        "link": "https://puzz.link/p?cbblock"
+      }
+    ]
+  },
+  {
+    "title": "エルート",
+    "names": [
+      "L-route",
+      "エルート"
+    ],
+    "editors": [
+      {
+        "name": "ぱずぷれv3",
+        "link": "http://pzv.jp/p.html?loute"
+      },
+      {
+        "name": "puzz.link",
+        "link": "https://puzz.link/p?loute"
+      }
+    ]
+  },
+  {
+    "title": "タタミバリ",
+    "names": [
+      "Tatamibari",
+      "タタミバリ"
+    ],
+    "editors": [
+      {
+        "name": "ぱずぷれv3",
+        "link": "http://pzv.jp/p.html?tatamibari"
+      },
+      {
+        "name": "puzz.link",
+        "link": "https://puzz.link/p?tatamibari"
+      }
+    ]
+  },
+  {
+    "title": "フィルマット",
+    "names": [
+      "Fillmat",
+      "フィルマット"
+    ],
+    "editors": [
+      {
+        "name": "ぱずぷれv3",
+        "link": "http://pzv.jp/p.html?fillmat"
+      },
+      {
+        "name": "puzz.link",
+        "link": "https://puzz.link/p?fillmat"
+      }
+    ]
+  },
+  {
+    "title": "ウソタタミ",
+    "names": [
+      "ウソタタミ",
+      "Uso-tatami"
+    ],
+    "editors": [
+      {
+        "name": "ぱずぷれv3",
+        "link": "http://pzv.jp/p.html?usotatami"
+      },
+      {
+        "name": "puzz.link",
+        "link": "https://puzz.link/p?usotatami"
+      }
+    ]
+  },
+  {
+    "title": "ヤジタタミ",
+    "names": [
+      "ヤジタタミ",
+      "Yajitatami"
+    ],
+    "editors": [
+      {
+        "name": "ぱずぷれv3",
+        "link": "http://pzv.jp/p.html?yajitatami"
+      },
+      {
+        "name": "puzz.link",
+        "link": "https://puzz.link/p?yajitatami"
+      }
+    ]
+  },
+  {
+    "title": "カックロ",
+    "names": [
+      "カックロ",
+      "Kakuro"
+    ],
+    "editors": [
+      {
+        "name": "ぱずぷれv3",
+        "link": "http://pzv.jp/p.html?kakuro"
+      },
+      {
+        "name": "puzz.link",
+        "link": "https://puzz.link/p?kakuro"
+      }
+    ]
+  },
+  {
+    "title": "マイナリズム",
+    "names": [
+      "Minarism",
+      "マイナリズム"
+    ],
+    "editors": [
+      {
+        "name": "ぱずぷれv3",
+        "link": "http://pzv.jp/p.html?minarism"
+      },
+      {
+        "name": "puzz.link",
+        "link": "https://puzz.link/p?minarism"
+      }
+    ]
+  },
+  {
+    "title": "数コロ",
+    "names": [
+      "数コロ",
+      "Sukoro"
+    ],
+    "editors": [
+      {
+        "name": "ぱずぷれv3",
+        "link": "http://pzv.jp/p.html?sukoro"
+      },
+      {
+        "name": "puzz.link",
+        "link": "https://puzz.link/p?sukoro"
+      }
+    ]
+  },
+  {
+    "title": "カックル",
+    "names": [
+      "カックル",
+      "Kakuru"
+    ],
+    "editors": [
+      {
+        "name": "ぱずぷれv3",
+        "link": "http://pzv.jp/p.html?kakuru"
+      },
+      {
+        "name": "puzz.link",
+        "link": "https://puzz.link/p?kakuru"
+      }
+    ]
+  },
+  {
+    "title": "ヴィウ",
+    "names": [
+      "View",
+      "ヴィウ"
+    ],
+    "editors": [
+      {
+        "name": "ぱずぷれv3",
+        "link": "http://pzv.jp/p.html?view"
+      },
+      {
+        "name": "puzz.link",
+        "link": "https://puzz.link/p?view"
+      }
+    ]
+  },
+  {
+    "title": "ボサノワ",
+    "names": [
+      "Bosanowa",
+      "ボサノワ"
+    ],
+    "editors": [
+      {
+        "name": "ぱずぷれv3",
+        "link": "http://pzv.jp/p.html?bosanowa"
+      },
+      {
+        "name": "puzz.link",
+        "link": "https://puzz.link/p?bosanowa"
+      }
+    ]
+  },
+  {
+    "title": "ビルディングパズル",
+    "names": [
+      "Skyscrapers",
+      "ビルディングパズル"
+    ],
+    "editors": [
+      {
+        "name": "ぱずぷれv3",
+        "link": "http://pzv.jp/p.html?building"
+      },
+      {
+        "name": "puzz.link",
+        "link": "https://puzz.link/p?skyscrapers"
+      }
+    ]
+  },
+  {
+    "title": "Kropki",
+    "names": [
+      "Kropki"
+    ],
+    "editors": [
+      {
+        "name": "ぱずぷれv3",
+        "link": "http://pzv.jp/p.html?kropki"
+      },
+      {
+        "name": "puzz.link",
+        "link": "https://puzz.link/p?kropki"
+      }
+    ]
+  },
+  {
+    "title": "ABCプレース",
+    "names": [
+      "Easy as ABC",
+      "ABCプレース"
+    ],
+    "editors": [
+      {
+        "name": "ぱずぷれv3",
+        "link": "http://pzv.jp/p.html?easyasabc"
+      },
+      {
+        "name": "puzz.link",
+        "link": "https://puzz.link/p?easyasabc"
+      }
+    ]
+  },
+  {
+    "title": "数独",
+    "names": [
+      "Sudoku",
+      "数独"
+    ],
+    "editors": [
+      {
+        "name": "ぱずぷれv3",
+        "link": "http://pzv.jp/p.html?sudoku"
+      },
+      {
+        "name": "puzz.link",
+        "link": "https://puzz.link/p?sudoku"
+      }
+    ]
+  },
+  {
+    "title": "フィルオミノ",
+    "names": [
+      "フィルオミノ",
+      "Fillomino"
+    ],
+    "editors": [
+      {
+        "name": "ぱずぷれv3",
+        "link": "http://pzv.jp/p.html?fillomino"
+      },
+      {
+        "name": "puzz.link",
+        "link": "https://puzz.link/p?fillomino"
+      }
+    ]
+  },
+  {
+    "title": "波及効果",
+    "names": [
+      "Ripple Effect",
+      "波及効果"
+    ],
+    "editors": [
+      {
+        "name": "ぱずぷれv3",
+        "link": "http://pzv.jp/p.html?ripple"
+      },
+      {
+        "name": "puzz.link",
+        "link": "https://puzz.link/p?ripple"
+      }
+    ]
+  },
+  {
+    "title": "因子の部屋",
+    "names": [
+      "因子の部屋",
+      "Rooms of Factors"
+    ],
+    "editors": [
+      {
+        "name": "ぱずぷれv3",
+        "link": "http://pzv.jp/p.html?factors"
+      },
+      {
+        "name": "puzz.link",
+        "link": "https://puzz.link/p?factors"
+      }
+    ]
+  },
+  {
+    "title": "マカロ",
+    "names": [
+      "Makaro",
+      "マカロ"
+    ],
+    "editors": [
+      {
+        "name": "ぱずぷれv3",
+        "link": "http://pzv.jp/p.html?makaro"
+      },
+      {
+        "name": "puzz.link",
+        "link": "https://puzz.link/p?makaro"
+      }
+    ]
+  },
+  {
+    "title": "ナンロー",
+    "names": [
+      "Nanro",
+      "ナンロー"
+    ],
+    "editors": [
+      {
+        "name": "ぱずぷれv3",
+        "link": "http://pzv.jp/p.html?nanro"
+      },
+      {
+        "name": "puzz.link",
+        "link": "https://puzz.link/p?nanro"
+      }
+    ]
+  },
+  {
+    "title": "コージュン",
+    "names": [
+      "Cojun",
+      "コージュン"
+    ],
+    "editors": [
+      {
+        "name": "ぱずぷれv3",
+        "link": "http://pzv.jp/p.html?cojun"
+      },
+      {
+        "name": "puzz.link",
+        "link": "https://puzz.link/p?cojun"
+      }
+    ]
+  },
+  {
+    "title": "連番窓口",
+    "names": [
+      "連番窓口",
+      "Renban-Madoguchi"
+    ],
+    "editors": [
+      {
+        "name": "ぱずぷれv3",
+        "link": "http://pzv.jp/p.html?renban"
+      },
+      {
+        "name": "puzz.link",
+        "link": "https://puzz.link/p?renban"
+      }
+    ]
+  },
+  {
+    "title": "数コロ部屋",
+    "names": [
+      "数コロ部屋",
+      "Sukoro-room"
+    ],
+    "editors": [
+      {
+        "name": "ぱずぷれv3",
+        "link": "http://pzv.jp/p.html?sukororoom"
+      },
+      {
+        "name": "puzz.link",
+        "link": "https://puzz.link/p?sukororoom"
+      }
+    ]
+  },
+  {
+    "title": "はなれ組",
+    "names": [
+      "はなれ組",
+      "Hanare-gumi"
+    ],
+    "editors": [
+      {
+        "name": "ぱずぷれv3",
+        "link": "http://pzv.jp/p.html?hanare"
+      },
+      {
+        "name": "puzz.link",
+        "link": "https://puzz.link/p?hanare"
+      }
+    ]
+  },
+  {
+    "title": "かずのりのへや",
+    "names": [
+      "かずのりのへや",
+      "Kazunori Room"
+    ],
+    "editors": [
+      {
+        "name": "ぱずぷれv3",
+        "link": "http://pzv.jp/p.html?kazunori"
+      },
+      {
+        "name": "puzz.link",
+        "link": "https://puzz.link/p?kazunori"
+      }
+    ]
+  },
+  {
+    "title": "縦横さん",
+    "names": [
+      "縦横さん",
+      "Juosan"
+    ],
+    "editors": [
+      {
+        "name": "ぱずぷれv3",
+        "link": "http://pzv.jp/p.html?juosan"
+      },
+      {
+        "name": "puzz.link",
+        "link": "https://puzz.link/p?juosan"
+      }
+    ]
+  },
+  {
+    "title": "ごきげんななめ",
+    "names": [
+      "Slant",
+      "ごきげんななめ"
+    ],
+    "editors": [
+      {
+        "name": "ぱずぷれv3",
+        "link": "http://pzv.jp/p.html?gokigen"
+      },
+      {
+        "name": "puzz.link",
+        "link": "https://puzz.link/p?gokigen"
+      }
+    ]
+  },
+  {
+    "title": "タテボーヨコボー",
+    "names": [
+      "タテボーヨコボー",
+      "Tatebo-Yokobo"
+    ],
+    "editors": [
+      {
+        "name": "ぱずぷれv3",
+        "link": "http://pzv.jp/p.html?tateyoko"
+      },
+      {
+        "name": "puzz.link",
+        "link": "https://puzz.link/p?tateyoko"
+      }
+    ]
+  },
+  {
+    "title": "ごきげんななめ・輪切",
+    "names": [
+      "Wagiri",
+      "ごきげんななめ・輪切"
+    ],
+    "editors": [
+      {
+        "name": "ぱずぷれv3",
+        "link": "http://pzv.jp/p.html?wagiri"
+      },
+      {
+        "name": "puzz.link",
+        "link": "https://puzz.link/p?wagiri"
+      }
+    ]
+  },
+  {
+    "title": "ウォールロジック",
+    "names": [
+      "ウォールロジック",
+      "Wall Logic"
+    ],
+    "editors": [
+      {
+        "name": "ぱずぷれv3",
+        "link": "http://pzv.jp/p.html?walllogic"
+      },
+      {
+        "name": "puzz.link",
+        "link": "https://puzz.link/p?walllogic"
+      }
+    ]
+  },
+  {
+    "title": "美術館",
+    "names": [
+      "Akari",
+      "美術館"
+    ],
+    "editors": [
+      {
+        "name": "ぱずぷれv3",
+        "link": "http://pzv.jp/p.html?lightup"
+      },
+      {
+        "name": "puzz.link",
+        "link": "https://puzz.link/p?lightup"
+      }
+    ]
+  },
+  {
+    "title": "碁石ひろい",
+    "names": [
+      "Goishi",
+      "碁石ひろい"
+    ],
+    "editors": [
+      {
+        "name": "ぱずぷれv3",
+        "link": "http://pzv.jp/p.html?goishi"
+      },
+      {
+        "name": "puzz.link",
+        "link": "https://puzz.link/p?goishi"
+      }
+    ]
+  },
+  {
+    "title": "シャカシャカ",
+    "names": [
+      "シャカシャカ",
+      "Shakashaka"
+    ],
+    "editors": [
+      {
+        "name": "ぱずぷれv3",
+        "link": "http://pzv.jp/p.html?shakashaka"
+      },
+      {
+        "name": "puzz.link",
+        "link": "https://puzz.link/p?shakashaka"
+      }
+    ]
+  },
+  {
+    "title": "キンコンカン",
+    "names": [
+      "キンコンカン",
+      "Kin-Kon-Kan"
+    ],
+    "editors": [
+      {
+        "name": "ぱずぷれv3",
+        "link": "http://pzv.jp/p.html?kinkonkan"
+      },
+      {
+        "name": "puzz.link",
+        "link": "https://puzz.link/p?kinkonkan"
+      }
+    ]
+  },
+  {
+    "title": "へびいちご",
+    "names": [
+      "Hebi-Ichigo",
+      "へびいちご"
+    ],
+    "editors": [
+      {
+        "name": "ぱずぷれv3",
+        "link": "http://pzv.jp/p.html?hebi"
+      },
+      {
+        "name": "puzz.link",
+        "link": "https://puzz.link/p?hebi"
+      }
+    ]
+  },
+  {
+    "title": "修学旅行の夜",
+    "names": [
+      "修学旅行の夜",
+      "School Trip"
+    ],
+    "editors": [
+      {
+        "name": "ぱずぷれv3",
+        "link": "http://pzv.jp/p.html?shugaku"
+      },
+      {
+        "name": "puzz.link",
+        "link": "https://puzz.link/p?shugaku"
+      }
+    ]
+  },
+  {
+    "title": "ドッスンフワリ",
+    "names": [
+      "Dosun-Fuwari",
+      "ドッスンフワリ"
+    ],
+    "editors": [
+      {
+        "name": "ぱずぷれv3",
+        "link": "http://pzv.jp/p.html?dosufuwa"
+      },
+      {
+        "name": "puzz.link",
+        "link": "https://puzz.link/p?dosufuwa"
+      }
+    ]
+  },
+  {
+    "title": "はこいり○△□",
+    "names": [
+      "Hakoiri-masashi",
+      "はこいり○△□"
+    ],
+    "editors": [
+      {
+        "name": "ぱずぷれv3",
+        "link": "http://pzv.jp/p.html?hakoiri"
+      },
+      {
+        "name": "puzz.link",
+        "link": "https://puzz.link/p?hakoiri"
+      }
+    ]
+  },
+  {
+    "title": "ろーま",
+    "names": [
+      "Roma",
+      "ろーま"
+    ],
+    "editors": [
+      {
+        "name": "ぱずぷれv3",
+        "link": "http://pzv.jp/p.html?roma"
+      },
+      {
+        "name": "puzz.link",
+        "link": "https://puzz.link/p?roma"
+      }
+    ]
+  },
+  {
+    "title": "遠い誓い",
+    "names": [
+      "Toichika",
+      "遠い誓い"
+    ],
+    "editors": [
+      {
+        "name": "ぱずぷれv3",
+        "link": "http://pzv.jp/p.html?toichika"
+      },
+      {
+        "name": "puzz.link",
+        "link": "https://puzz.link/p?toichika"
+      }
+    ]
+  },
+  {
+    "title": "ノンダンゴ",
+    "names": [
+      "ノンダンゴ",
+      "Nondango"
+    ],
+    "editors": [
+      {
+        "name": "ぱずぷれv3",
+        "link": "http://pzv.jp/p.html?nondango"
+      },
+      {
+        "name": "puzz.link",
+        "link": "https://puzz.link/p?nondango"
+      }
+    ]
+  },
+  {
+    "title": "しろまるくろまる",
+    "names": [
+      "Yin-Yang",
+      "しろまるくろまる"
+    ],
+    "editors": [
+      {
+        "name": "ぱずぷれv3",
+        "link": "http://pzv.jp/p.html?yinyang"
+      },
+      {
+        "name": "puzz.link",
+        "link": "https://puzz.link/p?yinyang"
+      }
+    ]
+  },
+  {
+    "title": "スターバトル",
+    "names": [
+      "スターバトル",
+      "Star Battle"
+    ],
+    "editors": [
+      {
+        "name": "ぱずぷれv3",
+        "link": "http://pzv.jp/p.html?starbattle"
+      },
+      {
+        "name": "puzz.link",
+        "link": "https://puzz.link/p?starbattle"
+      }
+    ]
+  },
+  {
+    "title": "Snake",
+    "names": [
+      "Snake"
+    ],
+    "editors": [
+      {
+        "name": "puzz.link",
+        "link": "https://puzz.link/p?snake"
+      }
+    ]
+  },
+  {
+    "title": "ののぐらむ",
+    "names": [
+      "ののぐらむ",
+      "Nonogram"
+    ],
+    "editors": [
+      {
+        "name": "puzz.link",
+        "link": "https://puzz.link/p?nonogram"
+      }
+    ]
+  },
+  {
+    "title": "International Borders",
+    "names": [
+      "International Borders"
+    ],
+    "editors": [
+      {
+        "name": "puzz.link",
+        "link": "https://puzz.link/p?interbd"
+      }
+    ]
+  },
+  {
+    "title": "Aqre",
+    "names": [
+      "Aqre"
+    ],
+    "editors": [
+      {
+        "name": "puzz.link",
+        "link": "https://puzz.link/p?aqre"
+      }
+    ]
+  },
+  {
+    "title": "チェンブロ",
+    "names": [
+      "Chained Block",
+      "チェンブロ"
+    ],
+    "editors": [
+      {
+        "name": "puzz.link",
+        "link": "https://puzz.link/p?chainedb"
+      }
+    ]
+  },
+  {
+    "title": "Canal View",
+    "names": [
+      "Canal View"
+    ],
+    "editors": [
+      {
+        "name": "puzz.link",
+        "link": "https://puzz.link/p?canal"
+      }
+    ]
+  },
+  {
+    "title": "チョコバナナ",
+    "names": [
+      "Choco Banana",
+      "チョコバナナ"
+    ],
+    "editors": [
+      {
+        "name": "puzz.link",
+        "link": "https://puzz.link/p?cbanana"
+      }
+    ]
+  },
+  {
+    "title": "Coral",
+    "names": [
+      "Coral"
+    ],
+    "editors": [
+      {
+        "name": "puzz.link",
+        "link": "https://puzz.link/p?coral"
+      }
+    ]
+  },
+  {
+    "title": "ぬりうず",
+    "names": [
+      "Nuri-uzu",
+      "ぬりうず"
+    ],
+    "editors": [
+      {
+        "name": "puzz.link",
+        "link": "https://puzz.link/p?nuriuzu"
+      }
+    ]
+  },
+  {
+    "title": "区区",
+    "names": [
+      "区区",
+      "Ququ"
+    ],
+    "editors": [
+      {
+        "name": "puzz.link",
+        "link": "https://puzz.link/p?ququ"
+      }
+    ]
+  },
+  {
+    "title": "Cross the Streams",
+    "names": [
+      "Cross the Streams"
+    ],
+    "editors": [
+      {
+        "name": "puzz.link",
+        "link": "https://puzz.link/p?cts"
+      }
+    ]
+  },
+  {
+    "title": "ドミニオン",
+    "names": [
+      "Dominion",
+      "ドミニオン"
+    ],
+    "editors": [
+      {
+        "name": "puzz.link",
+        "link": "https://puzz.link/p?dominion"
+      }
+    ]
+  },
+  {
+    "title": "Light and Shadow",
+    "names": [
+      "Light and Shadow"
+    ],
+    "editors": [
+      {
+        "name": "puzz.link",
+        "link": "https://puzz.link/p?lightshadow"
+      }
+    ]
+  },
+  {
+    "title": "アクアプレース",
+    "names": [
+      "Aquarium",
+      "アクアプレース"
+    ],
+    "editors": [
+      {
+        "name": "puzz.link",
+        "link": "https://puzz.link/p?aquarium"
+      }
+    ]
+  },
+  {
+    "title": "Parquet",
+    "names": [
+      "Parquet"
+    ],
+    "editors": [
+      {
+        "name": "puzz.link",
+        "link": "https://puzz.link/p?parquet"
+      }
+    ]
+  },
+  {
+    "title": "ちょうつがい",
+    "names": [
+      "ちょうつがい",
+      "Hinge"
+    ],
+    "editors": [
+      {
+        "name": "puzz.link",
+        "link": "https://puzz.link/p?hinge"
+      }
+    ]
+  },
+  {
+    "title": "へやブロ",
+    "names": [
+      "Heyablock",
+      "へやブロ"
+    ],
+    "editors": [
+      {
+        "name": "puzz.link",
+        "link": "https://puzz.link/p?heyablock"
+      }
+    ]
+  },
+  {
+    "title": "ワンルームワンドア",
+    "names": [
+      "One Room One Door",
+      "ワンルームワンドア"
+    ],
+    "editors": [
+      {
+        "name": "puzz.link",
+        "link": "https://puzz.link/p?oneroom"
+      }
+    ]
+  },
+  {
+    "title": "ノースリー",
+    "names": [
+      "No Three",
+      "ノースリー"
+    ],
+    "editors": [
+      {
+        "name": "puzz.link",
+        "link": "https://puzz.link/p?nothree"
+      }
+    ]
+  },
+  {
+    "title": "Context",
+    "names": [
+      "Context"
+    ],
+    "editors": [
+      {
+        "name": "puzz.link",
+        "link": "https://puzz.link/p?context"
+      }
+    ]
+  },
+  {
+    "title": "Vertex Slitherlink",
+    "names": [
+      "Vertex Slitherlink"
+    ],
+    "editors": [
+      {
+        "name": "puzz.link",
+        "link": "https://puzz.link/p?vslither"
+      }
+    ]
+  },
+  {
+    "title": "Touch Slitherlink",
+    "names": [
+      "Touch Slitherlink"
+    ],
+    "editors": [
+      {
+        "name": "puzz.link",
+        "link": "https://puzz.link/p?tslither"
+      }
+    ]
+  },
+  {
+    "title": "鋭直鈍ループ",
+    "names": [
+      "Angle Loop",
+      "鋭直鈍ループ"
+    ],
+    "editors": [
+      {
+        "name": "puzz.link",
+        "link": "https://puzz.link/p?angleloop"
+      }
+    ]
+  },
+  {
+    "title": "Double Back",
+    "names": [
+      "Double Back"
+    ],
+    "editors": [
+      {
+        "name": "puzz.link",
+        "link": "https://puzz.link/p?doubleback"
+      }
+    ]
+  },
+  {
+    "title": "スクリン",
+    "names": [
+      "Scrin",
+      "スクリン"
+    ],
+    "editors": [
+      {
+        "name": "puzz.link",
+        "link": "https://puzz.link/p?scrin"
+      }
+    ]
+  },
+  {
+    "title": "ヘヤジリン",
+    "names": [
+      "ヘヤジリン",
+      "Regional Yajilin"
+    ],
+    "editors": [
+      {
+        "name": "puzz.link",
+        "link": "https://puzz.link/p?yajilin-regions"
+      }
+    ]
+  },
+  {
+    "title": "グラーデヴェグ",
+    "names": [
+      "グラーデヴェグ",
+      "Geradeweg"
+    ],
+    "editors": [
+      {
+        "name": "puzz.link",
+        "link": "https://puzz.link/p?geradeweg"
+      }
+    ]
+  },
+  {
+    "title": "Castle Wall",
+    "names": [
+      "Castle Wall"
+    ],
+    "editors": [
+      {
+        "name": "puzz.link",
+        "link": "https://puzz.link/p?castle"
+      }
+    ]
+  },
+  {
+    "title": "Maxi Loop",
+    "names": [
+      "Maxi Loop"
+    ],
+    "editors": [
+      {
+        "name": "puzz.link",
+        "link": "https://puzz.link/p?maxi"
+      }
+    ]
+  },
+  {
+    "title": "ミッドループ",
+    "names": [
+      "Mid-loop",
+      "ミッドループ"
+    ],
+    "editors": [
+      {
+        "name": "puzz.link",
+        "link": "https://puzz.link/p?midloop"
+      }
+    ]
+  },
+  {
+    "title": "Balance Loop",
+    "names": [
+      "Balance Loop"
+    ],
+    "editors": [
+      {
+        "name": "puzz.link",
+        "link": "https://puzz.link/p?balance"
+      }
+    ]
+  },
+  {
+    "title": "Simple Loop",
+    "names": [
+      "Simple Loop"
+    ],
+    "editors": [
+      {
+        "name": "puzz.link",
+        "link": "https://puzz.link/p?simpleloop"
+      }
+    ]
+  },
+  {
+    "title": "Detour",
+    "names": [
+      "Detour"
+    ],
+    "editors": [
+      {
+        "name": "puzz.link",
+        "link": "https://puzz.link/p?detour"
+      }
+    ]
+  },
+  {
+    "title": "Haisu",
+    "names": [
+      "Haisu"
+    ],
+    "editors": [
+      {
+        "name": "puzz.link",
+        "link": "https://puzz.link/p?haisu"
+      }
+    ]
+  },
+  {
+    "title": "Tapa-Like Loop",
+    "names": [
+      "Tapa-Like Loop"
+    ],
+    "editors": [
+      {
+        "name": "puzz.link",
+        "link": "https://puzz.link/p?tapaloop"
+      }
+    ]
+  },
+  {
+    "title": "ドッチループ",
+    "names": [
+      "ドッチループ",
+      "Dotchi-Loop"
+    ],
+    "editors": [
+      {
+        "name": "puzz.link",
+        "link": "https://puzz.link/p?dotchi"
+      }
+    ]
+  },
+  {
+    "title": "Ovotovata",
+    "names": [
+      "Ovotovata"
+    ],
+    "editors": [
+      {
+        "name": "puzz.link",
+        "link": "https://puzz.link/p?ovotovata"
+      }
+    ]
+  },
+  {
+    "title": "ビルウォーク",
+    "names": [
+      "ビルウォーク",
+      "Building Walk"
+    ],
+    "editors": [
+      {
+        "name": "puzz.link",
+        "link": "https://puzz.link/p?bdwalk"
+      }
+    ]
+  },
+  {
+    "title": "Rail Pool",
+    "names": [
+      "Rail Pool"
+    ],
+    "editors": [
+      {
+        "name": "puzz.link",
+        "link": "https://puzz.link/p?railpool"
+      }
+    ]
+  },
+  {
+    "title": "Disorderly Loop",
+    "names": [
+      "Disorderly Loop"
+    ],
+    "editors": [
+      {
+        "name": "puzz.link",
+        "link": "https://puzz.link/p?disloop"
+      }
+    ]
+  },
+  {
+    "title": "Ant Mill",
+    "names": [
+      "Ant Mill"
+    ],
+    "editors": [
+      {
+        "name": "puzz.link",
+        "link": "https://puzz.link/p?antmill"
+      }
+    ]
+  },
+  {
+    "title": "コブリン",
+    "names": [
+      "Koburin",
+      "コブリン"
+    ],
+    "editors": [
+      {
+        "name": "puzz.link",
+        "link": "https://puzz.link/p?koburin"
+      }
+    ]
+  },
+  {
+    "title": "Crossstitch",
+    "names": [
+      "Crossstitch"
+    ],
+    "editors": [
+      {
+        "name": "puzz.link",
+        "link": "https://puzz.link/p?crossstitch"
+      }
+    ]
+  },
+  {
+    "title": "Round Trip",
+    "names": [
+      "Round Trip"
+    ],
+    "editors": [
+      {
+        "name": "puzz.link",
+        "link": "https://puzz.link/p?roundtrip"
+      }
+    ]
+  },
+  {
+    "title": "Rassi Silai",
+    "names": [
+      "Rassi Silai"
+    ],
+    "editors": [
+      {
+        "name": "puzz.link",
+        "link": "https://puzz.link/p?rassi"
+      }
+    ]
+  },
+  {
+    "title": "フィッシング",
+    "names": [
+      "Anglers",
+      "フィッシング"
+    ],
+    "editors": [
+      {
+        "name": "puzz.link",
+        "link": "https://puzz.link/p?anglers"
+      }
+    ]
+  },
+  {
+    "title": "コーヒー牛乳",
+    "names": [
+      "Coffee Milk",
+      "コーヒー牛乳"
+    ],
+    "editors": [
+      {
+        "name": "puzz.link",
+        "link": "https://puzz.link/p?coffeemilk"
+      }
+    ]
+  },
+  {
+    "title": "やじさん倉庫番",
+    "names": [
+      "やじさん倉庫番",
+      "Yajisan-Sokoban"
+    ],
+    "editors": [
+      {
+        "name": "puzz.link",
+        "link": "https://puzz.link/p?yajisoko"
+      }
+    ]
+  },
+  {
+    "title": "ヘテロミノ",
+    "names": [
+      "ヘテロミノ",
+      "Heteromino"
+    ],
+    "editors": [
+      {
+        "name": "puzz.link",
+        "link": "https://puzz.link/p?heteromino"
+      }
+    ]
+  },
+  {
+    "title": "ダブルチョコ",
+    "names": [
+      "Double Choco",
+      "ダブルチョコ"
+    ],
+    "editors": [
+      {
+        "name": "puzz.link",
+        "link": "https://puzz.link/p?dbchoco"
+      }
+    ]
+  },
+  {
+    "title": "Compass",
+    "names": [
+      "Compass"
+    ],
+    "editors": [
+      {
+        "name": "puzz.link",
+        "link": "https://puzz.link/p?compass"
+      }
+    ]
+  },
+  {
+    "title": "相ダ部屋",
+    "names": [
+      "相ダ部屋",
+      "Araf"
+    ],
+    "editors": [
+      {
+        "name": "puzz.link",
+        "link": "https://puzz.link/p?araf"
+      }
+    ]
+  },
+  {
+    "title": "NIKOJI",
+    "names": [
+      "NIKOJI"
+    ],
+    "editors": [
+      {
+        "name": "puzz.link",
+        "link": "https://puzz.link/p?nikoji"
+      }
+    ]
+  },
+  {
+    "title": "Lohkous",
+    "names": [
+      "Lohkous"
+    ],
+    "editors": [
+      {
+        "name": "puzz.link",
+        "link": "https://puzz.link/p?lohkous"
+      }
+    ]
+  },
+  {
+    "title": "La Paz",
+    "names": [
+      "La Paz"
+    ],
+    "editors": [
+      {
+        "name": "puzz.link",
+        "link": "https://puzz.link/p?lapaz"
+      }
+    ]
+  },
+  {
+    "title": "Pentominous",
+    "names": [
+      "Pentominous"
+    ],
+    "editors": [
+      {
+        "name": "puzz.link",
+        "link": "https://puzz.link/p?pentominous"
+      }
+    ]
+  },
+  {
+    "title": "Tonttiraja",
+    "names": [
+      "Tonttiraja"
+    ],
+    "editors": [
+      {
+        "name": "puzz.link",
+        "link": "https://puzz.link/p?tontti"
+      }
+    ]
+  },
+  {
+    "title": "タージ・マハル",
+    "names": [
+      "Taj Mahal",
+      "タージ・マハル"
+    ],
+    "editors": [
+      {
+        "name": "puzz.link",
+        "link": "https://puzz.link/p?tajmahal"
+      }
+    ]
+  },
+  {
+    "title": "ミラーブロック",
+    "names": [
+      "ミラーブロック",
+      "Mirror Block"
+    ],
+    "editors": [
+      {
+        "name": "puzz.link",
+        "link": "https://puzz.link/p?mirrorbk"
+      }
+    ]
+  },
+  {
+    "title": "家族写真",
+    "names": [
+      "Family Photo",
+      "家族写真"
+    ],
+    "editors": [
+      {
+        "name": "puzz.link",
+        "link": "https://puzz.link/p?familyphoto"
+      }
+    ]
+  },
+  {
+    "title": "Voxas",
+    "names": [
+      "Voxas"
+    ],
+    "editors": [
+      {
+        "name": "puzz.link",
+        "link": "https://puzz.link/p?voxas"
+      }
+    ]
+  },
+  {
+    "title": "Square Jam",
+    "names": [
+      "Square Jam"
+    ],
+    "editors": [
+      {
+        "name": "puzz.link",
+        "link": "https://puzz.link/p?squarejam"
+      }
+    ]
+  },
+  {
+    "title": "Doppelblock",
+    "names": [
+      "Doppelblock"
+    ],
+    "editors": [
+      {
+        "name": "puzz.link",
+        "link": "https://puzz.link/p?doppelblock"
+      }
+    ]
+  },
+  {
+    "title": "ナンバーロープ",
+    "names": [
+      "Number Rope",
+      "ナンバーロープ"
+    ],
+    "editors": [
+      {
+        "name": "puzz.link",
+        "link": "https://puzz.link/p?numrope"
+      }
+    ]
+  },
+  {
+    "title": "シンメトリーエリア",
+    "names": [
+      "Symmetry Area",
+      "シンメトリーエリア"
+    ],
+    "editors": [
+      {
+        "name": "puzz.link",
+        "link": "https://puzz.link/p?symmarea"
+      }
+    ]
+  },
+  {
+    "title": "にょろにょろナンバー",
+    "names": [
+      "Meandering Numbers",
+      "にょろにょろナンバー"
+    ],
+    "editors": [
+      {
+        "name": "puzz.link",
+        "link": "https://puzz.link/p?meander"
+      }
+    ]
+  },
+  {
+    "title": "プッテリア",
+    "names": [
+      "プッテリア",
+      "Putteria"
+    ],
+    "editors": [
+      {
+        "name": "puzz.link",
+        "link": "https://puzz.link/p?putteria"
+      }
+    ]
+  },
+  {
+    "title": "遠い誓い２",
+    "names": [
+      "Toichika 2",
+      "遠い誓い２"
+    ],
+    "editors": [
+      {
+        "name": "puzz.link",
+        "link": "https://puzz.link/p?toichika2"
+      }
+    ]
+  },
+  {
+    "title": "Snake Pit",
+    "names": [
+      "Snake Pit"
+    ],
+    "editors": [
+      {
+        "name": "puzz.link",
+        "link": "https://puzz.link/p?snakepit"
+      }
+    ]
+  },
+  {
+    "title": "カーブデータ",
+    "names": [
+      "カーブデータ",
+      "Curve Data"
+    ],
+    "editors": [
+      {
+        "name": "puzz.link",
+        "link": "https://puzz.link/p?curvedata"
+      }
+    ]
+  },
+  {
+    "title": "Litherslink",
+    "names": [
+      "Litherslink"
+    ],
+    "editors": [
+      {
+        "name": "puzz.link",
+        "link": "https://puzz.link/p?lither"
+      }
+    ]
+  },
+  {
+    "title": "ペンシルズ",
+    "names": [
+      "Pencils",
+      "ペンシルズ"
+    ],
+    "editors": [
+      {
+        "name": "puzz.link",
+        "link": "https://puzz.link/p?pencils"
+      }
+    ]
+  },
+  {
+    "title": "Tents",
+    "names": [
+      "Tents"
+    ],
+    "editors": [
+      {
+        "name": "puzz.link",
+        "link": "https://puzz.link/p?tents"
+      }
+    ]
+  },
+  {
+    "title": "マインスイーパ",
+    "names": [
+      "マインスイーパ",
+      "Minesweeper"
+    ],
+    "editors": [
+      {
+        "name": "puzz.link",
+        "link": "https://puzz.link/p?mines"
+      }
+    ]
+  },
+  {
+    "title": "パーキング",
+    "names": [
+      "Tren",
+      "パーキング"
+    ],
+    "editors": [
+      {
+        "name": "puzz.link",
+        "link": "https://puzz.link/p?tren"
+      }
+    ]
+  },
+  {
+    "title": "かいだんしばり",
+    "names": [
+      "Stairwell",
+      "かいだんしばり"
+    ],
+    "editors": [
+      {
+        "name": "puzz.link",
+        "link": "https://puzz.link/p?kaidan"
+      }
+    ]
+  },
+  {
+    "title": "たこ焼き",
+    "names": [
+      "たこ焼き",
+      "Takoyaki"
+    ],
+    "editors": [
+      {
+        "name": "puzz.link",
+        "link": "https://puzz.link/p?takoyaki"
+      }
+    ]
+  },
+  {
+    "title": "Statue Park",
+    "names": [
+      "Statue Park"
+    ],
+    "editors": [
+      {
+        "name": "puzz.link",
+        "link": "https://puzz.link/p?statuepark"
+      }
+    ]
+  },
+  {
+    "title": "Pentopia",
+    "names": [
+      "Pentopia"
+    ],
+    "editors": [
+      {
+        "name": "puzz.link",
+        "link": "https://puzz.link/p?pentopia"
+      }
+    ]
+  },
+  {
+    "title": "ペロペロキャンディ",
+    "names": [
+      "Lollipops",
+      "ペロペロキャンディ"
+    ],
+    "editors": [
+      {
+        "name": "puzz.link",
+        "link": "https://puzz.link/p?lollipops"
+      }
+    ]
+  }
 ]
