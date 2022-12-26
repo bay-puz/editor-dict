@@ -1,0 +1,31 @@
+header, body{
+    text-align: center;
+}
+
+header {
+    background-color: aquamarine;
+    padding: 0.5em;
+}
+
+header h1 {
+    color:mediumblue;
+    font-weight: bold;
+}
+
+header div {
+    text-align: end;
+    font-size: small;
+}
+
+a {
+    color: darkblue;
+    text-decoration: underline;
+}
+
+#searchText {
+    margin: 1em;
+    width: 16em;
+    height: 2em;
+    border-style: solid;
+    border-radius: 0.5em;
+}
