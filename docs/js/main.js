@@ -1,6 +1,6 @@
 document.getElementById("searchText").addEventListener("input", search)
 
-var editorDict
+var editorDict = {}
 async function setDict() {
     editorDict = await getDict()
     const updatedDate = await getUpdatedDate()
