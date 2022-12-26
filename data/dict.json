@@ -13,6 +13,10 @@
       {
         "name": "puzz.link",
         "link": "https://puzz.link/p?nurikabe"
+      },
+      {
+        "name": "pzprRT",
+        "link": "https://semiexp.net/pzprrt/p.html?nurikabe"
       }
     ]
   },
@@ -47,6 +51,10 @@
       {
         "name": "puzz.link",
         "link": "https://puzz.link/p?nurimisaki"
+      },
+      {
+        "name": "pzprRT",
+        "link": "https://semiexp.net/pzprrt/p.html?nurimisaki"
       }
     ]
   },
@@ -199,6 +207,10 @@
       {
         "name": "puzz.link",
         "link": "https://puzz.link/p?tapa"
+      },
+      {
+        "name": "pzprRT",
+        "link": "https://semiexp.net/pzprrt/p.html?tapa"
       }
     ]
   },
@@ -233,6 +245,10 @@
       {
         "name": "puzz.link",
         "link": "https://puzz.link/p?norinori"
+      },
+      {
+        "name": "pzprRT",
+        "link": "https://semiexp.net/pzprrt/p.html?norinori"
       }
     ]
   },
@@ -267,6 +283,10 @@
       {
         "name": "puzz.link",
         "link": "https://puzz.link/p?lits"
+      },
+      {
+        "name": "pzprRT",
+        "link": "https://semiexp.net/pzprrt/p.html?lits"
       }
     ]
   },
@@ -284,6 +304,10 @@
       {
         "name": "puzz.link",
         "link": "https://puzz.link/p?shimaguni"
+      },
+      {
+        "name": "pzprRT",
+        "link": "https://semiexp.net/pzprrt/p.html?shimaguni"
       }
     ]
   },
@@ -352,6 +376,10 @@
       {
         "name": "puzz.link",
         "link": "https://puzz.link/p?heyawake"
+      },
+      {
+        "name": "pzprRT",
+        "link": "https://semiexp.net/pzprrt/p.html?heyawake"
       }
     ]
   },
@@ -475,6 +503,10 @@
       {
         "name": "puzz.link",
         "link": "https://puzz.link/p?slither"
+      },
+      {
+        "name": "pzprRT",
+        "link": "https://semiexp.net/pzprrt/p.html?slither"
       }
     ]
   },
@@ -482,7 +514,8 @@
     "title": "ましゅ",
     "names": [
       "Masyu",
-      "ましゅ"
+      "ましゅ",
+      "Mashu"
     ],
     "editors": [
       {
@@ -492,6 +525,10 @@
       {
         "name": "puzz.link",
         "link": "https://puzz.link/p?mashu"
+      },
+      {
+        "name": "pzprRT",
+        "link": "https://semiexp.net/pzprrt/p.html?mashu"
       }
     ]
   },
@@ -509,6 +546,10 @@
       {
         "name": "puzz.link",
         "link": "https://puzz.link/p?yajilin"
+      },
+      {
+        "name": "pzprRT",
+        "link": "https://semiexp.net/pzprrt/p.html?yajilin"
       }
     ]
   },
@@ -1875,16 +1916,21 @@
     "title": "美術館",
     "names": [
       "Akari",
-      "美術館"
+      "美術館",
+      "Light Up"
     ],
     "editors": [
       {
         "name": "ぱずぷれv3",
-        "link": "http://pzv.jp/p.html?lightup"
+        "link": "http://pzv.jp/p.html?akari"
       },
       {
         "name": "puzz.link",
-        "link": "https://puzz.link/p?lightup"
+        "link": "https://puzz.link/p?akari"
+      },
+      {
+        "name": "pzprRT",
+        "link": "https://semiexp.net/pzprrt/p.html?akari"
       }
     ]
   },
@@ -1919,6 +1965,10 @@
       {
         "name": "puzz.link",
         "link": "https://puzz.link/p?shakashaka"
+      },
+      {
+        "name": "pzprRT",
+        "link": "https://semiexp.net/pzprrt/p.html?shakashaka"
       }
     ]
   },
@@ -2139,6 +2189,10 @@
       {
         "name": "puzz.link",
         "link": "https://puzz.link/p?aqre"
+      },
+      {
+        "name": "pzprRT",
+        "link": "https://semiexp.net/pzprrt/p.html?aqre"
       }
     ]
   },
@@ -2410,12 +2464,17 @@
     "title": "ヘヤジリン",
     "names": [
       "ヘヤジリン",
-      "Regional Yajilin"
+      "Regional Yajilin",
+      "Heyajilin"
     ],
     "editors": [
       {
         "name": "puzz.link",
         "link": "https://puzz.link/p?yajilin-regions"
+      },
+      {
+        "name": "pzprRT",
+        "link": "https://semiexp.net/pzprrt/p.html?yajilin-regions"
       }
     ]
   },
@@ -2441,6 +2500,10 @@
       {
         "name": "puzz.link",
         "link": "https://puzz.link/p?castle"
+      },
+      {
+        "name": "pzprRT",
+        "link": "https://semiexp.net/pzprrt/p.html?castle"
       }
     ]
   },
@@ -2491,6 +2554,10 @@
       {
         "name": "puzz.link",
         "link": "https://puzz.link/p?simpleloop"
+      },
+      {
+        "name": "pzprRT",
+        "link": "https://semiexp.net/pzprrt/p.html?simpleloop"
       }
     ]
   },
