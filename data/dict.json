@@ -4505,5 +4505,73 @@
         "link": "https://pedros.works/zig-zag.html?W=8&H=8"
       }
     ]
+  },
+  {
+    "title": "ハニーアイランド",
+    "names": [
+      "ハニーアイランド",
+      "Honey Island",
+      "ハニア"
+    ],
+    "editors": [
+      {
+        "name": "ハニーアイランドリアルタイムソルバ",
+        "link": "https://wandsbox125.web.app/puzzle-tools/honey-viewer/edit.html"
+      }
+    ]
+  },
+  {
+    "title": "推理パズル",
+    "names": [
+      "推理パズル"
+    ],
+    "editors": [
+      {
+        "name": "推理パズルエディタ",
+        "link": "https://subaru-saito1.github.io/suirieditor/"
+      }
+    ]
+  },
+  {
+    "title": "シークワーズ",
+    "names": [
+      "シークワーズ",
+      "Seek Words"
+    ],
+    "editors": [
+      {
+        "name": "シークワーズ制作支援ツール",
+        "link": "https://seekword-tool.web.app/"
+      },
+      {
+        "name": "シークワーサー",
+        "link": "http://brandk.net/alk/sozai/seekw/index.html"
+      }
+    ]
+  },
+  {
+    "title": "クロスワード",
+    "names": [
+      "クロスワード",
+      "Cross Word"
+    ],
+    "editors": [
+      {
+        "name": "かぎっこ",
+        "link": "http://brandk.net/alk/sozai/cross/index.html"
+      }
+    ]
+  },
+  {
+    "title": "Non-Con Futoshiki",
+    "names": [
+      "Non-Con Futoshiki"
+    ],
+    "editors": [
+      {
+        "name": "Non-Con Futoshiki View",
+        "link": "https://wandsbox125.web.app/puzzle-tools/non-con-futoshiki/index.html"
+      }
+    ]
   }
 ]
