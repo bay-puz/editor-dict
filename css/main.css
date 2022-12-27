@@ -29,3 +29,11 @@ a {
     border-style: solid;
     border-radius: 0.5em;
 }
+
+summary {
+    cursor: pointer;
+}
+
+details {
+    padding: 1em;
+}
