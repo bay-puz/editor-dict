@@ -1,10 +1,11 @@
 document.getElementById("searchText").addEventListener("input", search)
 document.getElementById("searchTypeStart").addEventListener("click", search)
 document.getElementById("searchTypePart").addEventListener("click", search)
+document.getElementById("randomButton").addEventListener("click", random)
 
-var editorDict = {}
+var puzzleDict = {}
 async function setDict() {
-    editorDict = await getDict()
+    puzzleDict = await getDict()
     const updatedDate = await getUpdatedDate()
     var updatedElement = document.getElementById("updatedDate")
     updatedElement.innerText = updatedDate
@@ -20,12 +21,10 @@ function search() {
     clearResult()
     const searchStart = isSearchTypeStart()
     var isEmpty = true
-    for (const puzzleData of editorDict) {
+    for (const puzzleData of puzzleDict) {
         if ( searchPuzzleNames(searchStr, puzzleData.names, searchStart) ) {
-            for (const editor of puzzleData.editors) {
-                setResult(puzzleData.title, editor)
-                isEmpty = false
-            }
+            setPuzzle(puzzleData)
+            isEmpty = false
         }
     }
     if (isEmpty) {
@@ -44,4 +43,21 @@ function searchPuzzleNames(str, nameList, isSearchStart) {
         }
     }
     return false
+}
+
+function setPuzzle(puzzleData) {
+    for (const editor of puzzleData.editors) {
+        setResult(puzzleData.title, editor)
+    }
+}
+
+function random() {
+    clearResult()
+    setPuzzle(getPuzzleAtRandom())
+}
+
+function getPuzzleAtRandom() {
+    const dictLength = puzzleDict.length
+    const randomNumber = Math.floor(Math.random() * dictLength)
+    return puzzleDict[randomNumber]
 }
