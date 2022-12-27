@@ -8,21 +8,26 @@ async function setDict() {
     updatedElement.innerText = updatedDate
 }; setDict()
 
+
 function search() {
-    const searchStr = document.getElementById("searchText").value
-    if ( searchStr === "" ) {
+    const searchStr = getSearchStr()
+    if ( searchStr.length === 0 ) {
+        clearResult(true)
         return
     }
-    const searchStart = document.getElementById("searchTypeStart").checked
-    var resultElement = document.getElementById("result")
-    resultElement.innerText = ""
+    clearResult()
+    const searchStart = isSearchTypeStart()
+    var isEmpty = true
     for (const puzzleData of editorDict) {
         if ( searchPuzzleNames(searchStr, puzzleData.names, searchStart) ) {
             for (const editor of puzzleData.editors) {
-                const element = getEditorElement(puzzleData.title, editor)
-                resultElement.appendChild(element)
+                setResult(puzzleData.title, editor)
+                isEmpty = false
             }
         }
+    }
+    if (isEmpty) {
+        setEmptyResult()
     }
 }
 
@@ -37,15 +42,4 @@ function searchPuzzleNames(str, nameList, isSearchStart) {
         }
     }
     return false
-}
-
-function getEditorElement(name, editor) {
-    var linkElement = document.createElement("a")
-    linkElement.href = editor.link
-    linkElement.innerText = editor.link
-    linkElement.target = "_blank"
-    var element = document.createElement("p")
-    element.appendChild(linkElement)
-    element.innerHTML += "（" + editor.name + " - " + name + "）"
-    return element
 }
