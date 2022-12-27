@@ -1,4 +1,6 @@
 document.getElementById("searchText").addEventListener("input", search)
+document.getElementById("searchTypeStart").addEventListener("click", search)
+document.getElementById("searchTypePart").addEventListener("click", search)
 
 var editorDict = {}
 async function setDict() {
