@@ -1,0 +1,38 @@
+name: Add Editor
+on:
+  workflow_dispatch:
+    inputs:
+      editor:
+        description: "エディタ名"
+        required: true
+        type: string
+      names:
+        description: "パズル名（カンマ区切り）"
+        required: true
+        type: string
+      link:
+        description: "エディタのリンク"
+        required: true
+        type: string
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v2
+      - name: install jq
+        run: sudo apt-get install -y jq
+      - name: update date
+        run: date +"%Y年%-m月%-d日" > data/update.txt
+      - name: add new editor to dict.json
+        run: |
+          python data/make.py --base data/dict.json --names "${{ inputs.names}}" --editor "${{ inputs.editor }}" --link "${{ inputs.link }}" | jq . > new.json
+          mw new.json data/dict.json
+      - name: git push
+        run: |
+          git config --global user.name github-actions
+          git config --global user.email github-actions@github.com
+          git add data/*
+          git commit -m "add editor for ${{ inputs.names }}"
+          git push origin main
