@@ -30,7 +30,7 @@ jobs:
       - name: add new editor to dict.json
         run: |
           python data/make.py --base data/dict.json --names "${{ inputs.names}}" --editor "${{ inputs.editor }}" --link "${{ inputs.link }}" | jq . > new.json
-          mw new.json data/dict.json
+          mv new.json data/dict.json
       - name: git push
         run: |
           git config --global user.name github-actions
