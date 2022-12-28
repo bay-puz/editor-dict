@@ -21,8 +21,10 @@ jobs:
     timeout-minutes: 5
     steps:
       - uses: actions/checkout@v2
-      - name: install jq
-        run: sudo apt-get install -y jq
+      - name: install packages
+        run: |
+          sudo apt-get install -y jq
+          pip install beautifulsoup4
       - name: update date
         run: date +"%Y年%-m月%-d日" > data/update.txt
       - name: add new editor to dict.json
