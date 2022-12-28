@@ -26,7 +26,7 @@ jobs:
           sudo apt-get install -y jq
           pip install beautifulsoup4
       - name: update date
-        run: date +"%Y年%-m月%-d日" > data/update.txt
+        run: date +"%Y年%-m月%-d日" > data/updated.txt
       - name: add new editor to dict.json
         run: |
           python data/make.py --base data/dict.json --names "${{ inputs.names}}" --editor "${{ inputs.editor }}" --link "${{ inputs.link }}" | jq . > new.json
