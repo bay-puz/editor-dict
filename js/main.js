@@ -13,7 +13,7 @@ async function setDict() {
 
 
 function search() {
-    const searchStr = getSearchStr()
+    const searchStr = convertStr(getSearchStr())
     if ( searchStr.length === 0 ) {
         clearResult(true)
         return
@@ -33,12 +33,10 @@ function search() {
 }
 
 function searchPuzzleNames(str, nameList, isSearchStart) {
-    const space = new RegExp(/[\s-_・]/g)
-    str = str.replaceAll(space, '')
     const stickyFlag =isSearchStart ? "y" : ""
     const regex = new RegExp(str, "i" + stickyFlag)
     for (const name of nameList) {
-        if ( regex.test(name.replaceAll(space, '')) ) {
+        if ( regex.test(convertStr(name)) ){
             return true
         }
     }
@@ -60,4 +58,23 @@ function getPuzzleAtRandom() {
     const dictLength = puzzleDict.length
     const randomNumber = Math.floor(Math.random() * dictLength)
     return puzzleDict[randomNumber]
+}
+
+function convertStr(str) {
+    const sign = new RegExp(/[\s-・]/g)
+    str = str.replaceAll(sign, '')
+    str = toKatakana(str)
+    return str
+}
+
+function toKatakana(str) {
+    var newStr = new String("")
+    for(const char of str) {
+        code = char.codePointAt(0)
+        if ('ァ'.codePointAt(0) <= code && code <= 'ヶ'.codePointAt(0)) {
+            code -= 96
+        }
+        newStr += String.fromCodePoint(code)
+    }
+    return newStr
 }
