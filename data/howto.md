@@ -9,7 +9,7 @@ TwitterやDiscordでエディタ追加されたことを知ったら、dict.json
 
 ```shell
 python data/make.py --base data/dict.json --names "パズル名,Puzzle Name,略称など" --editor "エディタ名" --link "URL" | jq . > new.json
-mw new.json data/dict.json
+mv new.json data/dict.json
 ```
 
 ## 最初から作る
