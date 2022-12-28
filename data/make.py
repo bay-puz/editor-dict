@@ -65,6 +65,16 @@ class PDict:
                     self.puzzles[index].names.add(name)
                     return
 
+    def load_base(self, file: str) -> None:
+        def _load(file: str) -> str:
+            with open(file) as f:
+                return json.load(f)
+
+        data = _load(file)
+        for puzzle in data:
+            for editor in puzzle["editors"]:
+                self.set_puzzle(puzzle["title"], editor["name"], editor["link"], puzzle["names"])
+
     def load(self, editor: str, file: str) -> None:
         def _load(file: str) -> str:
             with open(file) as f:
@@ -107,9 +117,20 @@ def main():
     parser.add_argument('--puzzlink-ja', type=str)
     parser.add_argument('--puzzlink-en', type=str)
     parser.add_argument('--kudamono', type=str)
+    parser.add_argument('--base', type=str)
+    parser.add_argument('--link', type=str)
+    parser.add_argument('--editor', type=str, default="")
+    parser.add_argument('--names', type=str, default="")
     args = parser.parse_args()
 
     puzzle_dict = PDict()
+    if args.base:
+        puzzle_dict.load_base(args.base)
+
+    if args.link:
+        names_list = args.names.split(",")
+        puzzle_dict.set_puzzle(names_list[0], args.editor, args.link, names_list)
+
     if args.pzprv3:
         puzzle_dict.load("ぱずぷれv3", args.pzprv3)
 
