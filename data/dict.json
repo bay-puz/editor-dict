@@ -1488,7 +1488,7 @@
       "Kakuro",
       "カックロ",
       "足し算クロス",
-      "加算クロス"
+      "サムクロス"
     ],
     "editors": [
       {
@@ -4581,6 +4581,32 @@
       {
         "name": "Kudamono Editor",
         "link": "https://pedros.works/shirokuro-pipe.html?W=8&H=8"
+      }
+    ]
+  },
+  {
+    "title": "はしごをかけろ",
+    "names": [
+      "はしごをかけろ",
+      "Ladders"
+    ],
+    "editors": [
+      {
+        "name": "puzz.link",
+        "link": "https://puzz.link/p?ladders"
+      }
+    ]
+  },
+  {
+    "title": "コローン",
+    "names": [
+      "Clones",
+      "コローン"
+    ],
+    "editors": [
+      {
+        "name": "Kudamono Editor",
+        "link": "https://pedros.works/clones.html?W=8&H=8"
       }
     ]
   }
