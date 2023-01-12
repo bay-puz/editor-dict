@@ -19,8 +19,11 @@ puzz.link、ぱずぷれv3、Kudamono Editorは多種のエディタが含まれ
 下の手順で作成したファイルを`make.py`に入力するとJSONファイルが作成される。
 
 ```shell
-python data/make.py --pzprv3 pzprv3.html --puzzlink-ja puzzlink.html --puzzlink-en puzzlink-en.html --kudamono kudamono.txt | jq . > data/dict.json
+python data/make.py --pzprv3 pzprv3.html --puzzlink-ja puzzlink.html --puzzlink-en puzzlink-en.html --pzplus pzplus.html --kudamono kudamono.txt | jq . > data/dict.json
 ```
+
+英語と日本語の名称だけでは検索しにくいパズルには`names`を追加する（ナンプレ、Fencesなど）。
+また、黒どこ（黒マスはどこだ）はタイトルが`null`になるため、手で修正する。
 
 それ以外のエディタは、手でJSONファイルに追加する。
 エディタは[ペンシルパズル百科の記事](https://scrapbox.io/puzzle-pedia/%E3%83%91%E3%82%BA%E3%83%AB%E4%BD%9C%E6%88%90%E3%83%84%E3%83%BC%E3%83%AB)などから探す。
@@ -36,6 +39,10 @@ python data/make.py --pzprv3 pzprv3.html --puzzlink-ja puzzlink.html --puzzlink-
 ### ぱずぷれv3
 
 puzz.linkと同様に、[トップページ](http://pzv.jp/)を保存する（日本語だけで良い）。
+
+### pzplus
+
+puzz.linkと同様に、[パズルの種類のリスト](https://pzplus.tck.mn/list.html)を保存する（日本語だけで良い）。
 
 ### kudamono-editor
 
