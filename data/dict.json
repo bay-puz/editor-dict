@@ -2,8 +2,8 @@
   {
     "title": "ぬりかべ",
     "names": [
-      "ぬりかべ",
-      "Nurikabe"
+      "Nurikabe",
+      "ぬりかべ"
     ],
     "editors": [
       {
@@ -17,6 +17,10 @@
       {
         "name": "pzprRT",
         "link": "https://semiexp.net/pzprrt/p.html?nurikabe"
+      },
+      {
+        "name": "pzplus",
+        "link": "https://pzplus.tck.mn/p.html?nurikabe"
       }
     ]
   },
@@ -34,6 +38,10 @@
       {
         "name": "puzz.link",
         "link": "https://puzz.link/p?box"
+      },
+      {
+        "name": "pzplus",
+        "link": "https://pzplus.tck.mn/p.html?box"
       }
     ]
   },
@@ -55,6 +63,10 @@
       {
         "name": "pzprRT",
         "link": "https://semiexp.net/pzprrt/p.html?nurimisaki"
+      },
+      {
+        "name": "pzplus",
+        "link": "https://pzplus.tck.mn/p.html?nurimisaki"
       }
     ]
   },
@@ -72,6 +84,10 @@
       {
         "name": "puzz.link",
         "link": "https://puzz.link/p?creek"
+      },
+      {
+        "name": "pzplus",
+        "link": "https://pzplus.tck.mn/p.html?creek"
       }
     ]
   },
@@ -89,14 +105,18 @@
       {
         "name": "puzz.link",
         "link": "https://puzz.link/p?mochikoro"
+      },
+      {
+        "name": "pzplus",
+        "link": "https://pzplus.tck.mn/p.html?mochikoro"
       }
     ]
   },
   {
     "title": "たすくえあ",
     "names": [
-      "たすくえあ",
-      "Tasquare"
+      "Tasquare",
+      "たすくえあ"
     ],
     "editors": [
       {
@@ -106,14 +126,18 @@
       {
         "name": "puzz.link",
         "link": "https://puzz.link/p?tasquare"
+      },
+      {
+        "name": "pzplus",
+        "link": "https://pzplus.tck.mn/p.html?tasquare"
       }
     ]
   },
   {
     "title": "クロット",
     "names": [
-      "クロット",
-      "Kurotto"
+      "Kurotto",
+      "クロット"
     ],
     "editors": [
       {
@@ -123,6 +147,10 @@
       {
         "name": "puzz.link",
         "link": "https://puzz.link/p?kurotto"
+      },
+      {
+        "name": "pzplus",
+        "link": "https://pzplus.tck.mn/p.html?kurotto"
       }
     ]
   },
@@ -140,14 +168,18 @@
       {
         "name": "puzz.link",
         "link": "https://puzz.link/p?nuribou"
+      },
+      {
+        "name": "pzplus",
+        "link": "https://pzplus.tck.mn/p.html?nuribou"
       }
     ]
   },
   {
     "title": "たわむれんが",
     "names": [
-      "Tawamurenga",
-      "たわむれんが"
+      "たわむれんが",
+      "Tawamurenga"
     ],
     "editors": [
       {
@@ -157,14 +189,18 @@
       {
         "name": "puzz.link",
         "link": "https://puzz.link/p?tawa"
+      },
+      {
+        "name": "pzplus",
+        "link": "https://pzplus.tck.mn/p.html?tawa"
       }
     ]
   },
   {
     "title": "るっくえあ",
     "names": [
-      "Look-Air",
-      "るっくえあ"
+      "るっくえあ",
+      "Look-Air"
     ],
     "editors": [
       {
@@ -174,6 +210,10 @@
       {
         "name": "puzz.link",
         "link": "https://puzz.link/p?lookair"
+      },
+      {
+        "name": "pzplus",
+        "link": "https://pzplus.tck.mn/p.html?lookair"
       }
     ]
   },
@@ -191,6 +231,10 @@
       {
         "name": "puzz.link",
         "link": "https://puzz.link/p?mochinyoro"
+      },
+      {
+        "name": "pzplus",
+        "link": "https://pzplus.tck.mn/p.html?mochinyoro"
       }
     ]
   },
@@ -211,6 +255,10 @@
       {
         "name": "pzprRT",
         "link": "https://semiexp.net/pzprrt/p.html?tapa"
+      },
+      {
+        "name": "pzplus",
+        "link": "https://pzplus.tck.mn/p.html?tapa"
       }
     ]
   },
@@ -228,14 +276,18 @@
       {
         "name": "puzz.link",
         "link": "https://puzz.link/p?tilepaint"
+      },
+      {
+        "name": "pzplus",
+        "link": "https://pzplus.tck.mn/p.html?tilepaint"
       }
     ]
   },
   {
     "title": "のりのり",
     "names": [
-      "のりのり",
-      "Norinori"
+      "Norinori",
+      "のりのり"
     ],
     "editors": [
       {
@@ -249,14 +301,18 @@
       {
         "name": "pzprRT",
         "link": "https://semiexp.net/pzprrt/p.html?norinori"
+      },
+      {
+        "name": "pzplus",
+        "link": "https://pzplus.tck.mn/p.html?norinori"
       }
     ]
   },
   {
     "title": "ぬりめいず",
     "names": [
-      "ぬりめいず",
-      "Nuri-Maze"
+      "Nuri-Maze",
+      "ぬりめいず"
     ],
     "editors": [
       {
@@ -266,6 +322,10 @@
       {
         "name": "puzz.link",
         "link": "https://puzz.link/p?nurimaze"
+      },
+      {
+        "name": "pzplus",
+        "link": "https://pzplus.tck.mn/p.html?nurimaze"
       }
     ]
   },
@@ -287,6 +347,10 @@
       {
         "name": "pzprRT",
         "link": "https://semiexp.net/pzprrt/p.html?lits"
+      },
+      {
+        "name": "pzplus",
+        "link": "https://pzplus.tck.mn/p.html?lits"
       }
     ]
   },
@@ -308,6 +372,10 @@
       {
         "name": "pzprRT",
         "link": "https://semiexp.net/pzprrt/p.html?shimaguni"
+      },
+      {
+        "name": "pzplus",
+        "link": "https://pzplus.tck.mn/p.html?shimaguni"
       }
     ]
   },
@@ -325,14 +393,18 @@
       {
         "name": "puzz.link",
         "link": "https://puzz.link/p?stostone"
+      },
+      {
+        "name": "pzplus",
+        "link": "https://pzplus.tck.mn/p.html?stostone"
       }
     ]
   },
   {
     "title": "ペイントエリア",
     "names": [
-      "Paintarea",
-      "ペイントエリア"
+      "ペイントエリア",
+      "Paintarea"
     ],
     "editors": [
       {
@@ -342,14 +414,18 @@
       {
         "name": "puzz.link",
         "link": "https://puzz.link/p?paintarea"
+      },
+      {
+        "name": "pzplus",
+        "link": "https://pzplus.tck.mn/p.html?paintarea"
       }
     ]
   },
   {
     "title": "チョコナ",
     "names": [
-      "Chocona",
-      "チョコナ"
+      "チョコナ",
+      "Chocona"
     ],
     "editors": [
       {
@@ -359,6 +435,10 @@
       {
         "name": "puzz.link",
         "link": "https://puzz.link/p?chocona"
+      },
+      {
+        "name": "pzplus",
+        "link": "https://pzplus.tck.mn/p.html?chocona"
       }
     ]
   },
@@ -380,6 +460,10 @@
       {
         "name": "pzprRT",
         "link": "https://semiexp.net/pzprrt/p.html?heyawake"
+      },
+      {
+        "name": "pzplus",
+        "link": "https://pzplus.tck.mn/p.html?heyawake"
       }
     ]
   },
@@ -397,6 +481,10 @@
       {
         "name": "puzz.link",
         "link": "https://puzz.link/p?hitori"
+      },
+      {
+        "name": "pzplus",
+        "link": "https://pzplus.tck.mn/p.html?hitori"
       }
     ]
   },
@@ -404,8 +492,8 @@
     "title": "黒どこ",
     "names": [
       "Kurodoko",
-      "黒どこ",
-      "黒マスはどこだ"
+      "黒マスはどこだ",
+      "黒どこ"
     ],
     "editors": [
       {
@@ -415,14 +503,18 @@
       {
         "name": "puzz.link",
         "link": "https://puzz.link/p?kurodoko"
+      },
+      {
+        "name": "pzplus",
+        "link": "https://pzplus.tck.mn/p.html?kurodoko"
       }
     ]
   },
   {
     "title": "ウソワン",
     "names": [
-      "ウソワン",
-      "Uso-one"
+      "Uso-one",
+      "ウソワン"
     ],
     "editors": [
       {
@@ -432,14 +524,18 @@
       {
         "name": "puzz.link",
         "link": "https://puzz.link/p?usoone"
+      },
+      {
+        "name": "pzplus",
+        "link": "https://pzplus.tck.mn/p.html?usoone"
       }
     ]
   },
   {
     "title": "やじさんかずさん",
     "names": [
-      "Yajisan-Kazusan",
-      "やじさんかずさん"
+      "やじさんかずさん",
+      "Yajisan-Kazusan"
     ],
     "editors": [
       {
@@ -449,6 +545,10 @@
       {
         "name": "puzz.link",
         "link": "https://puzz.link/p?yajikazu"
+      },
+      {
+        "name": "pzplus",
+        "link": "https://pzplus.tck.mn/p.html?yajikazu"
       }
     ]
   },
@@ -466,14 +566,18 @@
       {
         "name": "puzz.link",
         "link": "https://puzz.link/p?kurochute"
+      },
+      {
+        "name": "pzplus",
+        "link": "https://pzplus.tck.mn/p.html?kurochute"
       }
     ]
   },
   {
     "title": "∀人∃ＨＥＹＡ",
     "names": [
-      "∀人∃ＨＥＹＡ",
       "ekawayeh",
+      "∀人∃ＨＥＹＡ",
       "ぜんべや"
     ],
     "editors": [
@@ -484,16 +588,20 @@
       {
         "name": "puzz.link",
         "link": "https://puzz.link/p?ayeheya"
+      },
+      {
+        "name": "pzplus",
+        "link": "https://pzplus.tck.mn/p.html?ayeheya"
       }
     ]
   },
   {
     "title": "スリザーリンク",
     "names": [
+      "Slitherlink",
       "Fences",
       "スリザーリンク",
-      "スリリン",
-      "Slitherlink"
+      "スリリン"
     ],
     "editors": [
       {
@@ -507,15 +615,19 @@
       {
         "name": "pzprRT",
         "link": "https://semiexp.net/pzprrt/p.html?slither"
+      },
+      {
+        "name": "pzplus",
+        "link": "https://pzplus.tck.mn/p.html?slither"
       }
     ]
   },
   {
     "title": "ましゅ",
     "names": [
-      "ましゅ",
+      "Mashu",
       "Masyu",
-      "Mashu"
+      "ましゅ"
     ],
     "editors": [
       {
@@ -529,6 +641,10 @@
       {
         "name": "pzprRT",
         "link": "https://semiexp.net/pzprrt/p.html?mashu"
+      },
+      {
+        "name": "pzplus",
+        "link": "https://pzplus.tck.mn/p.html?mashu"
       }
     ]
   },
@@ -550,14 +666,18 @@
       {
         "name": "pzprRT",
         "link": "https://semiexp.net/pzprrt/p.html?yajilin"
+      },
+      {
+        "name": "pzplus",
+        "link": "https://pzplus.tck.mn/p.html?yajilin"
       }
     ]
   },
   {
     "title": "スラローム",
     "names": [
-      "スラローム",
-      "Slalom"
+      "Slalom",
+      "スラローム"
     ],
     "editors": [
       {
@@ -567,14 +687,18 @@
       {
         "name": "puzz.link",
         "link": "https://puzz.link/p?slalom"
+      },
+      {
+        "name": "pzplus",
+        "link": "https://pzplus.tck.mn/p.html?slalom"
       }
     ]
   },
   {
     "title": "流れるループ",
     "names": [
-      "流れるループ",
-      "Nagareru-Loop"
+      "Nagareru-Loop",
+      "流れるループ"
     ],
     "editors": [
       {
@@ -584,14 +708,18 @@
       {
         "name": "puzz.link",
         "link": "https://puzz.link/p?nagare"
+      },
+      {
+        "name": "pzplus",
+        "link": "https://pzplus.tck.mn/p.html?nagare"
       }
     ]
   },
   {
     "title": "月か太陽",
     "names": [
-      "月か太陽",
-      "Moon or Sun"
+      "Moon or Sun",
+      "月か太陽"
     ],
     "editors": [
       {
@@ -601,19 +729,27 @@
       {
         "name": "puzz.link",
         "link": "https://puzz.link/p?moonsun"
+      },
+      {
+        "name": "pzplus",
+        "link": "https://pzplus.tck.mn/p.html?moonsun"
       }
     ]
   },
   {
     "title": "バッグ",
     "names": [
-      "Bag",
-      "バッグ"
+      "バッグ",
+      "Bag"
     ],
     "editors": [
       {
         "name": "ぱずぷれv3",
         "link": "http://pzv.jp/p.html?bag"
+      },
+      {
+        "name": "pzplus",
+        "link": "https://pzplus.tck.mn/p.html?cave"
       }
     ]
   },
@@ -632,8 +768,8 @@
   {
     "title": "カントリーロード",
     "names": [
-      "カントリーロード",
-      "Country Road"
+      "Country Road",
+      "カントリーロード"
     ],
     "editors": [
       {
@@ -643,6 +779,10 @@
       {
         "name": "puzz.link",
         "link": "https://puzz.link/p?country"
+      },
+      {
+        "name": "pzplus",
+        "link": "https://pzplus.tck.mn/p.html?country"
       }
     ]
   },
@@ -660,6 +800,10 @@
       {
         "name": "puzz.link",
         "link": "https://puzz.link/p?onsen"
+      },
+      {
+        "name": "pzplus",
+        "link": "https://pzplus.tck.mn/p.html?onsen"
       }
     ]
   },
@@ -677,6 +821,10 @@
       {
         "name": "puzz.link",
         "link": "https://puzz.link/p?mejilink"
+      },
+      {
+        "name": "pzplus",
+        "link": "https://pzplus.tck.mn/p.html?mejilink"
       }
     ]
   },
@@ -694,14 +842,18 @@
       {
         "name": "puzz.link",
         "link": "https://puzz.link/p?reflect"
+      },
+      {
+        "name": "pzplus",
+        "link": "https://pzplus.tck.mn/p.html?reflect"
       }
     ]
   },
   {
     "title": "パイプリンク",
     "names": [
-      "Pipelink",
-      "パイプリンク"
+      "パイプリンク",
+      "Pipelink"
     ],
     "editors": [
       {
@@ -711,14 +863,18 @@
       {
         "name": "puzz.link",
         "link": "https://puzz.link/p?pipelink"
+      },
+      {
+        "name": "pzplus",
+        "link": "https://pzplus.tck.mn/p.html?pipelink"
       }
     ]
   },
   {
     "title": "環状線スペシャル",
     "names": [
-      "環状線スペシャル",
-      "Loop Special"
+      "Loop Special",
+      "環状線スペシャル"
     ],
     "editors": [
       {
@@ -728,14 +884,18 @@
       {
         "name": "puzz.link",
         "link": "https://puzz.link/p?loopsp"
+      },
+      {
+        "name": "pzplus",
+        "link": "https://pzplus.tck.mn/p.html?loopsp"
       }
     ]
   },
   {
     "title": "なげなわ",
     "names": [
-      "なげなわ",
-      "Nagenawa"
+      "Nagenawa",
+      "なげなわ"
     ],
     "editors": [
       {
@@ -745,14 +905,18 @@
       {
         "name": "puzz.link",
         "link": "https://puzz.link/p?nagenawa"
+      },
+      {
+        "name": "pzplus",
+        "link": "https://pzplus.tck.mn/p.html?nagenawa"
       }
     ]
   },
   {
     "title": "交差は直角に限る",
     "names": [
-      "交差は直角に限る",
-      "Kouchoku"
+      "Kouchoku",
+      "交差は直角に限る"
     ],
     "editors": [
       {
@@ -762,14 +926,18 @@
       {
         "name": "puzz.link",
         "link": "https://puzz.link/p?kouchoku"
+      },
+      {
+        "name": "pzplus",
+        "link": "https://pzplus.tck.mn/p.html?kouchoku"
       }
     ]
   },
   {
     "title": "リングリング",
     "names": [
-      "リングリング",
-      "Ring-ring"
+      "Ring-ring",
+      "リングリング"
     ],
     "editors": [
       {
@@ -779,6 +947,10 @@
       {
         "name": "puzz.link",
         "link": "https://puzz.link/p?ringring"
+      },
+      {
+        "name": "pzplus",
+        "link": "https://pzplus.tck.mn/p.html?ringring"
       }
     ]
   },
@@ -796,14 +968,18 @@
       {
         "name": "puzz.link",
         "link": "https://puzz.link/p?icebarn"
+      },
+      {
+        "name": "pzplus",
+        "link": "https://pzplus.tck.mn/p.html?icebarn"
       }
     ]
   },
   {
     "title": "帰ってきたパイプリンク",
     "names": [
-      "帰ってきたパイプリンク",
-      "Pipelink Returns"
+      "Pipelink Returns",
+      "帰ってきたパイプリンク"
     ],
     "editors": [
       {
@@ -813,14 +989,18 @@
       {
         "name": "puzz.link",
         "link": "https://puzz.link/p?pipelinkr"
+      },
+      {
+        "name": "pzplus",
+        "link": "https://pzplus.tck.mn/p.html?pipelinkr"
       }
     ]
   },
   {
     "title": "バーンズ",
     "names": [
-      "バーンズ",
-      "Barns"
+      "Barns",
+      "バーンズ"
     ],
     "editors": [
       {
@@ -830,14 +1010,18 @@
       {
         "name": "puzz.link",
         "link": "https://puzz.link/p?barns"
+      },
+      {
+        "name": "pzplus",
+        "link": "https://pzplus.tck.mn/p.html?barns"
       }
     ]
   },
   {
     "title": "アイスローム",
     "names": [
-      "アイスローム",
-      "Icelom"
+      "Icelom",
+      "アイスローム"
     ],
     "editors": [
       {
@@ -847,6 +1031,10 @@
       {
         "name": "puzz.link",
         "link": "https://puzz.link/p?icelom"
+      },
+      {
+        "name": "pzplus",
+        "link": "https://pzplus.tck.mn/p.html?icelom"
       }
     ]
   },
@@ -864,6 +1052,10 @@
       {
         "name": "puzz.link",
         "link": "https://puzz.link/p?icelom2"
+      },
+      {
+        "name": "pzplus",
+        "link": "https://pzplus.tck.mn/p.html?icelom2"
       }
     ]
   },
@@ -871,8 +1063,8 @@
     "title": "ナンバーリンク",
     "names": [
       "ナンバーリンク",
-      "ナンリン",
-      "Numberlink"
+      "Numberlink",
+      "ナンリン"
     ],
     "editors": [
       {
@@ -882,6 +1074,10 @@
       {
         "name": "puzz.link",
         "link": "https://puzz.link/p?numlin"
+      },
+      {
+        "name": "pzplus",
+        "link": "https://pzplus.tck.mn/p.html?numlin"
       }
     ]
   },
@@ -899,6 +1095,10 @@
       {
         "name": "puzz.link",
         "link": "https://puzz.link/p?wblink"
+      },
+      {
+        "name": "pzplus",
+        "link": "https://pzplus.tck.mn/p.html?wblink"
       }
     ]
   },
@@ -916,14 +1116,18 @@
       {
         "name": "puzz.link",
         "link": "https://puzz.link/p?kusabi"
+      },
+      {
+        "name": "pzplus",
+        "link": "https://pzplus.tck.mn/p.html?kusabi"
       }
     ]
   },
   {
     "title": "アルコネ",
     "names": [
-      "アルコネ",
-      "Arukone"
+      "Arukone",
+      "アルコネ"
     ],
     "editors": [
       {
@@ -933,6 +1137,10 @@
       {
         "name": "puzz.link",
         "link": "https://puzz.link/p?arukone"
+      },
+      {
+        "name": "pzplus",
+        "link": "https://pzplus.tck.mn/p.html?arukone"
       }
     ]
   },
@@ -951,14 +1159,18 @@
       {
         "name": "puzz.link",
         "link": "https://puzz.link/p?hashikake"
+      },
+      {
+        "name": "pzplus",
+        "link": "https://pzplus.tck.mn/p.html?hashikake"
       }
     ]
   },
   {
     "title": "ホタルビーム",
     "names": [
-      "Hotaru Beam",
-      "ホタルビーム"
+      "ホタルビーム",
+      "Hotaru Beam"
     ],
     "editors": [
       {
@@ -968,15 +1180,19 @@
       {
         "name": "puzz.link",
         "link": "https://puzz.link/p?firefly"
+      },
+      {
+        "name": "pzplus",
+        "link": "https://pzplus.tck.mn/p.html?firefly"
       }
     ]
   },
   {
     "title": "イチマガ",
     "names": [
-      "Ichimaga",
       "イチマガ",
-      "一回曲がってこんにちは"
+      "一回曲がってこんにちは",
+      "Ichimaga"
     ],
     "editors": [
       {
@@ -986,14 +1202,18 @@
       {
         "name": "puzz.link",
         "link": "https://puzz.link/p?ichimaga"
+      },
+      {
+        "name": "pzplus",
+        "link": "https://pzplus.tck.mn/p.html?ichimaga"
       }
     ]
   },
   {
     "title": "磁石イチマガ",
     "names": [
-      "Magnetic Ichimaga",
-      "磁石イチマガ"
+      "磁石イチマガ",
+      "Magnetic Ichimaga"
     ],
     "editors": [
       {
@@ -1003,14 +1223,18 @@
       {
         "name": "puzz.link",
         "link": "https://puzz.link/p?ichimagam"
+      },
+      {
+        "name": "pzplus",
+        "link": "https://pzplus.tck.mn/p.html?ichimagam"
       }
     ]
   },
   {
     "title": "一回曲がって交差もするの",
     "names": [
-      "Crossing Ichimaga",
-      "一回曲がって交差もするの"
+      "一回曲がって交差もするの",
+      "Crossing Ichimaga"
     ],
     "editors": [
       {
@@ -1020,6 +1244,10 @@
       {
         "name": "puzz.link",
         "link": "https://puzz.link/p?ichimagax"
+      },
+      {
+        "name": "pzplus",
+        "link": "https://pzplus.tck.mn/p.html?ichimagax"
       }
     ]
   },
@@ -1037,14 +1265,18 @@
       {
         "name": "puzz.link",
         "link": "https://puzz.link/p?amibo"
+      },
+      {
+        "name": "pzplus",
+        "link": "https://pzplus.tck.mn/p.html?amibo"
       }
     ]
   },
   {
     "title": "ヘルゴルフ",
     "names": [
-      "ヘルゴルフ",
-      "Herugolf"
+      "Herugolf",
+      "ヘルゴルフ"
     ],
     "editors": [
       {
@@ -1054,6 +1286,10 @@
       {
         "name": "puzz.link",
         "link": "https://puzz.link/p?herugolf"
+      },
+      {
+        "name": "pzplus",
+        "link": "https://pzplus.tck.mn/p.html?herugolf"
       }
     ]
   },
@@ -1071,6 +1307,10 @@
       {
         "name": "puzz.link",
         "link": "https://puzz.link/p?kaero"
+      },
+      {
+        "name": "pzplus",
+        "link": "https://pzplus.tck.mn/p.html?kaero"
       }
     ]
   },
@@ -1088,14 +1328,18 @@
       {
         "name": "puzz.link",
         "link": "https://puzz.link/p?yosenabe"
+      },
+      {
+        "name": "pzplus",
+        "link": "https://pzplus.tck.mn/p.html?yosenabe"
       }
     ]
   },
   {
     "title": "ぐんたいあり",
     "names": [
-      "Army Ants",
-      "ぐんたいあり"
+      "ぐんたいあり",
+      "Army Ants"
     ],
     "editors": [
       {
@@ -1105,6 +1349,10 @@
       {
         "name": "puzz.link",
         "link": "https://puzz.link/p?armyants"
+      },
+      {
+        "name": "pzplus",
+        "link": "https://pzplus.tck.mn/p.html?armyants"
       }
     ]
   },
@@ -1122,14 +1370,18 @@
       {
         "name": "puzz.link",
         "link": "https://puzz.link/p?bonsan"
+      },
+      {
+        "name": "pzplus",
+        "link": "https://pzplus.tck.mn/p.html?bonsan"
       }
     ]
   },
   {
     "title": "へやぼん",
     "names": [
-      "Heya-Bon",
-      "へやぼん"
+      "へやぼん",
+      "Heya-Bon"
     ],
     "editors": [
       {
@@ -1139,14 +1391,18 @@
       {
         "name": "puzz.link",
         "link": "https://puzz.link/p?heyabon"
+      },
+      {
+        "name": "pzplus",
+        "link": "https://pzplus.tck.mn/p.html?heyabon"
       }
     ]
   },
   {
     "title": "四角スライダー",
     "names": [
-      "四角スライダー",
-      "Rectangle-Slider"
+      "Rectangle-Slider",
+      "四角スライダー"
     ],
     "editors": [
       {
@@ -1156,14 +1412,18 @@
       {
         "name": "puzz.link",
         "link": "https://puzz.link/p?rectslider"
+      },
+      {
+        "name": "pzplus",
+        "link": "https://pzplus.tck.mn/p.html?rectslider"
       }
     ]
   },
   {
     "title": "さとがえり",
     "names": [
-      "Satogaeri",
-      "さとがえり"
+      "さとがえり",
+      "Satogaeri"
     ],
     "editors": [
       {
@@ -1173,6 +1433,10 @@
       {
         "name": "puzz.link",
         "link": "https://puzz.link/p?satogaeri"
+      },
+      {
+        "name": "pzplus",
+        "link": "https://pzplus.tck.mn/p.html?satogaeri"
       }
     ]
   },
@@ -1190,14 +1454,18 @@
       {
         "name": "puzz.link",
         "link": "https://puzz.link/p?shikaku"
+      },
+      {
+        "name": "pzplus",
+        "link": "https://pzplus.tck.mn/p.html?shikaku"
       }
     ]
   },
   {
     "title": "ボーダーブロック",
     "names": [
-      "ボーダーブロック",
-      "Border Block"
+      "Border Block",
+      "ボーダーブロック"
     ],
     "editors": [
       {
@@ -1207,14 +1475,18 @@
       {
         "name": "puzz.link",
         "link": "https://puzz.link/p?bdblock"
+      },
+      {
+        "name": "pzplus",
+        "link": "https://pzplus.tck.mn/p.html?bdblock"
       }
     ]
   },
   {
     "title": "ファイブセルズ",
     "names": [
-      "ファイブセルズ",
-      "FiveCells"
+      "FiveCells",
+      "ファイブセルズ"
     ],
     "editors": [
       {
@@ -1224,14 +1496,18 @@
       {
         "name": "puzz.link",
         "link": "https://puzz.link/p?fivecells"
+      },
+      {
+        "name": "pzplus",
+        "link": "https://pzplus.tck.mn/p.html?fivecells"
       }
     ]
   },
   {
     "title": "さしがね",
     "names": [
-      "Sashigane",
-      "さしがね"
+      "さしがね",
+      "Sashigane"
     ],
     "editors": [
       {
@@ -1241,6 +1517,10 @@
       {
         "name": "puzz.link",
         "link": "https://puzz.link/p?sashigane"
+      },
+      {
+        "name": "pzplus",
+        "link": "https://pzplus.tck.mn/p.html?sashigane"
       }
     ]
   },
@@ -1258,6 +1538,10 @@
       {
         "name": "puzz.link",
         "link": "https://puzz.link/p?nawabari"
+      },
+      {
+        "name": "pzplus",
+        "link": "https://pzplus.tck.mn/p.html?nawabari"
       }
     ]
   },
@@ -1275,6 +1559,10 @@
       {
         "name": "puzz.link",
         "link": "https://puzz.link/p?triplace"
+      },
+      {
+        "name": "pzplus",
+        "link": "https://pzplus.tck.mn/p.html?triplace"
       }
     ]
   },
@@ -1292,14 +1580,18 @@
       {
         "name": "puzz.link",
         "link": "https://puzz.link/p?fourcells"
+      },
+      {
+        "name": "pzplus",
+        "link": "https://pzplus.tck.mn/p.html?fourcells"
       }
     ]
   },
   {
     "title": "アホになり切れ",
     "names": [
-      "アホになり切れ",
-      "Aho-ni-Narikire"
+      "Aho-ni-Narikire",
+      "アホになり切れ"
     ],
     "editors": [
       {
@@ -1309,14 +1601,18 @@
       {
         "name": "puzz.link",
         "link": "https://puzz.link/p?aho"
+      },
+      {
+        "name": "pzplus",
+        "link": "https://pzplus.tck.mn/p.html?aho"
       }
     ]
   },
   {
     "title": "天体ショー",
     "names": [
-      "天体ショー",
-      "Tentaisho"
+      "Tentaisho",
+      "天体ショー"
     ],
     "editors": [
       {
@@ -1326,14 +1622,18 @@
       {
         "name": "puzz.link",
         "link": "https://puzz.link/p?tentaisho"
+      },
+      {
+        "name": "pzplus",
+        "link": "https://pzplus.tck.mn/p.html?tentaisho"
       }
     ]
   },
   {
     "title": "快刀乱麻",
     "names": [
-      "快刀乱麻",
-      "KaitoRamma"
+      "KaitoRamma",
+      "快刀乱麻"
     ],
     "editors": [
       {
@@ -1343,6 +1643,10 @@
       {
         "name": "puzz.link",
         "link": "https://puzz.link/p?kramma"
+      },
+      {
+        "name": "pzplus",
+        "link": "https://pzplus.tck.mn/p.html?kramma"
       }
     ]
   },
@@ -1360,14 +1664,18 @@
       {
         "name": "puzz.link",
         "link": "https://puzz.link/p?kramman"
+      },
+      {
+        "name": "pzplus",
+        "link": "https://pzplus.tck.mn/p.html?kramman"
       }
     ]
   },
   {
     "title": "ヤギとオオカミ",
     "names": [
-      "Goats and Wolves",
-      "ヤギとオオカミ"
+      "ヤギとオオカミ",
+      "Goats and Wolves"
     ],
     "editors": [
       {
@@ -1377,6 +1685,10 @@
       {
         "name": "puzz.link",
         "link": "https://puzz.link/p?shwolf"
+      },
+      {
+        "name": "pzplus",
+        "link": "https://pzplus.tck.mn/p.html?shwolf"
       }
     ]
   },
@@ -1394,6 +1706,10 @@
       {
         "name": "puzz.link",
         "link": "https://puzz.link/p?cbblock"
+      },
+      {
+        "name": "pzplus",
+        "link": "https://pzplus.tck.mn/p.html?cbblock"
       }
     ]
   },
@@ -1411,6 +1727,10 @@
       {
         "name": "puzz.link",
         "link": "https://puzz.link/p?loute"
+      },
+      {
+        "name": "pzplus",
+        "link": "https://pzplus.tck.mn/p.html?loute"
       }
     ]
   },
@@ -1428,14 +1748,18 @@
       {
         "name": "puzz.link",
         "link": "https://puzz.link/p?tatamibari"
+      },
+      {
+        "name": "pzplus",
+        "link": "https://pzplus.tck.mn/p.html?tatamibari"
       }
     ]
   },
   {
     "title": "フィルマット",
     "names": [
-      "フィルマット",
-      "Fillmat"
+      "Fillmat",
+      "フィルマット"
     ],
     "editors": [
       {
@@ -1445,14 +1769,18 @@
       {
         "name": "puzz.link",
         "link": "https://puzz.link/p?fillmat"
+      },
+      {
+        "name": "pzplus",
+        "link": "https://pzplus.tck.mn/p.html?fillmat"
       }
     ]
   },
   {
     "title": "ウソタタミ",
     "names": [
-      "Uso-tatami",
-      "ウソタタミ"
+      "ウソタタミ",
+      "Uso-tatami"
     ],
     "editors": [
       {
@@ -1462,6 +1790,10 @@
       {
         "name": "puzz.link",
         "link": "https://puzz.link/p?usotatami"
+      },
+      {
+        "name": "pzplus",
+        "link": "https://pzplus.tck.mn/p.html?usotatami"
       }
     ]
   },
@@ -1479,15 +1811,19 @@
       {
         "name": "puzz.link",
         "link": "https://puzz.link/p?yajitatami"
+      },
+      {
+        "name": "pzplus",
+        "link": "https://pzplus.tck.mn/p.html?yajitatami"
       }
     ]
   },
   {
     "title": "カックロ",
     "names": [
-      "カックロ",
       "足し算クロス",
       "Kakuro",
+      "カックロ",
       "サムクロス"
     ],
     "editors": [
@@ -1498,14 +1834,18 @@
       {
         "name": "puzz.link",
         "link": "https://puzz.link/p?kakuro"
+      },
+      {
+        "name": "pzplus",
+        "link": "https://pzplus.tck.mn/p.html?kakuro"
       }
     ]
   },
   {
     "title": "マイナリズム",
     "names": [
-      "マイナリズム",
-      "Minarism"
+      "Minarism",
+      "マイナリズム"
     ],
     "editors": [
       {
@@ -1515,6 +1855,10 @@
       {
         "name": "puzz.link",
         "link": "https://puzz.link/p?minarism"
+      },
+      {
+        "name": "pzplus",
+        "link": "https://pzplus.tck.mn/p.html?minarism"
       }
     ]
   },
@@ -1532,6 +1876,10 @@
       {
         "name": "puzz.link",
         "link": "https://puzz.link/p?sukoro"
+      },
+      {
+        "name": "pzplus",
+        "link": "https://pzplus.tck.mn/p.html?sukoro"
       }
     ]
   },
@@ -1549,14 +1897,18 @@
       {
         "name": "puzz.link",
         "link": "https://puzz.link/p?kakuru"
+      },
+      {
+        "name": "pzplus",
+        "link": "https://pzplus.tck.mn/p.html?kakuru"
       }
     ]
   },
   {
     "title": "ヴィウ",
     "names": [
-      "View",
-      "ヴィウ"
+      "ヴィウ",
+      "View"
     ],
     "editors": [
       {
@@ -1566,14 +1918,18 @@
       {
         "name": "puzz.link",
         "link": "https://puzz.link/p?view"
+      },
+      {
+        "name": "pzplus",
+        "link": "https://pzplus.tck.mn/p.html?view"
       }
     ]
   },
   {
     "title": "ボサノワ",
     "names": [
-      "ボサノワ",
-      "Bosanowa"
+      "Bosanowa",
+      "ボサノワ"
     ],
     "editors": [
       {
@@ -1583,14 +1939,18 @@
       {
         "name": "puzz.link",
         "link": "https://puzz.link/p?bosanowa"
+      },
+      {
+        "name": "pzplus",
+        "link": "https://pzplus.tck.mn/p.html?bosanowa"
       }
     ]
   },
   {
     "title": "ビルディングパズル",
     "names": [
-      "ビルディングパズル",
-      "Skyscrapers"
+      "Skyscrapers",
+      "ビルディングパズル"
     ],
     "editors": [
       {
@@ -1600,6 +1960,10 @@
       {
         "name": "puzz.link",
         "link": "https://puzz.link/p?skyscrapers"
+      },
+      {
+        "name": "pzplus",
+        "link": "https://pzplus.tck.mn/p.html?skyscrapers"
       }
     ]
   },
@@ -1616,6 +1980,10 @@
       {
         "name": "puzz.link",
         "link": "https://puzz.link/p?kropki"
+      },
+      {
+        "name": "pzplus",
+        "link": "https://pzplus.tck.mn/p.html?kropki"
       }
     ]
   },
@@ -1633,18 +2001,22 @@
       {
         "name": "puzz.link",
         "link": "https://puzz.link/p?easyasabc"
+      },
+      {
+        "name": "pzplus",
+        "link": "https://pzplus.tck.mn/p.html?easyasabc"
       }
     ]
   },
   {
     "title": "数独",
     "names": [
-      "数独",
-      "ナンプレ",
-      "Number Place",
-      "数字は独身に限る",
       "Sudoku",
-      "ナンバープレース"
+      "ナンバープレース",
+      "数字は独身に限る",
+      "Number Place",
+      "ナンプレ",
+      "数独"
     ],
     "editors": [
       {
@@ -1654,14 +2026,18 @@
       {
         "name": "puzz.link",
         "link": "https://puzz.link/p?sudoku"
+      },
+      {
+        "name": "pzplus",
+        "link": "https://pzplus.tck.mn/p.html?sudoku"
       }
     ]
   },
   {
     "title": "フィルオミノ",
     "names": [
-      "Fillomino",
-      "フィルオミノ"
+      "フィルオミノ",
+      "Fillomino"
     ],
     "editors": [
       {
@@ -1671,6 +2047,10 @@
       {
         "name": "puzz.link",
         "link": "https://puzz.link/p?fillomino"
+      },
+      {
+        "name": "pzplus",
+        "link": "https://pzplus.tck.mn/p.html?fillomino"
       }
     ]
   },
@@ -1688,14 +2068,18 @@
       {
         "name": "puzz.link",
         "link": "https://puzz.link/p?ripple"
+      },
+      {
+        "name": "pzplus",
+        "link": "https://pzplus.tck.mn/p.html?ripple"
       }
     ]
   },
   {
     "title": "因子の部屋",
     "names": [
-      "Rooms of Factors",
-      "因子の部屋"
+      "因子の部屋",
+      "Rooms of Factors"
     ],
     "editors": [
       {
@@ -1705,6 +2089,10 @@
       {
         "name": "puzz.link",
         "link": "https://puzz.link/p?factors"
+      },
+      {
+        "name": "pzplus",
+        "link": "https://pzplus.tck.mn/p.html?factors"
       }
     ]
   },
@@ -1722,14 +2110,18 @@
       {
         "name": "puzz.link",
         "link": "https://puzz.link/p?makaro"
+      },
+      {
+        "name": "pzplus",
+        "link": "https://pzplus.tck.mn/p.html?makaro"
       }
     ]
   },
   {
     "title": "ナンロー",
     "names": [
-      "Nanro",
-      "ナンロー"
+      "ナンロー",
+      "Nanro"
     ],
     "editors": [
       {
@@ -1739,14 +2131,18 @@
       {
         "name": "puzz.link",
         "link": "https://puzz.link/p?nanro"
+      },
+      {
+        "name": "pzplus",
+        "link": "https://pzplus.tck.mn/p.html?nanro"
       }
     ]
   },
   {
     "title": "コージュン",
     "names": [
-      "コージュン",
-      "Cojun"
+      "Cojun",
+      "コージュン"
     ],
     "editors": [
       {
@@ -1756,6 +2152,10 @@
       {
         "name": "puzz.link",
         "link": "https://puzz.link/p?cojun"
+      },
+      {
+        "name": "pzplus",
+        "link": "https://pzplus.tck.mn/p.html?cojun"
       }
     ]
   },
@@ -1773,14 +2173,18 @@
       {
         "name": "puzz.link",
         "link": "https://puzz.link/p?renban"
+      },
+      {
+        "name": "pzplus",
+        "link": "https://pzplus.tck.mn/p.html?renban"
       }
     ]
   },
   {
     "title": "数コロ部屋",
     "names": [
-      "数コロ部屋",
-      "Sukoro-room"
+      "Sukoro-room",
+      "数コロ部屋"
     ],
     "editors": [
       {
@@ -1790,14 +2194,18 @@
       {
         "name": "puzz.link",
         "link": "https://puzz.link/p?sukororoom"
+      },
+      {
+        "name": "pzplus",
+        "link": "https://pzplus.tck.mn/p.html?sukororoom"
       }
     ]
   },
   {
     "title": "はなれ組",
     "names": [
-      "はなれ組",
-      "Hanare-gumi"
+      "Hanare-gumi",
+      "はなれ組"
     ],
     "editors": [
       {
@@ -1807,14 +2215,18 @@
       {
         "name": "puzz.link",
         "link": "https://puzz.link/p?hanare"
+      },
+      {
+        "name": "pzplus",
+        "link": "https://pzplus.tck.mn/p.html?hanare"
       }
     ]
   },
   {
     "title": "かずのりのへや",
     "names": [
-      "かずのりのへや",
-      "Kazunori Room"
+      "Kazunori Room",
+      "かずのりのへや"
     ],
     "editors": [
       {
@@ -1824,14 +2236,18 @@
       {
         "name": "puzz.link",
         "link": "https://puzz.link/p?kazunori"
+      },
+      {
+        "name": "pzplus",
+        "link": "https://pzplus.tck.mn/p.html?kazunori"
       }
     ]
   },
   {
     "title": "縦横さん",
     "names": [
-      "縦横さん",
-      "Juosan"
+      "Juosan",
+      "縦横さん"
     ],
     "editors": [
       {
@@ -1841,14 +2257,18 @@
       {
         "name": "puzz.link",
         "link": "https://puzz.link/p?juosan"
+      },
+      {
+        "name": "pzplus",
+        "link": "https://pzplus.tck.mn/p.html?juosan"
       }
     ]
   },
   {
     "title": "ごきげんななめ",
     "names": [
-      "ごきげんななめ",
-      "Slant"
+      "Slant",
+      "ごきげんななめ"
     ],
     "editors": [
       {
@@ -1858,6 +2278,10 @@
       {
         "name": "puzz.link",
         "link": "https://puzz.link/p?gokigen"
+      },
+      {
+        "name": "pzplus",
+        "link": "https://pzplus.tck.mn/p.html?gokigen"
       }
     ]
   },
@@ -1875,6 +2299,10 @@
       {
         "name": "puzz.link",
         "link": "https://puzz.link/p?tateyoko"
+      },
+      {
+        "name": "pzplus",
+        "link": "https://pzplus.tck.mn/p.html?tateyoko"
       }
     ]
   },
@@ -1892,6 +2320,10 @@
       {
         "name": "puzz.link",
         "link": "https://puzz.link/p?wagiri"
+      },
+      {
+        "name": "pzplus",
+        "link": "https://pzplus.tck.mn/p.html?wagiri"
       }
     ]
   },
@@ -1909,6 +2341,10 @@
       {
         "name": "puzz.link",
         "link": "https://puzz.link/p?walllogic"
+      },
+      {
+        "name": "pzplus",
+        "link": "https://pzplus.tck.mn/p.html?walllogic"
       }
     ]
   },
@@ -1916,8 +2352,8 @@
     "title": "美術館",
     "names": [
       "Light Up",
-      "Akari",
-      "美術館"
+      "美術館",
+      "Akari"
     ],
     "editors": [
       {
@@ -1931,6 +2367,10 @@
       {
         "name": "pzprRT",
         "link": "https://semiexp.net/pzprrt/p.html?akari"
+      },
+      {
+        "name": "pzplus",
+        "link": "https://pzplus.tck.mn/p.html?lightup"
       }
     ]
   },
@@ -1948,14 +2388,18 @@
       {
         "name": "puzz.link",
         "link": "https://puzz.link/p?goishi"
+      },
+      {
+        "name": "pzplus",
+        "link": "https://pzplus.tck.mn/p.html?goishi"
       }
     ]
   },
   {
     "title": "シャカシャカ",
     "names": [
-      "シャカシャカ",
-      "Shakashaka"
+      "Shakashaka",
+      "シャカシャカ"
     ],
     "editors": [
       {
@@ -1969,14 +2413,18 @@
       {
         "name": "pzprRT",
         "link": "https://semiexp.net/pzprrt/p.html?shakashaka"
+      },
+      {
+        "name": "pzplus",
+        "link": "https://pzplus.tck.mn/p.html?shakashaka"
       }
     ]
   },
   {
     "title": "キンコンカン",
     "names": [
-      "キンコンカン",
-      "Kin-Kon-Kan"
+      "Kin-Kon-Kan",
+      "キンコンカン"
     ],
     "editors": [
       {
@@ -1986,6 +2434,10 @@
       {
         "name": "puzz.link",
         "link": "https://puzz.link/p?kinkonkan"
+      },
+      {
+        "name": "pzplus",
+        "link": "https://pzplus.tck.mn/p.html?kinkonkan"
       }
     ]
   },
@@ -2003,6 +2455,10 @@
       {
         "name": "puzz.link",
         "link": "https://puzz.link/p?hebi"
+      },
+      {
+        "name": "pzplus",
+        "link": "https://pzplus.tck.mn/p.html?hebi"
       }
     ]
   },
@@ -2020,6 +2476,10 @@
       {
         "name": "puzz.link",
         "link": "https://puzz.link/p?shugaku"
+      },
+      {
+        "name": "pzplus",
+        "link": "https://pzplus.tck.mn/p.html?shugaku"
       }
     ]
   },
@@ -2037,6 +2497,10 @@
       {
         "name": "puzz.link",
         "link": "https://puzz.link/p?dosufuwa"
+      },
+      {
+        "name": "pzplus",
+        "link": "https://pzplus.tck.mn/p.html?dosufuwa"
       }
     ]
   },
@@ -2055,6 +2519,10 @@
       {
         "name": "puzz.link",
         "link": "https://puzz.link/p?hakoiri"
+      },
+      {
+        "name": "pzplus",
+        "link": "https://pzplus.tck.mn/p.html?hakoiri"
       }
     ]
   },
@@ -2072,6 +2540,10 @@
       {
         "name": "puzz.link",
         "link": "https://puzz.link/p?roma"
+      },
+      {
+        "name": "pzplus",
+        "link": "https://pzplus.tck.mn/p.html?roma"
       }
     ]
   },
@@ -2089,6 +2561,10 @@
       {
         "name": "puzz.link",
         "link": "https://puzz.link/p?toichika"
+      },
+      {
+        "name": "pzplus",
+        "link": "https://pzplus.tck.mn/p.html?toichika"
       }
     ]
   },
@@ -2106,6 +2582,10 @@
       {
         "name": "puzz.link",
         "link": "https://puzz.link/p?nondango"
+      },
+      {
+        "name": "pzplus",
+        "link": "https://pzplus.tck.mn/p.html?nondango"
       }
     ]
   },
@@ -2123,6 +2603,10 @@
       {
         "name": "puzz.link",
         "link": "https://puzz.link/p?yinyang"
+      },
+      {
+        "name": "pzplus",
+        "link": "https://pzplus.tck.mn/p.html?yinyang"
       }
     ]
   },
@@ -2140,6 +2624,10 @@
       {
         "name": "puzz.link",
         "link": "https://puzz.link/p?starbattle"
+      },
+      {
+        "name": "pzplus",
+        "link": "https://pzplus.tck.mn/p.html?starbattle"
       }
     ]
   },
@@ -2152,19 +2640,27 @@
       {
         "name": "puzz.link",
         "link": "https://puzz.link/p?snake"
+      },
+      {
+        "name": "pzplus",
+        "link": "https://pzplus.tck.mn/p.html?snake"
       }
     ]
   },
   {
     "title": "ののぐらむ",
     "names": [
-      "Nonogram",
-      "ののぐらむ"
+      "ののぐらむ",
+      "Nonogram"
     ],
     "editors": [
       {
         "name": "puzz.link",
         "link": "https://puzz.link/p?nonogram"
+      },
+      {
+        "name": "pzplus",
+        "link": "https://pzplus.tck.mn/p.html?nonogram"
       }
     ]
   },
@@ -2177,6 +2673,10 @@
       {
         "name": "puzz.link",
         "link": "https://puzz.link/p?interbd"
+      },
+      {
+        "name": "pzplus",
+        "link": "https://pzplus.tck.mn/p.html?interbd"
       }
     ]
   },
@@ -2193,6 +2693,10 @@
       {
         "name": "pzprRT",
         "link": "https://semiexp.net/pzprrt/p.html?aqre"
+      },
+      {
+        "name": "pzplus",
+        "link": "https://pzplus.tck.mn/p.html?aqre"
       }
     ]
   },
@@ -2206,6 +2710,10 @@
       {
         "name": "puzz.link",
         "link": "https://puzz.link/p?chainedb"
+      },
+      {
+        "name": "pzplus",
+        "link": "https://pzplus.tck.mn/p.html?chainedb"
       }
     ]
   },
@@ -2218,19 +2726,27 @@
       {
         "name": "puzz.link",
         "link": "https://puzz.link/p?canal"
+      },
+      {
+        "name": "pzplus",
+        "link": "https://pzplus.tck.mn/p.html?canal"
       }
     ]
   },
   {
     "title": "チョコバナナ",
     "names": [
-      "チョコバナナ",
-      "Choco Banana"
+      "Choco Banana",
+      "チョコバナナ"
     ],
     "editors": [
       {
         "name": "puzz.link",
         "link": "https://puzz.link/p?cbanana"
+      },
+      {
+        "name": "pzplus",
+        "link": "https://pzplus.tck.mn/p.html?cbanana"
       }
     ]
   },
@@ -2243,19 +2759,27 @@
       {
         "name": "puzz.link",
         "link": "https://puzz.link/p?coral"
+      },
+      {
+        "name": "pzplus",
+        "link": "https://pzplus.tck.mn/p.html?coral"
       }
     ]
   },
   {
     "title": "ぬりうず",
     "names": [
-      "Nuri-uzu",
-      "ぬりうず"
+      "ぬりうず",
+      "Nuri-uzu"
     ],
     "editors": [
       {
         "name": "puzz.link",
         "link": "https://puzz.link/p?nuriuzu"
+      },
+      {
+        "name": "pzplus",
+        "link": "https://pzplus.tck.mn/p.html?nuriuzu"
       }
     ]
   },
@@ -2269,6 +2793,10 @@
       {
         "name": "puzz.link",
         "link": "https://puzz.link/p?ququ"
+      },
+      {
+        "name": "pzplus",
+        "link": "https://pzplus.tck.mn/p.html?ququ"
       }
     ]
   },
@@ -2281,6 +2809,10 @@
       {
         "name": "puzz.link",
         "link": "https://puzz.link/p?cts"
+      },
+      {
+        "name": "pzplus",
+        "link": "https://pzplus.tck.mn/p.html?cts"
       }
     ]
   },
@@ -2294,6 +2826,10 @@
       {
         "name": "puzz.link",
         "link": "https://puzz.link/p?dominion"
+      },
+      {
+        "name": "pzplus",
+        "link": "https://pzplus.tck.mn/p.html?dominion"
       }
     ]
   },
@@ -2306,19 +2842,27 @@
       {
         "name": "puzz.link",
         "link": "https://puzz.link/p?lightshadow"
+      },
+      {
+        "name": "pzplus",
+        "link": "https://pzplus.tck.mn/p.html?lightshadow"
       }
     ]
   },
   {
     "title": "アクアプレース",
     "names": [
-      "アクアプレース",
-      "Aquarium"
+      "Aquarium",
+      "アクアプレース"
     ],
     "editors": [
       {
         "name": "puzz.link",
         "link": "https://puzz.link/p?aquarium"
+      },
+      {
+        "name": "pzplus",
+        "link": "https://pzplus.tck.mn/p.html?aquarium"
       }
     ]
   },
@@ -2331,32 +2875,44 @@
       {
         "name": "puzz.link",
         "link": "https://puzz.link/p?parquet"
+      },
+      {
+        "name": "pzplus",
+        "link": "https://pzplus.tck.mn/p.html?parquet"
       }
     ]
   },
   {
     "title": "ちょうつがい",
     "names": [
-      "ちょうつがい",
-      "Hinge"
+      "Hinge",
+      "ちょうつがい"
     ],
     "editors": [
       {
         "name": "puzz.link",
         "link": "https://puzz.link/p?hinge"
+      },
+      {
+        "name": "pzplus",
+        "link": "https://pzplus.tck.mn/p.html?hinge"
       }
     ]
   },
   {
     "title": "へやブロ",
     "names": [
-      "へやブロ",
-      "Heyablock"
+      "Heyablock",
+      "へやブロ"
     ],
     "editors": [
       {
         "name": "puzz.link",
         "link": "https://puzz.link/p?heyablock"
+      },
+      {
+        "name": "pzplus",
+        "link": "https://pzplus.tck.mn/p.html?heyablock"
       }
     ]
   },
@@ -2370,6 +2926,10 @@
       {
         "name": "puzz.link",
         "link": "https://puzz.link/p?oneroom"
+      },
+      {
+        "name": "pzplus",
+        "link": "https://pzplus.tck.mn/p.html?oneroom"
       }
     ]
   },
@@ -2383,6 +2943,10 @@
       {
         "name": "puzz.link",
         "link": "https://puzz.link/p?nothree"
+      },
+      {
+        "name": "pzplus",
+        "link": "https://pzplus.tck.mn/p.html?nothree"
       }
     ]
   },
@@ -2395,6 +2959,10 @@
       {
         "name": "puzz.link",
         "link": "https://puzz.link/p?context"
+      },
+      {
+        "name": "pzplus",
+        "link": "https://pzplus.tck.mn/p.html?context"
       }
     ]
   },
@@ -2407,6 +2975,10 @@
       {
         "name": "puzz.link",
         "link": "https://puzz.link/p?vslither"
+      },
+      {
+        "name": "pzplus",
+        "link": "https://pzplus.tck.mn/p.html?vslither"
       }
     ]
   },
@@ -2419,19 +2991,27 @@
       {
         "name": "puzz.link",
         "link": "https://puzz.link/p?tslither"
+      },
+      {
+        "name": "pzplus",
+        "link": "https://pzplus.tck.mn/p.html?tslither"
       }
     ]
   },
   {
     "title": "鋭直鈍ループ",
     "names": [
-      "鋭直鈍ループ",
-      "Angle Loop"
+      "Angle Loop",
+      "鋭直鈍ループ"
     ],
     "editors": [
       {
         "name": "puzz.link",
         "link": "https://puzz.link/p?angleloop"
+      },
+      {
+        "name": "pzplus",
+        "link": "https://pzplus.tck.mn/p.html?angleloop"
       }
     ]
   },
@@ -2444,27 +3024,35 @@
       {
         "name": "puzz.link",
         "link": "https://puzz.link/p?doubleback"
+      },
+      {
+        "name": "pzplus",
+        "link": "https://pzplus.tck.mn/p.html?doubleback"
       }
     ]
   },
   {
     "title": "スクリン",
     "names": [
-      "スクリン",
-      "Scrin"
+      "Scrin",
+      "スクリン"
     ],
     "editors": [
       {
         "name": "puzz.link",
         "link": "https://puzz.link/p?scrin"
+      },
+      {
+        "name": "pzplus",
+        "link": "https://pzplus.tck.mn/p.html?scrin"
       }
     ]
   },
   {
     "title": "ヘヤジリン",
     "names": [
-      "ヘヤジリン",
       "Heyajilin",
+      "ヘヤジリン",
       "Regional Yajilin"
     ],
     "editors": [
@@ -2475,19 +3063,27 @@
       {
         "name": "pzprRT",
         "link": "https://semiexp.net/pzprrt/p.html?yajilin-regions"
+      },
+      {
+        "name": "pzplus",
+        "link": "https://pzplus.tck.mn/p.html?yajilin-regions"
       }
     ]
   },
   {
     "title": "グラーデヴェグ",
     "names": [
-      "グラーデヴェグ",
-      "Geradeweg"
+      "Geradeweg",
+      "グラーデヴェグ"
     ],
     "editors": [
       {
         "name": "puzz.link",
         "link": "https://puzz.link/p?geradeweg"
+      },
+      {
+        "name": "pzplus",
+        "link": "https://pzplus.tck.mn/p.html?geradeweg"
       }
     ]
   },
@@ -2504,6 +3100,10 @@
       {
         "name": "pzprRT",
         "link": "https://semiexp.net/pzprrt/p.html?castle"
+      },
+      {
+        "name": "pzplus",
+        "link": "https://pzplus.tck.mn/p.html?castle"
       }
     ]
   },
@@ -2516,6 +3116,10 @@
       {
         "name": "puzz.link",
         "link": "https://puzz.link/p?maxi"
+      },
+      {
+        "name": "pzplus",
+        "link": "https://pzplus.tck.mn/p.html?maxi"
       }
     ]
   },
@@ -2529,6 +3133,10 @@
       {
         "name": "puzz.link",
         "link": "https://puzz.link/p?midloop"
+      },
+      {
+        "name": "pzplus",
+        "link": "https://pzplus.tck.mn/p.html?midloop"
       }
     ]
   },
@@ -2541,6 +3149,10 @@
       {
         "name": "puzz.link",
         "link": "https://puzz.link/p?balance"
+      },
+      {
+        "name": "pzplus",
+        "link": "https://pzplus.tck.mn/p.html?balance"
       }
     ]
   },
@@ -2558,6 +3170,10 @@
       {
         "name": "pzprRT",
         "link": "https://semiexp.net/pzprrt/p.html?simpleloop"
+      },
+      {
+        "name": "pzplus",
+        "link": "https://pzplus.tck.mn/p.html?simpleloop"
       }
     ]
   },
@@ -2570,6 +3186,10 @@
       {
         "name": "puzz.link",
         "link": "https://puzz.link/p?detour"
+      },
+      {
+        "name": "pzplus",
+        "link": "https://pzplus.tck.mn/p.html?detour"
       }
     ]
   },
@@ -2582,6 +3202,10 @@
       {
         "name": "puzz.link",
         "link": "https://puzz.link/p?haisu"
+      },
+      {
+        "name": "pzplus",
+        "link": "https://pzplus.tck.mn/p.html?haisu"
       }
     ]
   },
@@ -2594,19 +3218,27 @@
       {
         "name": "puzz.link",
         "link": "https://puzz.link/p?tapaloop"
+      },
+      {
+        "name": "pzplus",
+        "link": "https://pzplus.tck.mn/p.html?tapaloop"
       }
     ]
   },
   {
     "title": "ドッチループ",
     "names": [
-      "Dotchi-Loop",
-      "ドッチループ"
+      "ドッチループ",
+      "Dotchi-Loop"
     ],
     "editors": [
       {
         "name": "puzz.link",
         "link": "https://puzz.link/p?dotchi"
+      },
+      {
+        "name": "pzplus",
+        "link": "https://pzplus.tck.mn/p.html?dotchi"
       }
     ]
   },
@@ -2619,19 +3251,27 @@
       {
         "name": "puzz.link",
         "link": "https://puzz.link/p?ovotovata"
+      },
+      {
+        "name": "pzplus",
+        "link": "https://pzplus.tck.mn/p.html?ovotovata"
       }
     ]
   },
   {
     "title": "ビルウォーク",
     "names": [
-      "ビルウォーク",
-      "Building Walk"
+      "Building Walk",
+      "ビルウォーク"
     ],
     "editors": [
       {
         "name": "puzz.link",
         "link": "https://puzz.link/p?bdwalk"
+      },
+      {
+        "name": "pzplus",
+        "link": "https://pzplus.tck.mn/p.html?bdwalk"
       }
     ]
   },
@@ -2644,6 +3284,10 @@
       {
         "name": "puzz.link",
         "link": "https://puzz.link/p?railpool"
+      },
+      {
+        "name": "pzplus",
+        "link": "https://pzplus.tck.mn/p.html?railpool"
       }
     ]
   },
@@ -2656,6 +3300,10 @@
       {
         "name": "puzz.link",
         "link": "https://puzz.link/p?disloop"
+      },
+      {
+        "name": "pzplus",
+        "link": "https://pzplus.tck.mn/p.html?disloop"
       }
     ]
   },
@@ -2672,19 +3320,27 @@
       {
         "name": "Kudamono Editor",
         "link": "https://pedros.works/ant-mill.html?W=8&H=8"
+      },
+      {
+        "name": "pzplus",
+        "link": "https://pzplus.tck.mn/p.html?antmill"
       }
     ]
   },
   {
     "title": "コブリン",
     "names": [
-      "Koburin",
-      "コブリン"
+      "コブリン",
+      "Koburin"
     ],
     "editors": [
       {
         "name": "puzz.link",
         "link": "https://puzz.link/p?koburin"
+      },
+      {
+        "name": "pzplus",
+        "link": "https://pzplus.tck.mn/p.html?koburin"
       }
     ]
   },
@@ -2697,6 +3353,10 @@
       {
         "name": "puzz.link",
         "link": "https://puzz.link/p?crossstitch"
+      },
+      {
+        "name": "pzplus",
+        "link": "https://pzplus.tck.mn/p.html?crossstitch"
       }
     ]
   },
@@ -2709,6 +3369,10 @@
       {
         "name": "puzz.link",
         "link": "https://puzz.link/p?roundtrip"
+      },
+      {
+        "name": "pzplus",
+        "link": "https://pzplus.tck.mn/p.html?roundtrip"
       }
     ]
   },
@@ -2721,32 +3385,44 @@
       {
         "name": "puzz.link",
         "link": "https://puzz.link/p?rassi"
+      },
+      {
+        "name": "pzplus",
+        "link": "https://pzplus.tck.mn/p.html?rassi"
       }
     ]
   },
   {
     "title": "フィッシング",
     "names": [
-      "Anglers",
-      "フィッシング"
+      "フィッシング",
+      "Anglers"
     ],
     "editors": [
       {
         "name": "puzz.link",
         "link": "https://puzz.link/p?anglers"
+      },
+      {
+        "name": "pzplus",
+        "link": "https://pzplus.tck.mn/p.html?anglers"
       }
     ]
   },
   {
     "title": "コーヒー牛乳",
     "names": [
-      "Coffee Milk",
-      "コーヒー牛乳"
+      "コーヒー牛乳",
+      "Coffee Milk"
     ],
     "editors": [
       {
         "name": "puzz.link",
         "link": "https://puzz.link/p?coffeemilk"
+      },
+      {
+        "name": "pzplus",
+        "link": "https://pzplus.tck.mn/p.html?coffeemilk"
       }
     ]
   },
@@ -2760,6 +3436,10 @@
       {
         "name": "puzz.link",
         "link": "https://puzz.link/p?yajisoko"
+      },
+      {
+        "name": "pzplus",
+        "link": "https://pzplus.tck.mn/p.html?yajisoko"
       }
     ]
   },
@@ -2773,6 +3453,10 @@
       {
         "name": "puzz.link",
         "link": "https://puzz.link/p?heteromino"
+      },
+      {
+        "name": "pzplus",
+        "link": "https://pzplus.tck.mn/p.html?heteromino"
       }
     ]
   },
@@ -2786,32 +3470,44 @@
       {
         "name": "puzz.link",
         "link": "https://puzz.link/p?dbchoco"
+      },
+      {
+        "name": "pzplus",
+        "link": "https://pzplus.tck.mn/p.html?dbchoco"
       }
     ]
   },
   {
     "title": "Compass",
     "names": [
-      "Compass",
-      "コンパス"
+      "コンパス",
+      "Compass"
     ],
     "editors": [
       {
         "name": "puzz.link",
         "link": "https://puzz.link/p?compass"
+      },
+      {
+        "name": "pzplus",
+        "link": "https://pzplus.tck.mn/p.html?compass"
       }
     ]
   },
   {
     "title": "相ダ部屋",
     "names": [
-      "相ダ部屋",
-      "Araf"
+      "Araf",
+      "相ダ部屋"
     ],
     "editors": [
       {
         "name": "puzz.link",
         "link": "https://puzz.link/p?araf"
+      },
+      {
+        "name": "pzplus",
+        "link": "https://pzplus.tck.mn/p.html?araf"
       }
     ]
   },
@@ -2824,6 +3520,10 @@
       {
         "name": "puzz.link",
         "link": "https://puzz.link/p?nikoji"
+      },
+      {
+        "name": "pzplus",
+        "link": "https://pzplus.tck.mn/p.html?nikoji"
       }
     ]
   },
@@ -2836,6 +3536,10 @@
       {
         "name": "puzz.link",
         "link": "https://puzz.link/p?lohkous"
+      },
+      {
+        "name": "pzplus",
+        "link": "https://pzplus.tck.mn/p.html?lohkous"
       }
     ]
   },
@@ -2848,6 +3552,10 @@
       {
         "name": "puzz.link",
         "link": "https://puzz.link/p?lapaz"
+      },
+      {
+        "name": "pzplus",
+        "link": "https://pzplus.tck.mn/p.html?lapaz"
       }
     ]
   },
@@ -2860,6 +3568,10 @@
       {
         "name": "puzz.link",
         "link": "https://puzz.link/p?pentominous"
+      },
+      {
+        "name": "pzplus",
+        "link": "https://pzplus.tck.mn/p.html?pentominous"
       }
     ]
   },
@@ -2872,6 +3584,10 @@
       {
         "name": "puzz.link",
         "link": "https://puzz.link/p?tontti"
+      },
+      {
+        "name": "pzplus",
+        "link": "https://pzplus.tck.mn/p.html?tontti"
       }
     ]
   },
@@ -2885,6 +3601,10 @@
       {
         "name": "puzz.link",
         "link": "https://puzz.link/p?tajmahal"
+      },
+      {
+        "name": "pzplus",
+        "link": "https://pzplus.tck.mn/p.html?tajmahal"
       }
     ]
   },
@@ -2898,19 +3618,27 @@
       {
         "name": "puzz.link",
         "link": "https://puzz.link/p?mirrorbk"
+      },
+      {
+        "name": "pzplus",
+        "link": "https://pzplus.tck.mn/p.html?mirrorbk"
       }
     ]
   },
   {
     "title": "家族写真",
     "names": [
-      "家族写真",
-      "Family Photo"
+      "Family Photo",
+      "家族写真"
     ],
     "editors": [
       {
         "name": "puzz.link",
         "link": "https://puzz.link/p?familyphoto"
+      },
+      {
+        "name": "pzplus",
+        "link": "https://pzplus.tck.mn/p.html?familyphoto"
       }
     ]
   },
@@ -2923,6 +3651,10 @@
       {
         "name": "puzz.link",
         "link": "https://puzz.link/p?voxas"
+      },
+      {
+        "name": "pzplus",
+        "link": "https://pzplus.tck.mn/p.html?voxas"
       }
     ]
   },
@@ -2939,19 +3671,27 @@
       {
         "name": "Kudamono Editor",
         "link": "https://pedros.works/square-jam.html?W=8&H=8"
+      },
+      {
+        "name": "pzplus",
+        "link": "https://pzplus.tck.mn/p.html?squarejam"
       }
     ]
   },
   {
     "title": "Doppelblock",
     "names": [
-      "ビトゥイーン・サム",
-      "Doppelblock"
+      "Doppelblock",
+      "ビトゥイーン・サム"
     ],
     "editors": [
       {
         "name": "puzz.link",
         "link": "https://puzz.link/p?doppelblock"
+      },
+      {
+        "name": "pzplus",
+        "link": "https://pzplus.tck.mn/p.html?doppelblock"
       }
     ]
   },
@@ -2965,6 +3705,10 @@
       {
         "name": "puzz.link",
         "link": "https://puzz.link/p?numrope"
+      },
+      {
+        "name": "pzplus",
+        "link": "https://pzplus.tck.mn/p.html?numrope"
       }
     ]
   },
@@ -2978,19 +3722,27 @@
       {
         "name": "puzz.link",
         "link": "https://puzz.link/p?symmarea"
+      },
+      {
+        "name": "pzplus",
+        "link": "https://pzplus.tck.mn/p.html?symmarea"
       }
     ]
   },
   {
     "title": "にょろにょろナンバー",
     "names": [
-      "Meandering Numbers",
-      "にょろにょろナンバー"
+      "にょろにょろナンバー",
+      "Meandering Numbers"
     ],
     "editors": [
       {
         "name": "puzz.link",
         "link": "https://puzz.link/p?meander"
+      },
+      {
+        "name": "pzplus",
+        "link": "https://pzplus.tck.mn/p.html?meander"
       }
     ]
   },
@@ -3004,19 +3756,27 @@
       {
         "name": "puzz.link",
         "link": "https://puzz.link/p?putteria"
+      },
+      {
+        "name": "pzplus",
+        "link": "https://pzplus.tck.mn/p.html?putteria"
       }
     ]
   },
   {
     "title": "遠い誓い２",
     "names": [
-      "Toichika 2",
-      "遠い誓い２"
+      "遠い誓い２",
+      "Toichika 2"
     ],
     "editors": [
       {
         "name": "puzz.link",
         "link": "https://puzz.link/p?toichika2"
+      },
+      {
+        "name": "pzplus",
+        "link": "https://pzplus.tck.mn/p.html?toichika2"
       }
     ]
   },
@@ -3029,6 +3789,10 @@
       {
         "name": "puzz.link",
         "link": "https://puzz.link/p?snakepit"
+      },
+      {
+        "name": "pzplus",
+        "link": "https://pzplus.tck.mn/p.html?snakepit"
       }
     ]
   },
@@ -3042,6 +3806,10 @@
       {
         "name": "puzz.link",
         "link": "https://puzz.link/p?curvedata"
+      },
+      {
+        "name": "pzplus",
+        "link": "https://pzplus.tck.mn/p.html?curvedata"
       }
     ]
   },
@@ -3054,19 +3822,27 @@
       {
         "name": "puzz.link",
         "link": "https://puzz.link/p?lither"
+      },
+      {
+        "name": "pzplus",
+        "link": "https://pzplus.tck.mn/p.html?lither"
       }
     ]
   },
   {
     "title": "ペンシルズ",
     "names": [
-      "ペンシルズ",
-      "Pencils"
+      "Pencils",
+      "ペンシルズ"
     ],
     "editors": [
       {
         "name": "puzz.link",
         "link": "https://puzz.link/p?pencils"
+      },
+      {
+        "name": "pzplus",
+        "link": "https://pzplus.tck.mn/p.html?pencils"
       }
     ]
   },
@@ -3079,32 +3855,44 @@
       {
         "name": "puzz.link",
         "link": "https://puzz.link/p?tents"
+      },
+      {
+        "name": "pzplus",
+        "link": "https://pzplus.tck.mn/p.html?tents"
       }
     ]
   },
   {
     "title": "マインスイーパ",
     "names": [
-      "Minesweeper",
-      "マインスイーパ"
+      "マインスイーパ",
+      "Minesweeper"
     ],
     "editors": [
       {
         "name": "puzz.link",
         "link": "https://puzz.link/p?mines"
+      },
+      {
+        "name": "pzplus",
+        "link": "https://pzplus.tck.mn/p.html?mines"
       }
     ]
   },
   {
     "title": "パーキング",
     "names": [
-      "Tren",
-      "パーキング"
+      "パーキング",
+      "Tren"
     ],
     "editors": [
       {
         "name": "puzz.link",
         "link": "https://puzz.link/p?tren"
+      },
+      {
+        "name": "pzplus",
+        "link": "https://pzplus.tck.mn/p.html?tren"
       }
     ]
   },
@@ -3118,19 +3906,27 @@
       {
         "name": "puzz.link",
         "link": "https://puzz.link/p?kaidan"
+      },
+      {
+        "name": "pzplus",
+        "link": "https://pzplus.tck.mn/p.html?kaidan"
       }
     ]
   },
   {
     "title": "たこ焼き",
     "names": [
-      "たこ焼き",
-      "Takoyaki"
+      "Takoyaki",
+      "たこ焼き"
     ],
     "editors": [
       {
         "name": "puzz.link",
         "link": "https://puzz.link/p?takoyaki"
+      },
+      {
+        "name": "pzplus",
+        "link": "https://pzplus.tck.mn/p.html?takoyaki"
       }
     ]
   },
@@ -3143,6 +3939,10 @@
       {
         "name": "puzz.link",
         "link": "https://puzz.link/p?statuepark"
+      },
+      {
+        "name": "pzplus",
+        "link": "https://pzplus.tck.mn/p.html?statuepark"
       }
     ]
   },
@@ -3155,19 +3955,27 @@
       {
         "name": "puzz.link",
         "link": "https://puzz.link/p?pentopia"
+      },
+      {
+        "name": "pzplus",
+        "link": "https://pzplus.tck.mn/p.html?pentopia"
       }
     ]
   },
   {
     "title": "ペロペロキャンディ",
     "names": [
-      "ペロペロキャンディ",
-      "Lollipops"
+      "Lollipops",
+      "ペロペロキャンディ"
     ],
     "editors": [
       {
         "name": "puzz.link",
         "link": "https://puzz.link/p?lollipops"
+      },
+      {
+        "name": "pzplus",
+        "link": "https://pzplus.tck.mn/p.html?lollipops"
       }
     ]
   },
@@ -3367,8 +4175,8 @@
     "title": "Black Holes",
     "names": [
       "Stardust",
-      "Black Holes",
-      "ブラックホール"
+      "ブラックホール",
+      "Black Holes"
     ],
     "editors": [
       {
@@ -3428,8 +4236,8 @@
   {
     "title": "パールネックレス",
     "names": [
-      "パールネックレス",
-      "Pearl Necklace"
+      "Pearl Necklace",
+      "パールネックレス"
     ],
     "editors": [
       {
@@ -3900,8 +4708,8 @@
   {
     "title": "アイスダンス・ペア",
     "names": [
-      "アイスダンス・ペア",
-      "Ice Dance Pair"
+      "Ice Dance Pair",
+      "アイスダンス・ペア"
     ],
     "editors": [
       {
@@ -3973,8 +4781,8 @@
   {
     "title": "ベンズループ",
     "names": [
-      "ベンズループ",
-      "Venn"
+      "Venn",
+      "ベンズループ"
     ],
     "editors": [
       {
@@ -4493,9 +5301,9 @@
   {
     "title": "ハニーアイランド",
     "names": [
-      "ハニーアイランド",
+      "Honey Island",
       "ハニア",
-      "Honey Island"
+      "ハニーアイランド"
     ],
     "editors": [
       {
@@ -4519,8 +5327,8 @@
   {
     "title": "シークワーズ",
     "names": [
-      "Seek Words",
-      "シークワーズ"
+      "シークワーズ",
+      "Seek Words"
     ],
     "editors": [
       {
@@ -4568,14 +5376,18 @@
       {
         "name": "puzz.link",
         "link": "https://puzz.link/p?icewalk"
+      },
+      {
+        "name": "pzplus",
+        "link": "https://pzplus.tck.mn/p.html?icewalk"
       }
     ]
   },
   {
     "title": "シロクロパイ",
     "names": [
-      "シロクロパイ",
-      "Shirokuro Pipe"
+      "Shirokuro Pipe",
+      "シロクロパイ"
     ],
     "editors": [
       {
@@ -4600,8 +5412,8 @@
   {
     "title": "コローン",
     "names": [
-      "コローン",
-      "Clones"
+      "Clones",
+      "コローン"
     ],
     "editors": [
       {
@@ -4613,8 +5425,8 @@
   {
     "title": "ブラウニー",
     "names": [
-      "ブラウニー",
-      "Brownies"
+      "Brownies",
+      "ブラウニー"
     ],
     "editors": [
       {

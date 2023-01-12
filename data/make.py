@@ -116,6 +116,7 @@ def main():
     parser.add_argument('--pzprv3', type=str)
     parser.add_argument('--puzzlink-ja', type=str)
     parser.add_argument('--puzzlink-en', type=str)
+    parser.add_argument('--pzplus', type=str)
     parser.add_argument('--kudamono', type=str)
     parser.add_argument('--base', type=str)
     parser.add_argument('--link', type=str)
@@ -139,6 +140,9 @@ def main():
 
     if args.puzzlink_en:
         puzzle_dict.load("puzz.link", args.puzzlink_en)
+
+    if args.pzplus:
+        puzzle_dict.load("pzplus", args.pzplus)
 
     if args.kudamono:
         puzzle_dict.load_kudamono(args.kudamono)
