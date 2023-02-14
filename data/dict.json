@@ -2,8 +2,8 @@
   {
     "title": "ぬりかべ",
     "names": [
-      "Nurikabe",
-      "ぬりかべ"
+      "ぬりかべ",
+      "Nurikabe"
     ],
     "editors": [
       {
@@ -48,8 +48,8 @@
   {
     "title": "ぬりみさき",
     "names": [
-      "ぬりみさき",
-      "Nurimisaki"
+      "Nurimisaki",
+      "ぬりみさき"
     ],
     "editors": [
       {
@@ -286,8 +286,8 @@
   {
     "title": "のりのり",
     "names": [
-      "のりのり",
-      "Norinori"
+      "Norinori",
+      "のりのり"
     ],
     "editors": [
       {
@@ -311,8 +311,8 @@
   {
     "title": "ぬりめいず",
     "names": [
-      "Nuri-Maze",
-      "ぬりめいず"
+      "ぬりめいず",
+      "Nuri-Maze"
     ],
     "editors": [
       {
@@ -424,8 +424,8 @@
   {
     "title": "チョコナ",
     "names": [
-      "Chocona",
-      "チョコナ"
+      "チョコナ",
+      "Chocona"
     ],
     "editors": [
       {
@@ -445,8 +445,8 @@
   {
     "title": "へやわけ",
     "names": [
-      "へやわけ",
-      "Heyawake"
+      "Heyawake",
+      "へやわけ"
     ],
     "editors": [
       {
@@ -491,9 +491,9 @@
   {
     "title": "黒どこ",
     "names": [
+      "黒どこ",
       "黒マスはどこだ",
-      "Kurodoko",
-      "黒どこ"
+      "Kurodoko"
     ],
     "editors": [
       {
@@ -513,8 +513,8 @@
   {
     "title": "ウソワン",
     "names": [
-      "Uso-one",
-      "ウソワン"
+      "ウソワン",
+      "Uso-one"
     ],
     "editors": [
       {
@@ -577,8 +577,8 @@
     "title": "∀人∃ＨＥＹＡ",
     "names": [
       "ぜんべや",
-      "∀人∃ＨＥＹＡ",
-      "ekawayeh"
+      "ekawayeh",
+      "∀人∃ＨＥＹＡ"
     ],
     "editors": [
       {
@@ -598,10 +598,10 @@
   {
     "title": "スリザーリンク",
     "names": [
-      "Slitherlink",
-      "スリザーリンク",
+      "Fences",
       "スリリン",
-      "Fences"
+      "Slitherlink",
+      "スリザーリンク"
     ],
     "editors": [
       {
@@ -768,8 +768,8 @@
   {
     "title": "カントリーロード",
     "names": [
-      "カントリーロード",
-      "Country Road"
+      "Country Road",
+      "カントリーロード"
     ],
     "editors": [
       {
@@ -789,8 +789,8 @@
   {
     "title": "温泉めぐり",
     "names": [
-      "温泉めぐり",
-      "Onsen-meguri"
+      "Onsen-meguri",
+      "温泉めぐり"
     ],
     "editors": [
       {
@@ -831,8 +831,8 @@
   {
     "title": "リフレクトリンク",
     "names": [
-      "リフレクトリンク",
-      "Reflect Link"
+      "Reflect Link",
+      "リフレクトリンク"
     ],
     "editors": [
       {
@@ -894,8 +894,8 @@
   {
     "title": "なげなわ",
     "names": [
-      "なげなわ",
-      "Nagenawa"
+      "Nagenawa",
+      "なげなわ"
     ],
     "editors": [
       {
@@ -915,8 +915,8 @@
   {
     "title": "交差は直角に限る",
     "names": [
-      "Kouchoku",
-      "交差は直角に限る"
+      "交差は直角に限る",
+      "Kouchoku"
     ],
     "editors": [
       {
@@ -936,8 +936,8 @@
   {
     "title": "リングリング",
     "names": [
-      "Ring-ring",
-      "リングリング"
+      "リングリング",
+      "Ring-ring"
     ],
     "editors": [
       {
@@ -978,8 +978,8 @@
   {
     "title": "帰ってきたパイプリンク",
     "names": [
-      "帰ってきたパイプリンク",
-      "Pipelink Returns"
+      "Pipelink Returns",
+      "帰ってきたパイプリンク"
     ],
     "editors": [
       {
@@ -1020,8 +1020,8 @@
   {
     "title": "アイスローム",
     "names": [
-      "アイスローム",
-      "Icelom"
+      "Icelom",
+      "アイスローム"
     ],
     "editors": [
       {
@@ -1041,8 +1041,8 @@
   {
     "title": "アイスローム２",
     "names": [
-      "アイスローム２",
-      "Icelom 2"
+      "Icelom 2",
+      "アイスローム２"
     ],
     "editors": [
       {
@@ -1063,8 +1063,8 @@
     "title": "ナンバーリンク",
     "names": [
       "ナンリン",
-      "Numberlink",
-      "ナンバーリンク"
+      "ナンバーリンク",
+      "Numberlink"
     ],
     "editors": [
       {
@@ -1088,8 +1088,8 @@
   {
     "title": "シロクロリンク",
     "names": [
-      "シロクロリンク",
-      "Shirokuro-link"
+      "Shirokuro-link",
+      "シロクロリンク"
     ],
     "editors": [
       {
@@ -1130,8 +1130,8 @@
   {
     "title": "アルコネ",
     "names": [
-      "アルコネ",
-      "Arukone"
+      "Arukone",
+      "アルコネ"
     ],
     "editors": [
       {
@@ -1151,9 +1151,9 @@
   {
     "title": "橋をかけろ",
     "names": [
-      "橋をかけろ",
+      "はしかけ",
       "Hashiwokakero",
-      "はしかけ"
+      "橋をかけろ"
     ],
     "editors": [
       {
@@ -1173,8 +1173,8 @@
   {
     "title": "ホタルビーム",
     "names": [
-      "Hotaru Beam",
-      "ホタルビーム"
+      "ホタルビーム",
+      "Hotaru Beam"
     ],
     "editors": [
       {
@@ -1194,9 +1194,9 @@
   {
     "title": "イチマガ",
     "names": [
-      "イチマガ",
       "一回曲がってこんにちは",
-      "Ichimaga"
+      "Ichimaga",
+      "イチマガ"
     ],
     "editors": [
       {
@@ -1237,8 +1237,8 @@
   {
     "title": "一回曲がって交差もするの",
     "names": [
-      "Crossing Ichimaga",
-      "一回曲がって交差もするの"
+      "一回曲がって交差もするの",
+      "Crossing Ichimaga"
     ],
     "editors": [
       {
@@ -1258,8 +1258,8 @@
   {
     "title": "あみぼー",
     "names": [
-      "あみぼー",
-      "Amibo"
+      "Amibo",
+      "あみぼー"
     ],
     "editors": [
       {
@@ -1321,8 +1321,8 @@
   {
     "title": "よせなべ",
     "names": [
-      "Yosenabe",
-      "よせなべ"
+      "よせなべ",
+      "Yosenabe"
     ],
     "editors": [
       {
@@ -1342,8 +1342,8 @@
   {
     "title": "ぐんたいあり",
     "names": [
-      "ぐんたいあり",
-      "Army Ants"
+      "Army Ants",
+      "ぐんたいあり"
     ],
     "editors": [
       {
@@ -1405,8 +1405,8 @@
   {
     "title": "四角スライダー",
     "names": [
-      "四角スライダー",
-      "Rectangle-Slider"
+      "Rectangle-Slider",
+      "四角スライダー"
     ],
     "editors": [
       {
@@ -1489,8 +1489,8 @@
   {
     "title": "ファイブセルズ",
     "names": [
-      "FiveCells",
-      "ファイブセルズ"
+      "ファイブセルズ",
+      "FiveCells"
     ],
     "editors": [
       {
@@ -1510,8 +1510,8 @@
   {
     "title": "さしがね",
     "names": [
-      "さしがね",
-      "Sashigane"
+      "Sashigane",
+      "さしがね"
     ],
     "editors": [
       {
@@ -1531,8 +1531,8 @@
   {
     "title": "なわばり",
     "names": [
-      "Territory",
-      "なわばり"
+      "なわばり",
+      "Territory"
     ],
     "editors": [
       {
@@ -1573,8 +1573,8 @@
   {
     "title": "フォーセルズ",
     "names": [
-      "FourCells",
-      "フォーセルズ"
+      "フォーセルズ",
+      "FourCells"
     ],
     "editors": [
       {
@@ -1615,8 +1615,8 @@
   {
     "title": "天体ショー",
     "names": [
-      "Tentaisho",
-      "天体ショー"
+      "天体ショー",
+      "Tentaisho"
     ],
     "editors": [
       {
@@ -1699,8 +1699,8 @@
   {
     "title": "コンビブロック",
     "names": [
-      "Combi Block",
-      "コンビブロック"
+      "コンビブロック",
+      "Combi Block"
     ],
     "editors": [
       {
@@ -1741,8 +1741,8 @@
   {
     "title": "タタミバリ",
     "names": [
-      "Tatamibari",
-      "タタミバリ"
+      "タタミバリ",
+      "Tatamibari"
     ],
     "editors": [
       {
@@ -1783,8 +1783,8 @@
   {
     "title": "ウソタタミ",
     "names": [
-      "ウソタタミ",
-      "Uso-tatami"
+      "Uso-tatami",
+      "ウソタタミ"
     ],
     "editors": [
       {
@@ -1804,8 +1804,8 @@
   {
     "title": "ヤジタタミ",
     "names": [
-      "ヤジタタミ",
-      "Yajitatami"
+      "Yajitatami",
+      "ヤジタタミ"
     ],
     "editors": [
       {
@@ -1826,8 +1826,8 @@
     "title": "カックロ",
     "names": [
       "サムクロス",
-      "カックロ",
       "足し算クロス",
+      "カックロ",
       "Kakuro"
     ],
     "editors": [
@@ -1953,8 +1953,8 @@
   {
     "title": "ビルディングパズル",
     "names": [
-      "ビルディングパズル",
-      "Skyscrapers"
+      "Skyscrapers",
+      "ビルディングパズル"
     ],
     "editors": [
       {
@@ -1994,8 +1994,8 @@
   {
     "title": "ABCプレース",
     "names": [
-      "Easy as ABC",
-      "ABCプレース"
+      "ABCプレース",
+      "Easy as ABC"
     ],
     "editors": [
       {
@@ -2015,10 +2015,10 @@
   {
     "title": "数独",
     "names": [
+      "Number Place",
       "数独",
       "Sudoku",
       "ナンプレ",
-      "Number Place",
       "数字は独身に限る",
       "ナンバープレース"
     ],
@@ -2048,8 +2048,8 @@
   {
     "title": "フィルオミノ",
     "names": [
-      "Fillomino",
-      "フィルオミノ"
+      "フィルオミノ",
+      "Fillomino"
     ],
     "editors": [
       {
@@ -2111,8 +2111,8 @@
   {
     "title": "マカロ",
     "names": [
-      "Makaro",
-      "マカロ"
+      "マカロ",
+      "Makaro"
     ],
     "editors": [
       {
@@ -2153,8 +2153,8 @@
   {
     "title": "コージュン",
     "names": [
-      "コージュン",
-      "Cojun"
+      "Cojun",
+      "コージュン"
     ],
     "editors": [
       {
@@ -2195,8 +2195,8 @@
   {
     "title": "数コロ部屋",
     "names": [
-      "Sukoro-room",
-      "数コロ部屋"
+      "数コロ部屋",
+      "Sukoro-room"
     ],
     "editors": [
       {
@@ -2237,8 +2237,8 @@
   {
     "title": "かずのりのへや",
     "names": [
-      "かずのりのへや",
-      "Kazunori Room"
+      "Kazunori Room",
+      "かずのりのへや"
     ],
     "editors": [
       {
@@ -2258,8 +2258,8 @@
   {
     "title": "縦横さん",
     "names": [
-      "縦横さん",
-      "Juosan"
+      "Juosan",
+      "縦横さん"
     ],
     "editors": [
       {
@@ -2279,8 +2279,8 @@
   {
     "title": "ごきげんななめ",
     "names": [
-      "Slant",
-      "ごきげんななめ"
+      "ごきげんななめ",
+      "Slant"
     ],
     "editors": [
       {
@@ -2321,8 +2321,8 @@
   {
     "title": "ごきげんななめ・輪切",
     "names": [
-      "Wagiri",
-      "ごきげんななめ・輪切"
+      "ごきげんななめ・輪切",
+      "Wagiri"
     ],
     "editors": [
       {
@@ -2342,8 +2342,8 @@
   {
     "title": "ウォールロジック",
     "names": [
-      "ウォールロジック",
-      "Wall Logic"
+      "Wall Logic",
+      "ウォールロジック"
     ],
     "editors": [
       {
@@ -2363,8 +2363,8 @@
   {
     "title": "美術館",
     "names": [
-      "Akari",
       "美術館",
+      "Akari",
       "Light Up"
     ],
     "editors": [
@@ -2389,8 +2389,8 @@
   {
     "title": "碁石ひろい",
     "names": [
-      "碁石ひろい",
-      "Goishi"
+      "Goishi",
+      "碁石ひろい"
     ],
     "editors": [
       {
@@ -2410,8 +2410,8 @@
   {
     "title": "シャカシャカ",
     "names": [
-      "Shakashaka",
-      "シャカシャカ"
+      "シャカシャカ",
+      "Shakashaka"
     ],
     "editors": [
       {
@@ -2435,8 +2435,8 @@
   {
     "title": "キンコンカン",
     "names": [
-      "Kin-Kon-Kan",
-      "キンコンカン"
+      "キンコンカン",
+      "Kin-Kon-Kan"
     ],
     "editors": [
       {
@@ -2477,8 +2477,8 @@
   {
     "title": "修学旅行の夜",
     "names": [
-      "School Trip",
-      "修学旅行の夜"
+      "修学旅行の夜",
+      "School Trip"
     ],
     "editors": [
       {
@@ -2498,8 +2498,8 @@
   {
     "title": "ドッスンフワリ",
     "names": [
-      "ドッスンフワリ",
-      "Dosun-Fuwari"
+      "Dosun-Fuwari",
+      "ドッスンフワリ"
     ],
     "editors": [
       {
@@ -2520,8 +2520,8 @@
     "title": "はこいり○△□",
     "names": [
       "Hakoiri-masashi",
-      "はこいりまさし",
-      "はこいり○△□"
+      "はこいり○△□",
+      "はこいりまさし"
     ],
     "editors": [
       {
@@ -2541,8 +2541,8 @@
   {
     "title": "ろーま",
     "names": [
-      "Roma",
-      "ろーま"
+      "ろーま",
+      "Roma"
     ],
     "editors": [
       {
@@ -2583,8 +2583,8 @@
   {
     "title": "ノンダンゴ",
     "names": [
-      "ノンダンゴ",
-      "Nondango"
+      "Nondango",
+      "ノンダンゴ"
     ],
     "editors": [
       {
@@ -2604,8 +2604,8 @@
   {
     "title": "しろまるくろまる",
     "names": [
-      "Yin-Yang",
-      "しろまるくろまる"
+      "しろまるくろまる",
+      "Yin-Yang"
     ],
     "editors": [
       {
@@ -2662,8 +2662,8 @@
   {
     "title": "ののぐらむ",
     "names": [
-      "ののぐらむ",
-      "Nonogram"
+      "Nonogram",
+      "ののぐらむ"
     ],
     "editors": [
       {
@@ -2864,8 +2864,8 @@
   {
     "title": "アクアプレース",
     "names": [
-      "Aquarium",
-      "アクアプレース"
+      "アクアプレース",
+      "Aquarium"
     ],
     "editors": [
       {
@@ -2897,8 +2897,8 @@
   {
     "title": "ちょうつがい",
     "names": [
-      "ちょうつがい",
-      "Hinge"
+      "Hinge",
+      "ちょうつがい"
     ],
     "editors": [
       {
@@ -2914,8 +2914,8 @@
   {
     "title": "へやブロ",
     "names": [
-      "Heyablock",
-      "へやブロ"
+      "へやブロ",
+      "Heyablock"
     ],
     "editors": [
       {
@@ -2931,8 +2931,8 @@
   {
     "title": "ワンルームワンドア",
     "names": [
-      "One Room One Door",
-      "ワンルームワンドア"
+      "ワンルームワンドア",
+      "One Room One Door"
     ],
     "editors": [
       {
@@ -2948,8 +2948,8 @@
   {
     "title": "ノースリー",
     "names": [
-      "No Three",
-      "ノースリー"
+      "ノースリー",
+      "No Three"
     ],
     "editors": [
       {
@@ -3064,8 +3064,8 @@
     "title": "ヘヤジリン",
     "names": [
       "ヘヤジリン",
-      "Heyajilin",
-      "Regional Yajilin"
+      "Regional Yajilin",
+      "Heyajilin"
     ],
     "editors": [
       {
@@ -3085,8 +3085,8 @@
   {
     "title": "グラーデヴェグ",
     "names": [
-      "グラーデヴェグ",
-      "Geradeweg"
+      "Geradeweg",
+      "グラーデヴェグ"
     ],
     "editors": [
       {
@@ -3273,8 +3273,8 @@
   {
     "title": "ビルウォーク",
     "names": [
-      "Building Walk",
-      "ビルウォーク"
+      "ビルウォーク",
+      "Building Walk"
     ],
     "editors": [
       {
@@ -3342,8 +3342,8 @@
   {
     "title": "コブリン",
     "names": [
-      "コブリン",
-      "Koburin"
+      "Koburin",
+      "コブリン"
     ],
     "editors": [
       {
@@ -3441,8 +3441,8 @@
   {
     "title": "やじさん倉庫番",
     "names": [
-      "やじさん倉庫番",
-      "Yajisan-Sokoban"
+      "Yajisan-Sokoban",
+      "やじさん倉庫番"
     ],
     "editors": [
       {
@@ -3458,8 +3458,8 @@
   {
     "title": "ヘテロミノ",
     "names": [
-      "ヘテロミノ",
-      "Heteromino"
+      "Heteromino",
+      "ヘテロミノ"
     ],
     "editors": [
       {
@@ -3475,8 +3475,8 @@
   {
     "title": "ダブルチョコ",
     "names": [
-      "Double Choco",
-      "ダブルチョコ"
+      "ダブルチョコ",
+      "Double Choco"
     ],
     "editors": [
       {
@@ -3509,8 +3509,8 @@
   {
     "title": "相ダ部屋",
     "names": [
-      "Araf",
-      "相ダ部屋"
+      "相ダ部屋",
+      "Araf"
     ],
     "editors": [
       {
@@ -3744,8 +3744,8 @@
   {
     "title": "にょろにょろナンバー",
     "names": [
-      "Meandering Numbers",
-      "にょろにょろナンバー"
+      "にょろにょろナンバー",
+      "Meandering Numbers"
     ],
     "editors": [
       {
@@ -3778,8 +3778,8 @@
   {
     "title": "遠い誓い２",
     "names": [
-      "遠い誓い２",
-      "Toichika 2"
+      "Toichika 2",
+      "遠い誓い２"
     ],
     "editors": [
       {
@@ -3811,8 +3811,8 @@
   {
     "title": "カーブデータ",
     "names": [
-      "Curve Data",
-      "カーブデータ"
+      "カーブデータ",
+      "Curve Data"
     ],
     "editors": [
       {
@@ -3844,8 +3844,8 @@
   {
     "title": "ペンシルズ",
     "names": [
-      "ペンシルズ",
-      "Pencils"
+      "Pencils",
+      "ペンシルズ"
     ],
     "editors": [
       {
@@ -3877,8 +3877,8 @@
   {
     "title": "マインスイーパ",
     "names": [
-      "Minesweeper",
-      "マインスイーパ"
+      "マインスイーパ",
+      "Minesweeper"
     ],
     "editors": [
       {
@@ -3928,8 +3928,8 @@
   {
     "title": "たこ焼き",
     "names": [
-      "たこ焼き",
-      "Takoyaki"
+      "Takoyaki",
+      "たこ焼き"
     ],
     "editors": [
       {
@@ -3977,8 +3977,8 @@
   {
     "title": "ペロペロキャンディ",
     "names": [
-      "Lollipops",
-      "ペロペロキャンディ"
+      "ペロペロキャンディ",
+      "Lollipops"
     ],
     "editors": [
       {
@@ -4186,9 +4186,9 @@
   {
     "title": "Black Holes",
     "names": [
-      "ブラックホール",
       "Stardust",
-      "Black Holes"
+      "Black Holes",
+      "ブラックホール"
     ],
     "editors": [
       {
@@ -4248,8 +4248,8 @@
   {
     "title": "パールネックレス",
     "names": [
-      "パールネックレス",
-      "Pearl Necklace"
+      "Pearl Necklace",
+      "パールネックレス"
     ],
     "editors": [
       {
@@ -4369,8 +4369,8 @@
   {
     "title": "デコレーションツリー",
     "names": [
-      "デコレーションツリー",
-      "Decoration Tree"
+      "Decoration Tree",
+      "デコレーションツリー"
     ],
     "editors": [
       {
@@ -4394,8 +4394,8 @@
   {
     "title": "Ivy",
     "names": [
-      "Ivy",
-      "三叉路リンク"
+      "三叉路リンク",
+      "Ivy"
     ],
     "editors": [
       {
@@ -4587,8 +4587,8 @@
   {
     "title": "ハニーサーキット",
     "names": [
-      "ハニーサーキット",
-      "Honey Circuit"
+      "Honey Circuit",
+      "ハニーサーキット"
     ],
     "editors": [
       {
@@ -4720,8 +4720,8 @@
   {
     "title": "アイスダンス・ペア",
     "names": [
-      "Ice Dance Pair",
-      "アイスダンス・ペア"
+      "アイスダンス・ペア",
+      "Ice Dance Pair"
     ],
     "editors": [
       {
@@ -4843,9 +4843,9 @@
   {
     "title": "○×ループ",
     "names": [
-      "○×ループ",
       "OXループ",
-      "OX Loop"
+      "OX Loop",
+      "○×ループ"
     ],
     "editors": [
       {
@@ -5313,9 +5313,9 @@
   {
     "title": "ハニーアイランド",
     "names": [
-      "ハニーアイランド",
+      "ハニア",
       "Honey Island",
-      "ハニア"
+      "ハニーアイランド"
     ],
     "editors": [
       {
@@ -5339,8 +5339,8 @@
   {
     "title": "シークワーズ",
     "names": [
-      "Seek Words",
-      "シークワーズ"
+      "シークワーズ",
+      "Seek Words"
     ],
     "editors": [
       {
@@ -5356,8 +5356,8 @@
   {
     "title": "クロスワード",
     "names": [
-      "クロスワード",
-      "Cross Word"
+      "Cross Word",
+      "クロスワード"
     ],
     "editors": [
       {
@@ -5381,8 +5381,8 @@
   {
     "title": "アイスウォーク",
     "names": [
-      "アイスウォーク",
-      "Ice Walk"
+      "Ice Walk",
+      "アイスウォーク"
     ],
     "editors": [
       {
@@ -5398,8 +5398,8 @@
   {
     "title": "シロクロパイ",
     "names": [
-      "シロクロパイ",
-      "Shirokuro Pipe"
+      "Shirokuro Pipe",
+      "シロクロパイ"
     ],
     "editors": [
       {
@@ -5424,8 +5424,8 @@
   {
     "title": "コローン",
     "names": [
-      "コローン",
-      "Clones"
+      "Clones",
+      "コローン"
     ],
     "editors": [
       {
@@ -5437,8 +5437,8 @@
   {
     "title": "ブラウニー",
     "names": [
-      "ブラウニー",
-      "Brownies"
+      "Brownies",
+      "ブラウニー"
     ],
     "editors": [
       {
@@ -5556,6 +5556,18 @@
       {
         "name": "puzz.link",
         "link": "https://puzz.link/p?cocktail"
+      }
+    ]
+  },
+  {
+    "title": "NEWS",
+    "names": [
+      "NEWS"
+    ],
+    "editors": [
+      {
+        "name": "puzz.link",
+        "link": "https://puzz.link/p?news"
       }
     ]
   }
