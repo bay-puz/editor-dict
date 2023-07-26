@@ -28,7 +28,7 @@ class Puzzle:
         editors_list = []
         for editor in self.editors:
             editors_list.append({"name": editor["name"], "link": editor["link"]})
-        puzzle_dict = {"title": self.title, "names": list(self.names), "editors": editors_list}
+        puzzle_dict = {"title": self.title, "names": sorted(list(self.names)), "editors": editors_list}
         return puzzle_dict
 
 
