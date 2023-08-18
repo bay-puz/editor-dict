@@ -6148,5 +6148,17 @@
         "link": "https://pedros.works/paper-puzzle-player.html?&W=7&H=7&edit=1&G=reachability"
       }
     ]
+  },
+  {
+    "title": "Flexible Counters",
+    "names": [
+      "Flexible Counters"
+    ],
+    "editors": [
+      {
+        "name": "Kudamono Editor",
+        "link": "https://pedros.works/paper-puzzle-player.html?&W=7&H=7&edit=1&G=flexible-counters"
+      }
+    ]
   }
 ]
