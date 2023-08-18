@@ -6160,5 +6160,17 @@
         "link": "https://pedros.works/paper-puzzle-player.html?&W=7&H=7&edit=1&G=flexible-counters"
       }
     ]
+  },
+  {
+    "title": "Redemption",
+    "names": [
+      "Redemption"
+    ],
+    "editors": [
+      {
+        "name": "Kudamono Editor",
+        "link": "https://pedros.works/paper-puzzle-player.html?&W=7&H=7&edit=1&G=redemption"
+      }
+    ]
   }
 ]
