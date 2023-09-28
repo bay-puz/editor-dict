@@ -6260,5 +6260,17 @@
         "link": "https://puzz.link/p?aquapelago"
       }
     ]
+  },
+  {
+    "title": "Alcazar",
+    "names": [
+      "Alcazar"
+    ],
+    "editors": [
+      {
+        "name": "Kudamono Editor",
+        "link": "https://pedros.works/paper-puzzle-player.html?&W=7x7&edit=1&G=alcazar"
+      }
+    ]
   }
 ]
