@@ -6310,5 +6310,18 @@
         "link": "https://puzz.link/p?alter"
       }
     ]
+  },
+  {
+    "title": "美術館（ＲＧＢ）",
+    "names": [
+      "Akari (RGB)",
+      "美術館（ＲＧＢ）"
+    ],
+    "editors": [
+      {
+        "name": "Kudamono Editor",
+        "link": "https://pedros.works/paper-puzzle-player.html?&W=7x7&edit=1&G=akari-rgb"
+      }
+    ]
   }
 ]
