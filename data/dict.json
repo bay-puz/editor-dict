@@ -6297,5 +6297,18 @@
         "link": "https://puzz.link/p?tachibk"
       }
     ]
+  },
+  {
+    "title": "オルタネーション",
+    "names": [
+      "Alternation",
+      "オルタネーション"
+    ],
+    "editors": [
+      {
+        "name": "puzz.link",
+        "link": "https://puzz.link/p?alter"
+      }
+    ]
   }
 ]
