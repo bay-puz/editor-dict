@@ -6323,5 +6323,18 @@
         "link": "https://pedros.works/paper-puzzle-player.html?&W=7x7&edit=1&G=akari-rgb"
       }
     ]
+  },
+  {
+    "title": "はすのむら",
+    "names": [
+      "Hasu no Mura",
+      "はすのむら"
+    ],
+    "editors": [
+      {
+        "name": "Kudamono Editor",
+        "link": "https://pedros.works/paper-puzzle-player.html?&W=7x7&edit=1&G=hasu-no-mura"
+      }
+    ]
   }
 ]
