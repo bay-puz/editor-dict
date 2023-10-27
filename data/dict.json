@@ -6336,5 +6336,18 @@
         "link": "https://pedros.works/paper-puzzle-player.html?&W=7x7&edit=1&G=hasu-no-mura"
       }
     ]
+  },
+  {
+    "title": "おれだんご",
+    "names": [
+      "Ore-dango",
+      "おれだんご"
+    ],
+    "editors": [
+      {
+        "name": "Kudamono Editor",
+        "link": "https://pedros.works/paper-puzzle-player.html?&W=7x7&edit=1&G=ore-dango"
+      }
+    ]
   }
 ]
