@@ -6375,5 +6375,18 @@
         "link": "https://pedros.works/paper-puzzle-player.html?&W=7x7&edit=1&G=corner-loop"
       }
     ]
+  },
+  {
+    "title": "マネキンゲート",
+    "names": [
+      "Mannequin Gate",
+      "マネキンゲート"
+    ],
+    "editors": [
+      {
+        "name": "puzz.link",
+        "link": "https://puzz.link/p?mannequin"
+      }
+    ]
   }
 ]
