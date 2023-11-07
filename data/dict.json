@@ -6362,5 +6362,18 @@
         "link": "https://puzz.link/p?nothing"
       }
     ]
+  },
+  {
+    "title": "コーナーループ",
+    "names": [
+      "Corner Loop",
+      "コーナーループ"
+    ],
+    "editors": [
+      {
+        "name": "Kudamono Editor",
+        "link": "https://pedros.works/paper-puzzle-player.html?&W=7x7&edit=1&G=corner-loop"
+      }
+    ]
   }
 ]
