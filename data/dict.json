@@ -6400,5 +6400,17 @@
         "link": "https://pedros.works/paper-puzzle-player.html?&W=5x5&edit=1&G=tring-tring"
       }
     ]
+  },
+  {
+    "title": "Tetrominous",
+    "names": [
+      "Tetrominous"
+    ],
+    "editors": [
+      {
+        "name": "puzz.link",
+        "link": "https://puzz.link/p?tetrominous"
+      }
+    ]
   }
 ]
