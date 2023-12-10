@@ -6437,5 +6437,17 @@
         "link": "https://puzz.link/p?kissing"
       }
     ]
+  },
+  {
+    "title": "漢字部品マット",
+    "names": [
+      "漢字部品マット"
+    ],
+    "editors": [
+      {
+        "name": "漢字部品マットエディター",
+        "link": "https://bay-puz.github.io/kanjimat-editor/"
+      }
+    ]
   }
 ]
