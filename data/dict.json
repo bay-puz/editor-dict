@@ -6412,5 +6412,18 @@
         "link": "https://puzz.link/p?tetrominous"
       }
     ]
+  },
+  {
+    "title": "サイトライン",
+    "names": [
+      "Line of Sight",
+      "サイトライン"
+    ],
+    "editors": [
+      {
+        "name": "puzz.link",
+        "link": "https://puzz.link/p?lineofsight"
+      }
+    ]
   }
 ]
