@@ -6425,5 +6425,17 @@
         "link": "https://puzz.link/p?lineofsight"
       }
     ]
+  },
+  {
+    "title": "Kissing Polyominoes",
+    "names": [
+      "Kissing Polyominoes"
+    ],
+    "editors": [
+      {
+        "name": "puzz.link",
+        "link": "https://puzz.link/p?kissing"
+      }
+    ]
   }
 ]
