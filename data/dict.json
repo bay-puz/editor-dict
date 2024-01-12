@@ -6561,5 +6561,18 @@
         "link": "https://pedros.works/paper-puzzle-player.html?&W=7x7&edit=1&G=ripple-loop"
       }
     ]
+  },
+  {
+    "title": "磯渡り",
+    "names": [
+      "Isowatari",
+      "磯渡り"
+    ],
+    "editors": [
+      {
+        "name": "Kudamono Editor",
+        "link": "https://pedros.works/paper-puzzle-player.html?&W=7x7&edit=1&G=isowatari"
+      }
+    ]
   }
 ]
