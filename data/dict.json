@@ -6473,5 +6473,18 @@
         "link": "https://pedros.works/paper-puzzle-player.html?&W=7x7&edit=1&G=cross-border-parity-loop"
       }
     ]
+  },
+  {
+    "title": "ミラーリングタイル",
+    "names": [
+      "Mirroring Tile",
+      "ミラーリングタイル"
+    ],
+    "editors": [
+      {
+        "name": "puzz.link",
+        "link": "https://puzz.link/p?mrtile"
+      }
+    ]
   }
 ]
