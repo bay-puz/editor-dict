@@ -2073,6 +2073,10 @@
       {
         "name": "pzprRT",
         "link": "https://semiexp.net/pzprrt/p.html?sudoku"
+      },
+      {
+        "name": "Kudamono Editor",
+        "link": "https://pedros.works/paper-puzzle-player.html?&W=7x7&edit=1&G=sudoku"
       }
     ]
   },
@@ -6242,7 +6246,7 @@
     ],
     "editors": [
       {
-        "name": "Kudamono Editor ",
+        "name": "Kudamono Editor",
         "link": "https://pedros.works/achtelwenden.html?W=8&H=8"
       }
     ]
@@ -6824,6 +6828,112 @@
       {
         "name": "Kudamono Editor",
         "link": "https://pedros.works/paper-puzzle-player.html?&W=7x7&edit=1&G=isowatari"
+      }
+    ]
+  },
+  {
+    "title": "Ornamented Tree",
+    "names": [
+      "Ornamented Tree",
+      "オーナメントツリー"
+    ],
+    "editors": [
+      {
+        "name": "Kudamono Editor",
+        "link": "https://pedros.works/paper-puzzle-player.html?&W=5x5&edit=1&G=ornamented-tree"
+      }
+    ]
+  },
+  {
+    "title": "Estate Lawns",
+    "names": [
+      "Estate Lawns",
+      "エステートローン"
+    ],
+    "editors": [
+      {
+        "name": "Kudamono Editor",
+        "link": "https://pedros.works/paper-puzzle-player.html?&W=7x7&edit=1&G=estate-lawns"
+      }
+    ]
+  },
+  {
+    "title": "LUZ Loop",
+    "names": [
+      "LUZ Loop",
+      "ＬＵＺループ"
+    ],
+    "editors": [
+      {
+        "name": "Kudamono Editor",
+        "link": "https://pedros.works/paper-puzzle-player.html?&W=7x7&edit=1&G=luz-loop"
+      }
+    ]
+  },
+  {
+    "title": "LUZ Loop",
+    "names": [
+      "LUZ Loop",
+      "ＬＵＺループ"
+    ],
+    "editors": [
+      {
+        "name": "Kudamono Editor",
+        "link": "https://pedros.works/paper-puzzle-player.html?&W=7x7&edit=1&G=luz-loop"
+      }
+    ]
+  },
+  {
+    "title": "Anymino",
+    "names": [
+      "Anymino",
+      "エニーミノ"
+    ],
+    "editors": [
+      {
+        "name": "Kudamono Editor",
+        "link": "https://pedros.works/paper-puzzle-player.html?&W=7x7&edit=1&G=luz-loop"
+      }
+    ]
+  },
+  {
+    "title": "SLICY",
+    "names": [
+      "Slicy",
+      "ＳＬＩＣＹ"
+    ],
+    "editors": [
+      {
+        "name": "Kudamono Editor",
+        "link": "https://pedros.works/paper-puzzle-player.html?&W=5x5&edit=1&G=slicy"
+      }
+    ]
+  },
+  {
+    "title": "短辺消失",
+    "names": [
+      "短辺消失",
+      "The Longest",
+      "たんぺんしょうしつ"
+    ],
+    "editors": [
+      {
+        "name": "Kudamono Editor",
+        "link": "https://pedros.works/paper-puzzle-player.html?&W=7x7&edit=1&G=the-longest"
+      }
+    ]
+  },
+  {
+    "title": "The Convoy",
+    "names": [
+      "The Convoy",
+      "convoy",
+      "コンボイ"
+    ],
+    "editors": [
+      {
+        "name": "Kudamono Editor",
+        "link": "https://pedros.works/paper-puzzle-player.html?&W=7x7&edit=1&G=the-convoy"
       }
     ]
   }
