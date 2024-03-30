@@ -6868,7 +6868,6 @@
   {
     "title": "LUZ Loop",
     "names": [
-      "Anymino",
       "LUZ Loop",
       "ＬＵＺループ"
     ],
@@ -6876,6 +6875,19 @@
       {
         "name": "Kudamono Editor",
         "link": "https://pedros.works/paper-puzzle-player.html?&W=7x7&edit=1&G=luz-loop"
+      }
+    ]
+  },
+  {
+    "title": "Anymino",
+    "names": [
+      "Anymino",
+      "エニーミノ"
+    ],
+    "editors": [
+      {
+        "name": "Kudamono Editor",
+        "link": "https://pedros.works/paper-puzzle-player.html?&W=7x7&edit=1&G=anymino"
       }
     ]
   },
