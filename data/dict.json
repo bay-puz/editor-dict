@@ -6988,5 +6988,18 @@
         "link": "https://pedros.works/paper-puzzle-player.html?&W=7x7&edit=1&G=one-two-zone"
       }
     ]
+  },
+  {
+    "title": "Implicit Directors",
+    "names": [
+      "Implicit Directors",
+      "インプリシットディレクター"
+    ],
+    "editors": [
+      {
+        "name": "Kudamono Editor",
+        "link": "https://pedros.works/paper-puzzle-player.html?&W=7x7&edit=1&G=implicit-directors"
+      }
+    ]
   }
 ]
