@@ -2674,6 +2674,10 @@
       {
         "name": "pzplus",
         "link": "https://pzplus.tck.mn/p.html?yinyang"
+      },
+      {
+        "name": "Kudamono Editor",
+        "link": "https://pedros.works/paper-puzzle-player.html?&W=7x7&edit=1&G=yin-yang"
       }
     ]
   },
@@ -6999,6 +7003,60 @@
       {
         "name": "Kudamono Editor",
         "link": "https://pedros.works/paper-puzzle-player.html?&W=7x7&edit=1&G=implicit-directors"
+      }
+    ]
+  },
+  {
+    "title": "Inturnal",
+    "names": [
+      "Inturnal",
+      "インターナル"
+    ],
+    "editors": [
+      {
+        "name": "Kudamono Editor",
+        "link": "https://pedros.works/paper-puzzle-player.html?&W=7x7&edit=1&G=inturnal"
+      }
+    ]
+  },
+  {
+    "title": "Persistence of Memory",
+    "names": [
+      "Persistence of Memory",
+      "パージステンスオブメモリー",
+      "記憶の固執",
+      "きおくのこしつ"
+    ],
+    "editors": [
+      {
+        "name": "pzprxs",
+        "link": "https://pzprxs.vercel.app/p?pmemory"
+      }
+    ]
+  },
+  {
+    "title": "Retrograde Battleships",
+    "names": [
+      "Retrograde Battleships",
+      "レトログレードバトルシップ"
+    ],
+    "editors": [
+      {
+        "name": "pzprxs",
+        "link": "https://pzprxs.vercel.app/p?retroships"
+      }
+    ]
+  },
+  {
+    "title": "Subomino",
+    "names": [
+      "Subomino",
+      "サブオミノ"
+    ],
+    "editors": [
+      {
+        "name": "pzprxs",
+        "link": "https://pzprxs.vercel.app/p?subomino"
       }
     ]
   }
