@@ -2106,6 +2106,10 @@
       {
         "name": "pzplus",
         "link": "https://pzplus.tck.mn/p.html?fillomino"
+      },
+      {
+        "name": "Kudamono Editor",
+        "link": "https://pedros.works/paper-puzzle-player.html?&W=7x7&edit=1&G=fillomino"
       }
     ]
   },
@@ -7023,9 +7027,9 @@
     "title": "Persistence of Memory",
     "names": [
       "Persistence of Memory",
+      "きおくのこしつ",
       "パージステンスオブメモリー",
-      "記憶の固執",
-      "きおくのこしつ"
+      "記憶の固執"
     ],
     "editors": [
       {
