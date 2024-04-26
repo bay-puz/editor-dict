@@ -7151,5 +7151,18 @@
         "link": "https://pedros.works/paper-puzzle-player.html?&W=5x5&edit=1&G=pointing-at-the-crowd"
       }
     ]
+  },
+  {
+    "title": "Heterocut",
+    "names": [
+      "Heterocut",
+      "ヘテロカット"
+    ],
+    "editors": [
+      {
+        "name": "Kudamono Editor",
+        "link": "https://pedros.works/paper-puzzle-player.html?&W=7x7&edit=1&G=heterocut"
+      }
+    ]
   }
 ]
