@@ -778,16 +778,14 @@
     "title": "バッグ",
     "names": [
       "Bag",
-      "バッグ"
+      "バッグ",
+      "cave",
+      "ケイブ"
     ],
     "editors": [
       {
         "name": "ぱずぷれv3",
         "link": "http://pzv.jp/p.html?bag"
-      },
-      {
-        "name": "pzplus",
-        "link": "https://pzplus.tck.mn/p.html?cave"
       }
     ]
   },
@@ -795,12 +793,22 @@
     "title": "Cave",
     "names": [
       "Cave",
-      "ケイブ"
+      "ケイブ",
+      "bag",
+      "バッグ"
     ],
     "editors": [
       {
         "name": "puzz.link",
         "link": "https://puzz.link/p?cave"
+      },
+      {
+        "name": "pzplus",
+        "link": "https://pzplus.tck.mn/p.html?cave"
+      },
+      {
+        "name": "Kudamono Editor",
+        "link": "https://pedros.works/paper-puzzle-player.html?&W=7x7&edit=1&G=cave"
       }
     ]
   },
