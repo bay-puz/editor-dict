@@ -7229,5 +7229,18 @@
         "link": "https://pedros.works/paper-puzzle-player.html?&W=7x7&edit=1&G=kurohappo"
       }
     ]
+  },
+  {
+    "title": "テリトリー",
+    "names": [
+      "Territory",
+      "テリトリー"
+    ],
+    "editors": [
+      {
+        "name": "pzprxs",
+        "link": "https://pzprxs.vercel.app/p?teri"
+      }
+    ]
   }
 ]
