@@ -778,9 +778,9 @@
     "title": "バッグ",
     "names": [
       "Bag",
-      "バッグ",
       "cave",
-      "ケイブ"
+      "ケイブ",
+      "バッグ"
     ],
     "editors": [
       {
@@ -793,8 +793,8 @@
     "title": "Cave",
     "names": [
       "Cave",
-      "ケイブ",
       "bag",
+      "ケイブ",
       "バッグ"
     ],
     "editors": [
@@ -7214,6 +7214,19 @@
       {
         "name": "Kudamono Editor",
         "link": "https://pedros.works/paper-puzzle-player.html?&W=7x7&edit=1&G=kurohori"
+      }
+    ]
+  },
+  {
+    "title": "クロハッポー",
+    "names": [
+      "Kurohappo",
+      "クロハッポー"
+    ],
+    "editors": [
+      {
+        "name": "Kudamono Editor",
+        "link": "https://pedros.works/paper-puzzle-player.html?&W=7x7&edit=1&G=kurohappo"
       }
     ]
   }
