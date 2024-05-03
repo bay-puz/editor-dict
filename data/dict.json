@@ -7242,5 +7242,19 @@
         "link": "https://pzprxs.vercel.app/p?teri"
       }
     ]
+  },
+  {
+    "title": "カインドミノ",
+    "names": [
+      "Kindomino",
+      "カインドミノ",
+      "テトロカインズ"
+    ],
+    "editors": [
+      {
+        "name": "Kudamono Editor",
+        "link": "https://pedros.works/paper-puzzle-player.html?&W=7x7&edit=1&G=kindomino"
+      }
+    ]
   }
 ]
