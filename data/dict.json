@@ -7295,5 +7295,19 @@
         "link": "https://pedros.works/paper-puzzle-player.html?&W=7x7&edit=1&G=gemini-loop"
       }
     ]
+  },
+  {
+    "title": "ななめでご輪す",
+    "names": [
+      " ななめでごわす",
+      "Naname Loop",
+      "ななめでご輪す"
+    ],
+    "editors": [
+      {
+        "name": "Kudamono Editor",
+        "link": "https://pedros.works/paper-puzzle-player.html?&W=7x7&edit=1&G=naname-loop"
+      }
+    ]
   }
 ]
