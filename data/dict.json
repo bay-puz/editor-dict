@@ -7309,5 +7309,19 @@
         "link": "https://pedros.works/paper-puzzle-player.html?&W=7x7&edit=1&G=naname-loop"
       }
     ]
+  },
+  {
+    "title": "掛け算リンク",
+    "names": [
+      "Multiplication Link",
+      "かけざんりんく",
+      "掛け算リンク"
+    ],
+    "editors": [
+      {
+        "name": "Kudamono Editor",
+        "link": "https://pedros.works/paper-puzzle-player.html?&W=7x7&edit=1&G=multiplication-link"
+      }
+    ]
   }
 ]
