@@ -7323,5 +7323,18 @@
         "link": "https://pedros.works/paper-puzzle-player.html?&W=7x7&edit=1&G=multiplication-link"
       }
     ]
+  },
+  {
+    "title": "Portal Loop",
+    "names": [
+      "Portal Loop",
+      "ポータルループ"
+    ],
+    "editors": [
+      {
+        "name": "pzprxs",
+        "link": "https://pzprxs.vercel.app/p?portal"
+      }
+    ]
   }
 ]
