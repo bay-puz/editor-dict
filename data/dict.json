@@ -7377,5 +7377,18 @@
         "link": "https://pedros.works/paper-puzzle-player.html?&W=7x7&edit=1&G=whitelink"
       }
     ]
+  },
+  {
+    "title": "Squares and Rectangles",
+    "names": [
+      "Squares and Rectangles",
+      "スクエアアンドレクタングル"
+    ],
+    "editors": [
+      {
+        "name": "Kudamono Editor",
+        "link": "https://pedros.works/paper-puzzle-player.html?&W=7x7&edit=1&G=squares-and-rectangles"
+      }
+    ]
   }
 ]
