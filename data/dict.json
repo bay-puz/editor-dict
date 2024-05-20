@@ -7364,5 +7364,18 @@
         "link": "https://pedros.works/paper-puzzle-player.html?&W=7x7&edit=1&G=jadium"
       }
     ]
+  },
+  {
+    "title": "ホワイトリンク",
+    "names": [
+      "White Link",
+      "ホワイトリンク"
+    ],
+    "editors": [
+      {
+        "name": "Kudamono Editor",
+        "link": "https://pedros.works/paper-puzzle-player.html?&W=7x7&edit=1&G=whitelink"
+      }
+    ]
   }
 ]
