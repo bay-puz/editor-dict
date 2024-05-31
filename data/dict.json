@@ -7435,5 +7435,18 @@
         "link": "https://pedros.works/paper-puzzle-player.html?&W=7x7&edit=1&G=kazuburo"
       }
     ]
+  },
+  {
+    "title": "クロメンブン",
+    "names": [
+      "kuromenbun",
+      "クロメンブン"
+    ],
+    "editors": [
+      {
+        "name": "pzprx",
+        "link": "https://pzprxs.vercel.app/p?kuromenbun"
+      }
+    ]
   }
 ]
