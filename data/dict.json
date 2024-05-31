@@ -7422,5 +7422,18 @@
         "link": "https://pedros.works/paper-puzzle-player.html?&W=7x7&edit=1&G=linesweeper"
       }
     ]
+  },
+  {
+    "title": "カズブロ",
+    "names": [
+      "kazuburo",
+      "カズブロ"
+    ],
+    "editors": [
+      {
+        "name": "Kudamono Editor",
+        "link": "https://pedros.works/paper-puzzle-player.html?&W=7x7&edit=1&G=kazuburo"
+      }
+    ]
   }
 ]
