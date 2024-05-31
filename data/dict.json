@@ -7394,5 +7394,18 @@
         "link": "https://pedros.works/paper-puzzle-player.html?&W=7x7&edit=1&G=squares-and-rectangles"
       }
     ]
+  },
+  {
+    "title": "ハニーダース",
+    "names": [
+      "Honey Dozen",
+      "ハニーダース"
+    ],
+    "editors": [
+      {
+        "name": "Kudamono Editor",
+        "link": "https://pedros.works/paper-puzzle-player.html?&W=5x5&edit=1&G=honey-dozen"
+      }
+    ]
   }
 ]
