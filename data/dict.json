@@ -7465,5 +7465,18 @@
         "link": "https://pedros.works/paper-puzzle-player.html?&W=7x7&edit=1&G=number-crosslink"
       }
     ]
+  },
+  {
+    "title": "Crossroads",
+    "names": [
+      "Crossroads",
+      "クロスロード"
+    ],
+    "editors": [
+      {
+        "name": "Kudamono Editor",
+        "link": "https://pedros.works/paper-puzzle-player.html?&W=7x7&edit=1&G=crossroads"
+      }
+    ]
   }
 ]
