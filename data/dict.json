@@ -7491,5 +7491,18 @@
         "link": "https://pedros.works/paper-puzzle-player.html?&W=7x7&edit=1&G=tally-loop"
       }
     ]
+  },
+  {
+    "title": "Forceloop",
+    "names": [
+      "Forceloop",
+      "フォースループ"
+    ],
+    "editors": [
+      {
+        "name": "Kudamono Editor",
+        "link": "https://pedros.works/paper-puzzle-player.html?&W=7x7&edit=1&G=forceloop"
+      }
+    ]
   }
 ]
