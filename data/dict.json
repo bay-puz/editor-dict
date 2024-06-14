@@ -7521,5 +7521,18 @@
         "link": "https://pedros.works/paper-puzzle-player.html?&W=7x7&edit=1&G=turn-sums"
       }
     ]
+  },
+  {
+    "title": "Bosnian Road",
+    "names": [
+      "Bosnian Road",
+      "ボスニアンロード"
+    ],
+    "editors": [
+      {
+        "name": "pzprxs",
+        "link": "https://pzprxs.vercel.app/p?bosnianroad"
+      }
+    ]
   }
 ]
