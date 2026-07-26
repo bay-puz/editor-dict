@@ -5823,6 +5823,10 @@
     ],
     "editors": [
       {
+        "name": "pzprxs",
+        "link": "https://pzprxs.vercel.app/p?soulmates"
+      },
+      {
         "name": "Kudamono Editor",
         "link": "https://pedros.works/soulmates.html?W=8&H=8"
       }
@@ -6327,6 +6331,10 @@
     ],
     "editors": [
       {
+        "name": "pzprxs",
+        "link": "https://pzprxs.vercel.app/p?trizone"
+      },
+      {
         "name": "Kudamono Editor",
         "link": "https://pedros.works/trizone.html?W=8&H=8"
       }
@@ -6385,16 +6393,20 @@
     ]
   },
   {
-    "title": "テトロチェーンY",
+    "title": "テトロチェーンＹ",
     "names": [
-      "Tetrochain",
-      "テトロチェーン",
-      "テトロチェーンY"
+      "Tetro Chain-Y",
+      "テトロチェーンY",
+      "テトロチェーンＹ"
     ],
     "editors": [
       {
         "name": "puzz.link",
         "link": "https://puzz.link/p?tetrochain"
+      },
+      {
+        "name": "pzprxs",
+        "link": "https://pzprxs.vercel.app/p?tetrochain"
       }
     ]
   },
@@ -6406,6 +6418,10 @@
       "面積リンク"
     ],
     "editors": [
+      {
+        "name": "pzprxs",
+        "link": "https://pzprxs.vercel.app/p?nuriloop"
+      },
       {
         "name": "Kudamono Editor",
         "link": "https://pedros.works/paper-puzzle-player.html?W=6&G=nurikabe-loop"
@@ -6644,6 +6660,10 @@
     ],
     "editors": [
       {
+        "name": "pzprxs",
+        "link": "https://pzprxs.vercel.app/p?hasunomura"
+      },
+      {
         "name": "Kudamono Editor",
         "link": "https://pedros.works/paper-puzzle-player.html?&W=7x7&edit=1&G=hasu-no-mura"
       }
@@ -6775,6 +6795,10 @@
     ],
     "editors": [
       {
+        "name": "pzprxs",
+        "link": "https://pzprxs.vercel.app/p?vertigo"
+      },
+      {
         "name": "Kudamono Editor",
         "link": "https://pedros.works/paper-puzzle-player.html?&W=7x7&edit=1&G=vertigo"
       }
@@ -6867,6 +6891,10 @@
     ],
     "editors": [
       {
+        "name": "pzprxs",
+        "link": "https://pzprxs.vercel.app/p?suguru"
+      },
+      {
         "name": "Kudamono Editor",
         "link": "https://pedros.works/paper-puzzle-player.html?&W=7x7&edit=1&G=suguru"
       }
@@ -6893,6 +6921,10 @@
       "磯渡り"
     ],
     "editors": [
+      {
+        "name": "pzprxs",
+        "link": "https://pzprxs.vercel.app/p?isowatari"
+      },
       {
         "name": "Kudamono Editor",
         "link": "https://pedros.works/paper-puzzle-player.html?&W=7x7&edit=1&G=isowatari"
@@ -6946,6 +6978,10 @@
     ],
     "editors": [
       {
+        "name": "pzprxs",
+        "link": "https://pzprxs.vercel.app/p?anymino"
+      },
+      {
         "name": "Kudamono Editor",
         "link": "https://pedros.works/paper-puzzle-player.html?&W=7x7&edit=1&G=anymino"
       }
@@ -6973,6 +7009,10 @@
       "短辺消失"
     ],
     "editors": [
+      {
+        "name": "pzprxs",
+        "link": "https://pzprxs.vercel.app/p?longest"
+      },
       {
         "name": "Kudamono Editor",
         "link": "https://pedros.works/paper-puzzle-player.html?&W=7x7&edit=1&G=the-longest"
@@ -7132,6 +7172,10 @@
       "ブランブル"
     ],
     "editors": [
+      {
+        "name": "pzprxs",
+        "link": "https://pzprxs.vercel.app/p?bramble"
+      },
       {
         "name": "Kudamono Editor",
         "link": "https://pedros.works/paper-puzzle-player.html?&W=7x7&edit=1&G=bramble"
@@ -7452,7 +7496,7 @@
     ],
     "editors": [
       {
-        "name": "pzprx",
+        "name": "pzprxs",
         "link": "https://pzprxs.vercel.app/p?kuromenbun"
       }
     ]
@@ -7532,6 +7576,954 @@
       {
         "name": "pzprxs",
         "link": "https://pzprxs.vercel.app/p?bosnianroad"
+      }
+    ]
+  },
+  {
+    "title": "Battenberg Painting",
+    "names": [
+      "Battenberg Painting",
+      "バッテンベルグペインティング"
+    ],
+    "editors": [
+      {
+        "name": "pzprxs",
+        "link": "https://pzprxs.vercel.app/p?batten"
+      }
+    ]
+  },
+  {
+    "title": "Snake Egg",
+    "names": [
+      "Snake Egg",
+      "スネークエッグ"
+    ],
+    "editors": [
+      {
+        "name": "pzprxs",
+        "link": "https://pzprxs.vercel.app/p?snakeegg"
+      }
+    ]
+  },
+  {
+    "title": "アーキペラゴ",
+    "names": [
+      "Archipelago",
+      "アーキペラゴ"
+    ],
+    "editors": [
+      {
+        "name": "pzprxs",
+        "link": "https://pzprxs.vercel.app/p?archipelago"
+      }
+    ]
+  },
+  {
+    "title": "ニブンノゴ",
+    "names": [
+      "Nibun-nogo",
+      "ニブンノゴ"
+    ],
+    "editors": [
+      {
+        "name": "pzprxs",
+        "link": "https://pzprxs.vercel.app/p?nibunnogo"
+      }
+    ]
+  },
+  {
+    "title": "アイランド",
+    "names": [
+      "Island",
+      "アイランド",
+      "Inaba's Island"
+    ],
+    "editors": [
+      {
+        "name": "pzprxs",
+        "link": "https://pzprxs.vercel.app/p?island"
+      }
+    ]
+  },
+  {
+    "title": "City Space",
+    "names": [
+      "City Space",
+      "シティスペース"
+    ],
+    "editors": [
+      {
+        "name": "pzprxs",
+        "link": "https://pzprxs.vercel.app/p?cityspace"
+      }
+    ]
+  },
+  {
+    "title": "Sashikabe",
+    "names": [
+      "Sashikabe",
+      "さしかべ"
+    ],
+    "editors": [
+      {
+        "name": "pzprxs",
+        "link": "https://pzprxs.vercel.app/p?sashikabe"
+      }
+    ]
+  },
+  {
+    "title": "テトロチェーンＫ",
+    "names": [
+      "Tetro Chain-K",
+      "テトロチェーンK",
+      "テトロチェーンＫ"
+    ],
+    "editors": [
+      {
+        "name": "pzprxs",
+        "link": "https://pzprxs.vercel.app/p?tetrochaink"
+      }
+    ]
+  },
+  {
+    "title": "サンサロード",
+    "names": [
+      "Sansa Road",
+      "サンサロード"
+    ],
+    "editors": [
+      {
+        "name": "pzprxs",
+        "link": "https://pzprxs.vercel.app/p?sansaroad"
+      }
+    ]
+  },
+  {
+    "title": "隅角チェーン",
+    "names": [
+      "Corner Chain",
+      "隅角チェーン",
+      "ぐうかくチェーン"
+    ],
+    "editors": [
+      {
+        "name": "pzprxs",
+        "link": "https://pzprxs.vercel.app/p?cornerch"
+      }
+    ]
+  },
+  {
+    "title": "Land Measurement",
+    "names": [
+      "Land Measurement",
+      "ランドメジャーメント"
+    ],
+    "editors": [
+      {
+        "name": "pzprxs",
+        "link": "https://pzprxs.vercel.app/p?landmeasure"
+      }
+    ]
+  },
+  {
+    "title": "タイルシティー",
+    "names": [
+      "Tile City",
+      "タイルシティー"
+    ],
+    "editors": [
+      {
+        "name": "pzprxs",
+        "link": "https://pzprxs.vercel.app/p?tilecity"
+      }
+    ]
+  },
+  {
+    "title": "ぬりツイン",
+    "names": [
+      "Nuritwin",
+      "ぬりツイン"
+    ],
+    "editors": [
+      {
+        "name": "pzprxs",
+        "link": "https://pzprxs.vercel.app/p?nuritwin"
+      }
+    ]
+  },
+  {
+    "title": "マルタリング",
+    "names": [
+      "Marutaring",
+      "マルタリング"
+    ],
+    "editors": [
+      {
+        "name": "pzprxs",
+        "link": "https://pzprxs.vercel.app/p?marutaring"
+      }
+    ]
+  },
+  {
+    "title": "テトロチェーンＣＴＢ",
+    "names": [
+      "Tetro Chain-CTB",
+      "テトロチェーンCTB",
+      "テトロチェーンＣＴＢ"
+    ],
+    "editors": [
+      {
+        "name": "pzprxs",
+        "link": "https://pzprxs.vercel.app/p?tetroctb"
+      }
+    ]
+  },
+  {
+    "title": "ディスコネクション",
+    "names": [
+      "Disconnection",
+      "ディスコネクション"
+    ],
+    "editors": [
+      {
+        "name": "pzprxs",
+        "link": "https://pzprxs.vercel.app/p?disco"
+      }
+    ]
+  },
+  {
+    "title": "カービングロード",
+    "names": [
+      "Curving Road",
+      "カービングロード"
+    ],
+    "editors": [
+      {
+        "name": "pzprxs",
+        "link": "https://pzprxs.vercel.app/p?curving"
+      }
+    ]
+  },
+  {
+    "title": "Smullyanic Dynasty",
+    "names": [
+      "Smullyanic Dynasty",
+      "スマリヤン・ダイナスティー"
+    ],
+    "editors": [
+      {
+        "name": "pzprxs",
+        "link": "https://pzprxs.vercel.app/p?smullyan"
+      }
+    ]
+  },
+  {
+    "title": "Out of Sight",
+    "names": [
+      "Out of Sight",
+      "アウト・オブ・サイト"
+    ],
+    "editors": [
+      {
+        "name": "pzprxs",
+        "link": "https://pzprxs.vercel.app/p?outofsight"
+      }
+    ]
+  },
+  {
+    "title": "すみわけ",
+    "names": [
+      "Sumiwake",
+      "すみわけ"
+    ],
+    "editors": [
+      {
+        "name": "pzprxs",
+        "link": "https://pzprxs.vercel.app/p?sumiwake"
+      }
+    ]
+  },
+  {
+    "title": "Oasis",
+    "names": [
+      "Oasis",
+      "オアシス"
+    ],
+    "editors": [
+      {
+        "name": "pzprxs",
+        "link": "https://pzprxs.vercel.app/p?oasis"
+      }
+    ]
+  },
+  {
+    "title": "余計文字クロス",
+    "names": [
+      "Yokeimoji Cross",
+      "余計文字クロス",
+      "よけいもじクロス"
+    ],
+    "editors": [
+      {
+        "name": "pzprxs",
+        "link": "https://pzprxs.vercel.app/p?yokeimoji"
+      }
+    ]
+  },
+  {
+    "title": "ファイアウォーク",
+    "names": [
+      "Fire Walk",
+      "ファイアウォーク"
+    ],
+    "editors": [
+      {
+        "name": "pzprxs",
+        "link": "https://pzprxs.vercel.app/p?firewalk"
+      }
+    ]
+  },
+  {
+    "title": "ターンアラウンド",
+    "names": [
+      "Turnaround",
+      "ターンアラウンド"
+    ],
+    "editors": [
+      {
+        "name": "pzprxs",
+        "link": "https://pzprxs.vercel.app/p?turnaround"
+      }
+    ]
+  },
+  {
+    "title": "Retsurin",
+    "names": [
+      "Retsurin",
+      "レツリン"
+    ],
+    "editors": [
+      {
+        "name": "pzprxs",
+        "link": "https://pzprxs.vercel.app/p?retsurin"
+      }
+    ]
+  },
+  {
+    "title": "クラリン",
+    "names": [
+      "Kurarin",
+      "クラリン"
+    ],
+    "editors": [
+      {
+        "name": "pzprxs",
+        "link": "https://pzprxs.vercel.app/p?kurarin"
+      }
+    ]
+  },
+  {
+    "title": "Bunnyhop",
+    "names": [
+      "Bunnyhop",
+      "バニーホップ"
+    ],
+    "editors": [
+      {
+        "name": "pzprxs",
+        "link": "https://pzprxs.vercel.app/p?bunnyhop"
+      }
+    ]
+  },
+  {
+    "title": "Morning Walk",
+    "names": [
+      "Morning Walk",
+      "モーニングウォーク"
+    ],
+    "editors": [
+      {
+        "name": "pzprxs",
+        "link": "https://pzprxs.vercel.app/p?morningwalk"
+      }
+    ]
+  },
+  {
+    "title": "Bhai Bahan",
+    "names": [
+      "Bhai Bahan",
+      "バイ・バハン"
+    ],
+    "editors": [
+      {
+        "name": "pzprxs",
+        "link": "https://pzprxs.vercel.app/p?bhaibahan"
+      }
+    ]
+  },
+  {
+    "title": "Robotic Walk",
+    "names": [
+      "Robotic Walk",
+      "ロボティックウォーク"
+    ],
+    "editors": [
+      {
+        "name": "pzprxs",
+        "link": "https://pzprxs.vercel.app/p?roboticwalk"
+      }
+    ]
+  },
+  {
+    "title": "クロシロループ",
+    "names": [
+      "Kuroshiro Loop",
+      "クロシロループ"
+    ],
+    "editors": [
+      {
+        "name": "pzprxs",
+        "link": "https://pzprxs.vercel.app/p?bwloop"
+      }
+    ]
+  },
+  {
+    "title": "フェイクアロー",
+    "names": [
+      "Fake Arrow",
+      "フェイクアロー"
+    ],
+    "editors": [
+      {
+        "name": "pzprxs",
+        "link": "https://pzprxs.vercel.app/p?fakearrow"
+      }
+    ]
+  },
+  {
+    "title": "ドッチドッチループ",
+    "names": [
+      "Dotchi Dotchi Loop",
+      "ドッチドッチループ"
+    ],
+    "editors": [
+      {
+        "name": "pzprxs",
+        "link": "https://pzprxs.vercel.app/p?dotchi2"
+      }
+    ]
+  },
+  {
+    "title": "トツゲキループ",
+    "names": [
+      "Turn and Run",
+      "トツゲキループ"
+    ],
+    "editors": [
+      {
+        "name": "pzprxs",
+        "link": "https://pzprxs.vercel.app/p?turnrun"
+      }
+    ]
+  },
+  {
+    "title": "オービタル",
+    "names": [
+      "Orbital",
+      "オービタル"
+    ],
+    "editors": [
+      {
+        "name": "pzprxs",
+        "link": "https://pzprxs.vercel.app/p?orbital"
+      }
+    ]
+  },
+  {
+    "title": "サーキットウォーク",
+    "names": [
+      "Circuit Walk",
+      "サーキットウォーク"
+    ],
+    "editors": [
+      {
+        "name": "pzprxs",
+        "link": "https://pzprxs.vercel.app/p?circuitwalk"
+      }
+    ]
+  },
+  {
+    "title": "Mintonette",
+    "names": [
+      "Mintonette",
+      "ミントネット"
+    ],
+    "editors": [
+      {
+        "name": "pzprxs",
+        "link": "https://pzprxs.vercel.app/p?mintonette"
+      }
+    ]
+  },
+  {
+    "title": "わたりどり",
+    "names": [
+      "Wataridori",
+      "わたりどり"
+    ],
+    "editors": [
+      {
+        "name": "pzprxs",
+        "link": "https://pzprxs.vercel.app/p?wataridori"
+      }
+    ]
+  },
+  {
+    "title": "U-Turns",
+    "names": [
+      "U-Turns",
+      "ユーターン"
+    ],
+    "editors": [
+      {
+        "name": "pzprxs",
+        "link": "https://pzprxs.vercel.app/p?uturns"
+      }
+    ]
+  },
+  {
+    "title": "Golem Grad",
+    "names": [
+      "Golem Grad",
+      "ゴーレムグラード"
+    ],
+    "editors": [
+      {
+        "name": "pzprxs",
+        "link": "https://pzprxs.vercel.app/p?golemgrad"
+      }
+    ]
+  },
+  {
+    "title": "Elastic Link",
+    "names": [
+      "Elastic Link",
+      "エラスティックリンク"
+    ],
+    "editors": [
+      {
+        "name": "pzprxs",
+        "link": "https://pzprxs.vercel.app/p?elasticlink"
+      }
+    ]
+  },
+  {
+    "title": "フォレストウォーク",
+    "names": [
+      "Forest Walk",
+      "フォレストウォーク"
+    ],
+    "editors": [
+      {
+        "name": "pzprxs",
+        "link": "https://pzprxs.vercel.app/p?forestwalk"
+      }
+    ]
+  },
+  {
+    "title": "Daimond Chain",
+    "names": [
+      "Daimond Chain",
+      "ダイヤモンドチェーン"
+    ],
+    "editors": [
+      {
+        "name": "pzprxs",
+        "link": "https://pzprxs.vercel.app/p?diamond"
+      }
+    ]
+  },
+  {
+    "title": "Energy Walk",
+    "names": [
+      "Energy Walk",
+      "エネルギーウォーク",
+      "エナジーウォーク"
+    ],
+    "editors": [
+      {
+        "name": "pzprxs",
+        "link": "https://pzprxs.vercel.app/p?energywalk"
+      }
+    ]
+  },
+  {
+    "title": "キーウェスト",
+    "names": [
+      "Key West",
+      "キーウェスト"
+    ],
+    "editors": [
+      {
+        "name": "pzprxs",
+        "link": "https://pzprxs.vercel.app/p?keywest"
+      }
+    ]
+  },
+  {
+    "title": "U-Bahn",
+    "names": [
+      "U-Bahn",
+      "ウーバーン"
+    ],
+    "editors": [
+      {
+        "name": "pzprxs",
+        "link": "https://pzprxs.vercel.app/p?ubahn"
+      }
+    ]
+  },
+  {
+    "title": "時限爆弾",
+    "names": [
+      "Time Bomb",
+      "時限爆弾",
+      "じげんばくだん"
+    ],
+    "editors": [
+      {
+        "name": "pzprxs",
+        "link": "https://pzprxs.vercel.app/p?timebomb"
+      }
+    ]
+  },
+  {
+    "title": "猪突猛進",
+    "names": [
+      "Blind Rush",
+      "猪突猛進",
+      "ちょとつもうしん"
+    ],
+    "editors": [
+      {
+        "name": "pzprxs",
+        "link": "https://pzprxs.vercel.app/p?blindrush"
+      }
+    ]
+  },
+  {
+    "title": "Hamble Paths",
+    "names": [
+      "Hamble Paths",
+      "ハンブルパス"
+    ],
+    "editors": [
+      {
+        "name": "pzprxs",
+        "link": "https://pzprxs.vercel.app/p?hamlepaths"
+      }
+    ]
+  },
+  {
+    "title": "Meidjuluk",
+    "names": [
+      "Meidjuluk",
+      "メイドジュルク"
+    ],
+    "editors": [
+      {
+        "name": "pzprxs",
+        "link": "https://pzprxs.vercel.app/p?meidjuluk"
+      }
+    ]
+  },
+  {
+    "title": "風船箱",
+    "names": [
+      "Balloon Box",
+      "風船箱"
+    ],
+    "editors": [
+      {
+        "name": "pzprxs",
+        "link": "https://pzprxs.vercel.app/p?balloon"
+      }
+    ]
+  },
+  {
+    "title": "宮城県仙台市",
+    "names": [
+      "Sendai-Miyagi",
+      "宮城県仙台市",
+      "みやぎけんせんだいし"
+    ],
+    "editors": [
+      {
+        "name": "pzprxs",
+        "link": "https://pzprxs.vercel.app/p?sendai"
+      }
+    ]
+  },
+  {
+    "title": "Heavy Dots",
+    "names": [
+      "Heavy Dots",
+      "ヘビードット"
+    ],
+    "editors": [
+      {
+        "name": "pzprxs",
+        "link": "https://pzprxs.vercel.app/p?heavydots"
+      }
+    ]
+  },
+  {
+    "title": "Narrowfence",
+    "names": [
+      "Narrowfence",
+      "ナローフェンス"
+    ],
+    "editors": [
+      {
+        "name": "pzprxs",
+        "link": "https://pzprxs.vercel.app/p?narrow"
+      }
+    ]
+  },
+  {
+    "title": "Japanese Sums",
+    "names": [
+      "Japanese Sums",
+      "ジャパニーズ・サム"
+    ],
+    "editors": [
+      {
+        "name": "pzprxs",
+        "link": "https://pzprxs.vercel.app/p?japanesesums"
+      }
+    ]
+  },
+  {
+    "title": "Slovak Sums",
+    "names": [
+      "Slovak Sums",
+      "スロバキア・サム"
+    ],
+    "editors": [
+      {
+        "name": "pzprxs",
+        "link": "https://pzprxs.vercel.app/p?slovak"
+      }
+    ]
+  },
+  {
+    "title": "サンアンコー",
+    "names": [
+      "San-Anko",
+      "サンアンコー"
+    ],
+    "editors": [
+      {
+        "name": "pzprxs",
+        "link": "https://pzprxs.vercel.app/p?sananko"
+      }
+    ]
+  },
+  {
+    "title": "ツインエリア",
+    "names": [
+      "Twin Area",
+      "ツインエリア"
+    ],
+    "editors": [
+      {
+        "name": "pzprxs",
+        "link": "https://pzprxs.vercel.app/p?twinarea"
+      }
+    ]
+  },
+  {
+    "title": "ナンバーシティー",
+    "names": [
+      "Number City",
+      "ナンバーシティー"
+    ],
+    "editors": [
+      {
+        "name": "pzprxs",
+        "link": "https://pzprxs.vercel.app/p?numcity"
+      }
+    ]
+  },
+  {
+    "title": "Topo",
+    "names": [
+      "Topo",
+      "トポ"
+    ],
+    "editors": [
+      {
+        "name": "pzprxs",
+        "link": "https://pzprxs.vercel.app/p?topo"
+      }
+    ]
+  },
+  {
+    "title": "Recoil",
+    "names": [
+      "Recoil",
+      "リコイル"
+    ],
+    "editors": [
+      {
+        "name": "pzprxs",
+        "link": "https://pzprxs.vercel.app/p?recoil"
+      }
+    ]
+  },
+  {
+    "title": "T-Junction",
+    "names": [
+      "T-Junction",
+      "ティージャンクション"
+    ],
+    "editors": [
+      {
+        "name": "pzprxs",
+        "link": "https://pzprxs.vercel.app/p?tjunction"
+      }
+    ]
+  },
+  {
+    "title": "Rule of Three",
+    "names": [
+      "Rule of Three",
+      "ルール・オブ・スリー"
+    ],
+    "editors": [
+      {
+        "name": "pzprxs",
+        "link": "https://pzprxs.vercel.app/p?ruleofthree"
+      }
+    ]
+  },
+  {
+    "title": "Zabajaba",
+    "names": [
+      "Zabajaba",
+      "ザバジャバ"
+    ],
+    "editors": [
+      {
+        "name": "pzprxs",
+        "link": "https://pzprxs.vercel.app/p?zabajaba"
+      }
+    ]
+  },
+  {
+    "title": "見つめあう矢印",
+    "names": [
+      "Yajirushi",
+      "見つめあう矢印",
+      "みつめあうやじるし"
+    ],
+    "editors": [
+      {
+        "name": "pzprxs",
+        "link": "https://pzprxs.vercel.app/p?yajirushi"
+      }
+    ]
+  },
+  {
+    "title": "見つめあう矢印２",
+    "names": [
+      "Yajirushi 2",
+      "見つめあう矢印２",
+      "みつめあうやじるし２"
+    ],
+    "editors": [
+      {
+        "name": "pzprxs",
+        "link": "https://pzprxs.vercel.app/p?yajirushi2"
+      }
+    ]
+  },
+  {
+    "title": "アローフロー",
+    "names": [
+      "Arrow Flow",
+      "アローフロー"
+    ],
+    "editors": [
+      {
+        "name": "pzprxs",
+        "link": "https://pzprxs.vercel.app/p?arrowflow"
+      }
+    ]
+  },
+  {
+    "title": "ディストピア",
+    "names": [
+      "Distopia",
+      "ディストピア"
+    ],
+    "editors": [
+      {
+        "name": "pzprxs",
+        "link": "https://pzprxs.vercel.app/p?distopia"
+      }
+    ]
+  },
+  {
+    "title": "Edamame",
+    "names": [
+      "Edamame",
+      "エダマメ"
+    ],
+    "editors": [
+      {
+        "name": "pzprxs",
+        "link": "https://pzprxs.vercel.app/p?edamame"
+      }
+    ]
+  },
+  {
+    "title": "Regional Polyominoes",
+    "names": [
+      "Regional Polyominoes",
+      "リージョナルポリオミノ"
+    ],
+    "editors": [
+      {
+        "name": "pzprxs",
+        "link": "https://pzprxs.vercel.app/p?regional-poly"
+      }
+    ]
+  },
+  {
+    "title": "ＯＫさんとＮＯくん",
+    "names": [
+      "Mr. OK and Mr. NO",
+      "ＯＫさんとＮＯくん",
+      "オーケーさんとノーくん"
+    ],
+    "editors": [
+      {
+        "name": "pzprxs",
+        "link": "https://pzprxs.vercel.app/p?mrokmrno"
+      }
+    ]
+  },
+  {
+    "title": "Scrabble",
+    "names": [
+      "Scrabble",
+      "スクラブル"
+    ],
+    "editors": [
+      {
+        "name": "pzprxs",
+        "link": "https://pzprxs.vercel.app/p?scrabble"
       }
     ]
   }
