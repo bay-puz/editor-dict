@@ -1,6 +1,7 @@
 name: Check Dict
 on:
   workflow_dispatch:
+  push:
 
 jobs:
   build:
