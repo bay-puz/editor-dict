@@ -6174,6 +6174,10 @@
       {
         "name": "Kudamono Editor",
         "link": "https://pedros.works/gravel.html?W=8&H=8"
+      },
+     {
+        "name": "pzprxs",
+        "link": "https://pzprxs.vercel.app/p?gravel"
       }
     ]
   },
@@ -8537,19 +8541,6 @@
       {
         "name": "漢字抜け熟語エディター",
         "link": "https://bay-puz.github.io/kanjinukejukugo/"
-      }
-    ]
-  },
-  {
-    "title": "Gravel",
-    "names": [
-      "Gravel",
-      "グラブル"
-    ],
-    "editors": [
-      {
-        "name": "pzprxs",
-        "link": "https://pzprxs.vercel.app/p?gravel"
       }
     ]
   },
