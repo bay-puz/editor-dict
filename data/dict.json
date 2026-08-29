@@ -8526,5 +8526,58 @@
         "link": "https://pzprxs.vercel.app/p?scrabble"
       }
     ]
+  },
+  {
+    "title": "漢字抜け熟語",
+    "names": [
+      "漢字抜け熟語",
+      "かんじぬけじゅくご"
+    ],
+    "editors": [
+      {
+        "name": "漢字抜け熟語エディター",
+        "link": "https://bay-puz.github.io/kanjinukejukugo/"
+      }
+    ]
+  },
+  {
+    "title": "Gravel",
+    "names": [
+      "Gravel",
+      "グラブル"
+    ],
+    "editors": [
+      {
+        "name": "pzprxs",
+        "link": "https://pzprxs.vercel.app/p?gravel"
+      }
+    ]
+  },
+  {
+    "title": "えるりんぐ",
+    "names": [
+      "えるりんぐ",
+      "L-Ring"
+    ],
+    "editors": [
+      {
+        "name": "pzprxs",
+        "link": "https://pzprxs.vercel.app/p?lring"
+      }
+    ]
+  },
+  {
+    "title": "星座になれたら",
+    "names": [
+      "星座になれたら",
+      "せいざになれたら",
+      "Seiza"
+    ],
+    "editors": [
+      {
+        "name": "pzprxs",
+        "link": "https://pzprxs.vercel.app/p?seiza"
+      }
+    ]
   }
 ]
