@@ -66,10 +66,10 @@ def check_doubled(targets: list) -> set:
 
 def main():
     parser = argparse.ArgumentParser()
-    parser.add_argument('--json_file', type=str, default="data/dict.json")
+    parser.add_argument('--file', type=str, default="data/dict.json")
     args = parser.parse_args()
 
-    data = load(args.json_file)
+    data = load(args.file)
     if check(data):
         print("OK")
     else:
