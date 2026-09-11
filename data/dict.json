@@ -6179,7 +6179,7 @@
         "name": "Kudamono Editor",
         "link": "https://pedros.works/gravel.html?W=8&H=8"
       },
-     {
+      {
         "name": "pzprxs",
         "link": "https://pzprxs.vercel.app/p?gravel"
       }
@@ -7642,9 +7642,9 @@
   {
     "title": "アイランド",
     "names": [
+      "Inaba's Island",
       "Island",
-      "アイランド",
-      "Inaba's Island"
+      "アイランド"
     ],
     "editors": [
       {
@@ -7710,8 +7710,8 @@
     "title": "隅角チェーン",
     "names": [
       "Corner Chain",
-      "隅角チェーン",
-      "ぐうかくチェーン"
+      "ぐうかくチェーン",
+      "隅角チェーン"
     ],
     "editors": [
       {
@@ -7868,8 +7868,8 @@
     "title": "余計文字クロス",
     "names": [
       "Yokeimoji Cross",
-      "余計文字クロス",
-      "よけいもじクロス"
+      "よけいもじクロス",
+      "余計文字クロス"
     ],
     "editors": [
       {
@@ -8155,8 +8155,8 @@
     "title": "Energy Walk",
     "names": [
       "Energy Walk",
-      "エネルギーウォーク",
-      "エナジーウォーク"
+      "エナジーウォーク",
+      "エネルギーウォーク"
     ],
     "editors": [
       {
@@ -8195,8 +8195,8 @@
     "title": "時限爆弾",
     "names": [
       "Time Bomb",
-      "時限爆弾",
-      "じげんばくだん"
+      "じげんばくだん",
+      "時限爆弾"
     ],
     "editors": [
       {
@@ -8209,8 +8209,8 @@
     "title": "猪突猛進",
     "names": [
       "Blind Rush",
-      "猪突猛進",
-      "ちょとつもうしん"
+      "ちょとつもうしん",
+      "猪突猛進"
     ],
     "editors": [
       {
@@ -8262,8 +8262,8 @@
     "title": "宮城県仙台市",
     "names": [
       "Sendai-Miyagi",
-      "宮城県仙台市",
-      "みやぎけんせんだいし"
+      "みやぎけんせんだいし",
+      "宮城県仙台市"
     ],
     "editors": [
       {
@@ -8432,8 +8432,8 @@
     "title": "見つめあう矢印",
     "names": [
       "Yajirushi",
-      "見つめあう矢印",
-      "みつめあうやじるし"
+      "みつめあうやじるし",
+      "見つめあう矢印"
     ],
     "editors": [
       {
@@ -8446,8 +8446,8 @@
     "title": "見つめあう矢印２",
     "names": [
       "Yajirushi 2",
-      "見つめあう矢印２",
-      "みつめあうやじるし２"
+      "みつめあうやじるし２",
+      "見つめあう矢印２"
     ],
     "editors": [
       {
@@ -8512,8 +8512,8 @@
     "title": "ＯＫさんとＮＯくん",
     "names": [
       "Mr. OK and Mr. NO",
-      "ＯＫさんとＮＯくん",
-      "オーケーさんとノーくん"
+      "オーケーさんとノーくん",
+      "ＯＫさんとＮＯくん"
     ],
     "editors": [
       {
@@ -8538,8 +8538,8 @@
   {
     "title": "漢字抜け熟語",
     "names": [
-      "漢字抜け熟語",
-      "かんじぬけじゅくご"
+      "かんじぬけじゅくご",
+      "漢字抜け熟語"
     ],
     "editors": [
       {
@@ -8551,8 +8551,8 @@
   {
     "title": "えるりんぐ",
     "names": [
-      "えるりんぐ",
-      "L-Ring"
+      "L-Ring",
+      "えるりんぐ"
     ],
     "editors": [
       {
@@ -8564,9 +8564,9 @@
   {
     "title": "星座になれたら",
     "names": [
-      "星座になれたら",
+      "Seiza",
       "せいざになれたら",
-      "Seiza"
+      "星座になれたら"
     ],
     "editors": [
       {
@@ -8585,6 +8585,19 @@
       {
         "name": "pzprxs",
         "link": "https://pzprxs.vercel.app/p?jatahoku"
+      }
+    ]
+  },
+  {
+    "title": "へやジリみさき",
+    "names": [
+      "Heyajirimisaki",
+      "へやジリみさき"
+    ],
+    "editors": [
+      {
+        "name": "pzprxs",
+        "link": "https://pzprxs.vercel.app/p?heyajirimisaki"
       }
     ]
   }
