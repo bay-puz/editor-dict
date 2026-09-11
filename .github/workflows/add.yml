@@ -27,9 +27,14 @@ jobs:
           pip install beautifulsoup4
       - name: update date
         run: date +"%Y年%-m月%-d日" > data/updated.txt
-      - name: add new editor to dict.json
+      - name: add new editor
         run: |
           python data/make.py --base data/dict.json --names "${{ inputs.names}}" --editor "${{ inputs.editor }}" --link "${{ inputs.link }}" | jq . > new.json
+      - name: check
+        run: |
+          python check.py --file new.json
+      - name: update dict.json
+        run: |
           mv new.json data/dict.json
       - name: git push
         run: |
