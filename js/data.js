@@ -45,7 +45,7 @@ function setResult(name, editor) {
 
 function setEmptyResult() {
     const message = "専用エディタが見つかりません\n汎用エディタ："
-    const link = "https://opt-pan.github.io/penpa-edit/"
+    const link = "https://swaroopg92.github.io/penpa-edit/"
     var linkElement = makeLinkElement(link)
 
     var resultElement = document.getElementById("result")
