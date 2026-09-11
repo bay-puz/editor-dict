@@ -32,7 +32,7 @@ jobs:
           python data/make.py --base data/dict.json --names "${{ inputs.names}}" --editor "${{ inputs.editor }}" --link "${{ inputs.link }}" | jq . > new.json
       - name: check
         run: |
-          python check.py --file new.json
+          python data/check.py --file new.json
       - name: update dict.json
         run: |
           mv new.json data/dict.json
